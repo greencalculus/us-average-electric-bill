@@ -10,6 +10,8 @@ What US homes pay for electricity each month, for every state and the US, every 
 
 Read with charts, a state picker and an "is my bill high?" check: https://greencalculus.com/data/average-electric-bill-by-state/
 
+By company rather than by state: [US utility electricity prices, monthly since 1990](https://github.com/greencalculus/us-utility-electricity-rates) ([DOI 10.5281/zenodo.24071582](https://doi.org/10.5281/zenodo.24071582), [live table](https://greencalculus.com/data/utility-rates/)).
+
 ## Headline: 12 months to August 2026
 
 | | Monthly bill | kWh a month | Price |
