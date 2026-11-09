@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below. The bills come from the US Energy Information Administration (EIA-861M); the home and end-use shapes from EIA's 2020 Residential Energy Consumption Survey."
+type: dataset
+title: "Average Electric Bill by State, Home Type and End Use (US, monthly since 2010)"
+abstract: >
+  What US homes pay for electricity each month, for every state and the US, every month since January 2010,
+  from the utilities' own returns to the US Energy Information Administration (EIA-861M: residential revenue
+  divided by residential customers). Each bill is split by type of home, bedrooms, floor area, people, heating
+  fuel and tenure, and by end use, using ratios and shares from EIA's 2020 Residential Energy Consumption Survey
+  microdata (18,496 homes) with jackknife standard errors; the change since 2010 is split exactly into a price
+  part and a use part. Includes a check of the survey against the utility returns for 2020.
+authors:
+  - family-names: Say
+    given-names: Jeremiah
+    affiliation: "GreenCalculus"
+    orcid: "https://orcid.org/0009-0009-2025-7691"
+doi: "10.5281/zenodo.24067456"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24067456"
+    description: "Concept DOI (always the latest version)"
+  - type: doi
+    value: "10.5281/zenodo.24067457"
+    description: "Version 2026.11.09 (EIA-861M to August 2026)"
+  - type: url
+    value: "https://greencalculus.com/data/average-electric-bill-by-state/"
+    description: "Live page, refreshed monthly"
+version: "2026.11.09"
+date-released: "2026-11-09"
+url: "https://greencalculus.com/data/average-electric-bill-by-state/"
+repository-code: "https://github.com/greencalculus/us-average-electric-bill"
+license: CC-BY-4.0
+keywords:
+  - average electric bill
+  - average electric bill by state
+  - electricity bill
+  - residential electricity
+  - electricity prices
+  - EIA-861M
+  - RECS 2020
+  - household energy
+  - end use
+  - energy affordability
+references:
+  - type: dataset
+    title: "Form EIA-861M, Sales and revenue (monthly, states)"
+    authors:
+      - name: "U.S. Energy Information Administration"
+    url: "https://www.eia.gov/electricity/data/eia861m/"
+  - type: dataset
+    title: "2020 Residential Energy Consumption Survey, public microdata"
+    authors:
+      - name: "U.S. Energy Information Administration"
+    url: "https://www.eia.gov/consumption/residential/data/2020/index.php?view=microdata"

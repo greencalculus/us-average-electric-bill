@@ -1,0 +1,1471 @@
+state,group,home,typical_monthly_bill_usd,ratio_to_average_home,ratio_area,relative_standard_error_pct,homes_surveyed,quality,survey_year,months_to
+US,"Type of home","Detached house",180.98,1.1469,US,0.3,12319,ok,2020,2026-08
+US,"Type of home","Townhouse, duplex or row house",135.36,0.8578,US,1.5,1751,ok,2020,2026-08
+US,"Type of home","Apartment, building of 2 to 4 units",113.19,0.7173,US,1.9,1013,ok,2020,2026-08
+US,"Type of home","Apartment, building of 5 or more units",100.96,0.6398,US,1.3,2439,ok,2020,2026-08
+US,"Type of home","Mobile home",171.81,1.0888,US,1.6,974,ok,2020,2026-08
+US,"Apartments by bedrooms",Studio,80.74,0.5117,US,5.4,152,ok,2020,2026-08
+US,"Apartments by bedrooms","1 bedroom",85.92,0.5445,US,1.7,1347,ok,2020,2026-08
+US,"Apartments by bedrooms","2 bedrooms",112.71,0.7143,US,1.5,1573,ok,2020,2026-08
+US,"Apartments by bedrooms","3 or more bedrooms",146.59,0.929,US,2.6,380,ok,2020,2026-08
+US,"Houses by bedrooms","1 or 2 bedrooms",136,0.8619,US,1.2,2668,ok,2020,2026-08
+US,"Houses by bedrooms","3 bedrooms",170.55,1.0808,US,0.5,6767,ok,2020,2026-08
+US,"Houses by bedrooms","4 bedrooms",201.95,1.2798,US,0.9,3545,ok,2020,2026-08
+US,"Houses by bedrooms","5 or more bedrooms",240.95,1.527,US,2,1090,ok,2020,2026-08
+US,"Houses by size","Under 1,000 sq ft",130.58,0.8275,US,2.1,1080,ok,2020,2026-08
+US,"Houses by size","1,000 to 1,499 sq ft",147.9,0.9373,US,1,3602,ok,2020,2026-08
+US,"Houses by size","1,500 to 1,999 sq ft",166.82,1.0572,US,0.7,3753,ok,2020,2026-08
+US,"Houses by size","2,000 to 2,499 sq ft",192.04,1.217,US,1.1,2507,ok,2020,2026-08
+US,"Houses by size","2,500 to 2,999 sq ft",207.47,1.3148,US,1.4,1405,ok,2020,2026-08
+US,"Houses by size","3,000 sq ft or more",254.52,1.613,US,1.3,1723,ok,2020,2026-08
+US,"People in the home","1 person",109.84,0.6961,US,0.8,4752,ok,2020,2026-08
+US,"People in the home","2 people",158.19,1.0025,US,0.6,7026,ok,2020,2026-08
+US,"People in the home","3 people",182.22,1.1548,US,0.9,2718,ok,2020,2026-08
+US,"People in the home","4 people",193.52,1.2264,US,1.2,2376,ok,2020,2026-08
+US,"People in the home","5 or more people",212.47,1.3465,US,1.4,1624,ok,2020,2026-08
+US,"Main heating","Heated by electricity",179.92,1.1402,US,0.6,5699,ok,2020,2026-08
+US,"Main heating","Heated by natural gas",142.11,0.9006,US,0.4,9595,ok,2020,2026-08
+US,"Main heating","Heated by propane, oil, wood or other",168.51,1.0679,US,1.1,2451,ok,2020,2026-08
+US,"Main heating","No heating",142,0.8999,US,2.5,751,ok,2020,2026-08
+US,"Own or rent",Owned,175.33,1.1111,US,0.3,13450,ok,2020,2026-08
+US,"Own or rent",Rented,122.01,0.7732,US,0.9,5046,ok,2020,2026-08
+HI,"Type of home","Detached house",270.15,1.1865,Pacific,0.8,1585,ok,2020,2026-08
+HI,"Type of home","Townhouse, duplex or row house",209.24,0.919,Pacific,5.1,257,ok,2020,2026-08
+HI,"Type of home","Apartment, building of 2 to 4 units",160.43,0.7046,Pacific,4.8,132,ok,2020,2026-08
+HI,"Type of home","Apartment, building of 5 or more units",146.27,0.6424,Pacific,3,420,ok,2020,2026-08
+HI,"Type of home","Mobile home",221.61,0.9733,Pacific,4.2,103,ok,2020,2026-08
+HI,"Apartments by bedrooms",Studio,102.05,0.4482,Pacific,9.2,39,ok,2020,2026-08
+HI,"Apartments by bedrooms","1 bedroom",123.72,0.5434,Pacific,3.8,212,ok,2020,2026-08
+HI,"Apartments by bedrooms","2 bedrooms",166.71,0.7322,Pacific,4.2,262,ok,2020,2026-08
+HI,"Apartments by bedrooms","3 or more bedrooms",265.09,1.1643,Pacific,9.4,39,ok,2020,2026-08
+HI,"Houses by bedrooms","1 or 2 bedrooms",206.99,0.9091,Pacific,3.9,365,ok,2020,2026-08
+HI,"Houses by bedrooms","3 bedrooms",261.18,1.1471,Pacific,1.7,882,ok,2020,2026-08
+HI,"Houses by bedrooms","4 bedrooms",297.02,1.3045,Pacific,3.2,458,ok,2020,2026-08
+HI,"Houses by bedrooms","5 or more bedrooms",340.73,1.4965,Pacific,6.4,137,ok,2020,2026-08
+HI,"Houses by size","Under 1,000 sq ft",182.15,0.8,Pacific,6.1,178,ok,2020,2026-08
+HI,"Houses by size","1,000 to 1,499 sq ft",225.8,0.9917,Pacific,2.6,468,ok,2020,2026-08
+HI,"Houses by size","1,500 to 1,999 sq ft",252.41,1.1086,Pacific,2.5,517,ok,2020,2026-08
+HI,"Houses by size","2,000 to 2,499 sq ft",310.2,1.3624,Pacific,3.3,330,ok,2020,2026-08
+HI,"Houses by size","2,500 to 2,999 sq ft",319.22,1.402,Pacific,5.1,170,ok,2020,2026-08
+HI,"Houses by size","3,000 sq ft or more",368.62,1.619,Pacific,4.5,179,ok,2020,2026-08
+HI,"People in the home","1 person",147.04,0.6458,Pacific,2.9,593,ok,2020,2026-08
+HI,"People in the home","2 people",232.83,1.0226,Pacific,2.6,862,ok,2020,2026-08
+HI,"People in the home","3 people",273.29,1.2003,Pacific,3.1,377,ok,2020,2026-08
+HI,"People in the home","4 people",267.28,1.1739,Pacific,3.4,384,ok,2020,2026-08
+HI,"People in the home","5 or more people",277.14,1.2172,Pacific,3.9,281,ok,2020,2026-08
+HI,"Main heating","Heated by electricity",233.45,1.0253,Pacific,2.2,621,ok,2020,2026-08
+HI,"Main heating","Heated by natural gas",227,0.997,Pacific,1.4,1280,ok,2020,2026-08
+HI,"Main heating","Heated by propane, oil, wood or other",280.44,1.2317,Pacific,5.7,193,ok,2020,2026-08
+HI,"Main heating","No heating",194.97,0.8563,Pacific,4.5,403,ok,2020,2026-08
+HI,"Own or rent",Owned,261.41,1.1481,Pacific,1,1668,ok,2020,2026-08
+HI,"Own or rent",Rented,177.53,0.7797,Pacific,2.2,829,ok,2020,2026-08
+MD,"Type of home","Detached house",232.32,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+MD,"Type of home","Townhouse, duplex or row house",160.07,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+MD,"Type of home","Apartment, building of 2 to 4 units",136.99,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+MD,"Type of home","Apartment, building of 5 or more units",125.58,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+MD,"Type of home","Mobile home",224.84,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+MD,"Apartments by bedrooms",Studio,114.92,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+MD,"Apartments by bedrooms","1 bedroom",107.09,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+MD,"Apartments by bedrooms","2 bedrooms",135.85,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+MD,"Apartments by bedrooms","3 or more bedrooms",174.11,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+MD,"Houses by bedrooms","1 or 2 bedrooms",165.29,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+MD,"Houses by bedrooms","3 bedrooms",213.69,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+MD,"Houses by bedrooms","4 bedrooms",260.66,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+MD,"Houses by bedrooms","5 or more bedrooms",302.5,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+MD,"Houses by size","Under 1,000 sq ft",170.65,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+MD,"Houses by size","1,000 to 1,499 sq ft",182.18,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+MD,"Houses by size","1,500 to 1,999 sq ft",206.07,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+MD,"Houses by size","2,000 to 2,499 sq ft",231.05,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+MD,"Houses by size","2,500 to 2,999 sq ft",265.56,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+MD,"Houses by size","3,000 sq ft or more",318.44,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+MD,"People in the home","1 person",146.68,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+MD,"People in the home","2 people",199.55,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+MD,"People in the home","3 people",237.91,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+MD,"People in the home","4 people",247.31,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+MD,"People in the home","5 or more people",278.57,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+MD,"Main heating","Heated by electricity",218.89,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+MD,"Main heating","Heated by natural gas",177.99,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+MD,"Main heating","Heated by propane, oil, wood or other",193.79,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+MD,"Main heating","No heating",180.26,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+MD,"Own or rent",Owned,221.28,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+MD,"Own or rent",Rented,159.3,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+CT,"Type of home","Detached house",228.58,1.1869,"New England",1,1096,ok,2020,2026-08
+CT,"Type of home","Townhouse, duplex or row house",200.23,1.0397,"New England",5.4,148,ok,2020,2026-08
+CT,"Type of home","Apartment, building of 2 to 4 units",144.11,0.7483,"New England",3.6,164,ok,2020,2026-08
+CT,"Type of home","Apartment, building of 5 or more units",127.55,0.6623,"New England",4.4,217,ok,2020,2026-08
+CT,"Type of home","Mobile home",175.58,0.9117,"New England",8.3,55,ok,2020,2026-08
+CT,"Apartments by bedrooms","1 bedroom",111.1,0.5769,"New England",5,138,ok,2020,2026-08
+CT,"Apartments by bedrooms","2 bedrooms",140.72,0.7307,"New England",4.6,154,ok,2020,2026-08
+CT,"Apartments by bedrooms","3 or more bedrooms",167.97,0.8722,"New England",5.7,76,ok,2020,2026-08
+CT,"Houses by bedrooms","1 or 2 bedrooms",171.71,0.8916,"New England",4.4,281,ok,2020,2026-08
+CT,"Houses by bedrooms","3 bedrooms",216.68,1.1251,"New England",2.3,572,ok,2020,2026-08
+CT,"Houses by bedrooms","4 bedrooms",267.58,1.3894,"New England",3.4,317,ok,2020,2026-08
+CT,"Houses by bedrooms","5 or more bedrooms",306.18,1.5898,"New England",7.5,74,ok,2020,2026-08
+CT,"Houses by size","Under 1,000 sq ft",182.46,0.9474,"New England",7.3,87,ok,2020,2026-08
+CT,"Houses by size","1,000 to 1,499 sq ft",190.7,0.9902,"New England",3.4,345,ok,2020,2026-08
+CT,"Houses by size","1,500 to 1,999 sq ft",210.11,1.091,"New England",2.9,334,ok,2020,2026-08
+CT,"Houses by size","2,000 to 2,499 sq ft",227.08,1.1791,"New England",4.1,217,ok,2020,2026-08
+CT,"Houses by size","2,500 to 2,999 sq ft",257.74,1.3383,"New England",4.8,119,ok,2020,2026-08
+CT,"Houses by size","3,000 sq ft or more",354.26,1.8395,"New England",4.1,142,ok,2020,2026-08
+CT,"People in the home","1 person",127.7,0.6631,"New England",3.2,416,ok,2020,2026-08
+CT,"People in the home","2 people",189.37,0.9833,"New England",2.4,662,ok,2020,2026-08
+CT,"People in the home","3 people",222.27,1.1541,"New England",4.1,270,ok,2020,2026-08
+CT,"People in the home","4 people",248.25,1.289,"New England",4.5,204,ok,2020,2026-08
+CT,"People in the home","5 or more people",268.31,1.3932,"New England",6.1,128,ok,2020,2026-08
+CT,"Main heating","Heated by electricity",199.77,1.0373,"New England",4.2,200,ok,2020,2026-08
+CT,"Main heating","Heated by natural gas",171.15,0.8887,"New England",2.2,619,ok,2020,2026-08
+CT,"Main heating","Heated by propane, oil, wood or other",211.73,1.0994,"New England",1.9,857,ok,2020,2026-08
+CT,"Own or rent",Owned,219.26,1.1385,"New England",1.1,1264,ok,2020,2026-08
+CT,"Own or rent",Rented,141.51,0.7348,"New England",3.3,416,ok,2020,2026-08
+AL,"Type of home","Detached house",202.29,1.0799,"East South Central",0.7,953,ok,2020,2026-08
+AL,"Type of home","Townhouse, duplex or row house",148.11,0.7907,"East South Central",4.4,88,ok,2020,2026-08
+AL,"Type of home","Apartment, building of 2 to 4 units",121.29,0.6475,"East South Central",5.9,62,ok,2020,2026-08
+AL,"Type of home","Apartment, building of 5 or more units",109.36,0.5838,"East South Central",4.1,105,ok,2020,2026-08
+AL,"Type of home","Mobile home",216.51,1.1558,"East South Central",3.7,135,ok,2020,2026-08
+AL,"Apartments by bedrooms","1 bedroom",92.39,0.4932,"East South Central",5.5,56,ok,2020,2026-08
+AL,"Apartments by bedrooms","2 bedrooms",121.23,0.6472,"East South Central",4.3,91,ok,2020,2026-08
+AL,"Houses by bedrooms","1 or 2 bedrooms",159.34,0.8506,"East South Central",3.1,200,ok,2020,2026-08
+AL,"Houses by bedrooms","3 bedrooms",193.54,1.0332,"East South Central",1.7,593,ok,2020,2026-08
+AL,"Houses by bedrooms","4 bedrooms",231.49,1.2358,"East South Central",2.5,202,ok,2020,2026-08
+AL,"Houses by bedrooms","5 or more bedrooms",312.38,1.6676,"East South Central",11.5,46,ok,2020,2026-08
+AL,"Houses by size","Under 1,000 sq ft",160.27,0.8556,"East South Central",4.9,85,ok,2020,2026-08
+AL,"Houses by size","1,000 to 1,499 sq ft",168.1,0.8974,"East South Central",2.9,289,ok,2020,2026-08
+AL,"Houses by size","1,500 to 1,999 sq ft",189.03,1.0091,"East South Central",2.2,275,ok,2020,2026-08
+AL,"Houses by size","2,000 to 2,499 sq ft",209.09,1.1162,"East South Central",3.2,179,ok,2020,2026-08
+AL,"Houses by size","2,500 to 2,999 sq ft",252.71,1.3491,"East South Central",4.2,88,ok,2020,2026-08
+AL,"Houses by size","3,000 sq ft or more",287.24,1.5334,"East South Central",5.2,125,ok,2020,2026-08
+AL,"People in the home","1 person",145.87,0.7787,"East South Central",2.5,370,ok,2020,2026-08
+AL,"People in the home","2 people",183.84,0.9814,"East South Central",1.9,529,ok,2020,2026-08
+AL,"People in the home","3 people",216.15,1.1539,"East South Central",3.9,201,ok,2020,2026-08
+AL,"People in the home","4 people",225.48,1.2037,"East South Central",5.1,130,ok,2020,2026-08
+AL,"People in the home","5 or more people",258.99,1.3826,"East South Central",2.9,113,ok,2020,2026-08
+AL,"Main heating","Heated by electricity",201.89,1.0778,"East South Central",1,743,ok,2020,2026-08
+AL,"Main heating","Heated by natural gas",165.78,0.885,"East South Central",2.1,502,ok,2020,2026-08
+AL,"Main heating","Heated by propane, oil, wood or other",178.1,0.9508,"East South Central",4.4,90,ok,2020,2026-08
+AL,"Own or rent",Owned,204.89,1.0938,"East South Central",0.7,980,ok,2020,2026-08
+AL,"Own or rent",Rented,145.85,0.7786,"East South Central",2.5,363,ok,2020,2026-08
+MA,"Type of home","Detached house",217.07,1.1869,"New England",1,1096,ok,2020,2026-08
+MA,"Type of home","Townhouse, duplex or row house",190.15,1.0397,"New England",5.4,148,ok,2020,2026-08
+MA,"Type of home","Apartment, building of 2 to 4 units",136.85,0.7483,"New England",3.6,164,ok,2020,2026-08
+MA,"Type of home","Apartment, building of 5 or more units",121.12,0.6623,"New England",4.4,217,ok,2020,2026-08
+MA,"Type of home","Mobile home",166.74,0.9117,"New England",8.3,55,ok,2020,2026-08
+MA,"Apartments by bedrooms","1 bedroom",105.51,0.5769,"New England",5,138,ok,2020,2026-08
+MA,"Apartments by bedrooms","2 bedrooms",133.63,0.7307,"New England",4.6,154,ok,2020,2026-08
+MA,"Apartments by bedrooms","3 or more bedrooms",159.51,0.8722,"New England",5.7,76,ok,2020,2026-08
+MA,"Houses by bedrooms","1 or 2 bedrooms",163.06,0.8916,"New England",4.4,281,ok,2020,2026-08
+MA,"Houses by bedrooms","3 bedrooms",205.76,1.1251,"New England",2.3,572,ok,2020,2026-08
+MA,"Houses by bedrooms","4 bedrooms",254.1,1.3894,"New England",3.4,317,ok,2020,2026-08
+MA,"Houses by bedrooms","5 or more bedrooms",290.75,1.5898,"New England",7.5,74,ok,2020,2026-08
+MA,"Houses by size","Under 1,000 sq ft",173.27,0.9474,"New England",7.3,87,ok,2020,2026-08
+MA,"Houses by size","1,000 to 1,499 sq ft",181.09,0.9902,"New England",3.4,345,ok,2020,2026-08
+MA,"Houses by size","1,500 to 1,999 sq ft",199.53,1.091,"New England",2.9,334,ok,2020,2026-08
+MA,"Houses by size","2,000 to 2,499 sq ft",215.64,1.1791,"New England",4.1,217,ok,2020,2026-08
+MA,"Houses by size","2,500 to 2,999 sq ft",244.75,1.3383,"New England",4.8,119,ok,2020,2026-08
+MA,"Houses by size","3,000 sq ft or more",336.42,1.8395,"New England",4.1,142,ok,2020,2026-08
+MA,"People in the home","1 person",121.27,0.6631,"New England",3.2,416,ok,2020,2026-08
+MA,"People in the home","2 people",179.83,0.9833,"New England",2.4,662,ok,2020,2026-08
+MA,"People in the home","3 people",211.07,1.1541,"New England",4.1,270,ok,2020,2026-08
+MA,"People in the home","4 people",235.74,1.289,"New England",4.5,204,ok,2020,2026-08
+MA,"People in the home","5 or more people",254.8,1.3932,"New England",6.1,128,ok,2020,2026-08
+MA,"Main heating","Heated by electricity",189.71,1.0373,"New England",4.2,200,ok,2020,2026-08
+MA,"Main heating","Heated by natural gas",162.53,0.8887,"New England",2.2,619,ok,2020,2026-08
+MA,"Main heating","Heated by propane, oil, wood or other",201.06,1.0994,"New England",1.9,857,ok,2020,2026-08
+MA,"Own or rent",Owned,208.21,1.1385,"New England",1.1,1264,ok,2020,2026-08
+MA,"Own or rent",Rented,134.38,0.7348,"New England",3.3,416,ok,2020,2026-08
+TX,"Type of home","Detached house",197.99,1.1127,"West South Central",0.6,1320,ok,2020,2026-08
+TX,"Type of home","Townhouse, duplex or row house",145.98,0.8204,"West South Central",5.6,100,ok,2020,2026-08
+TX,"Type of home","Apartment, building of 2 to 4 units",135.02,0.7588,"West South Central",5.2,84,ok,2020,2026-08
+TX,"Type of home","Apartment, building of 5 or more units",114.07,0.6411,"West South Central",3.4,189,ok,2020,2026-08
+TX,"Type of home","Mobile home",183.38,1.0306,"West South Central",3.5,134,ok,2020,2026-08
+TX,"Apartments by bedrooms","1 bedroom",94.84,0.533,"West South Central",5,109,ok,2020,2026-08
+TX,"Apartments by bedrooms","2 bedrooms",134.57,0.7563,"West South Central",3.2,136,ok,2020,2026-08
+TX,"Houses by bedrooms","1 or 2 bedrooms",152.67,0.858,"West South Central",3.9,242,ok,2020,2026-08
+TX,"Houses by bedrooms","3 bedrooms",182.51,1.0257,"West South Central",1.4,757,ok,2020,2026-08
+TX,"Houses by bedrooms","4 bedrooms",236.46,1.3289,"West South Central",2.3,350,ok,2020,2026-08
+TX,"Houses by bedrooms","5 or more bedrooms",285.51,1.6046,"West South Central",7.6,71,ok,2020,2026-08
+TX,"Houses by size","Under 1,000 sq ft",149.77,0.8417,"West South Central",5.5,133,ok,2020,2026-08
+TX,"Houses by size","1,000 to 1,499 sq ft",158.77,0.8923,"West South Central",2.3,314,ok,2020,2026-08
+TX,"Houses by size","1,500 to 1,999 sq ft",185.51,1.0426,"West South Central",2.2,371,ok,2020,2026-08
+TX,"Houses by size","2,000 to 2,499 sq ft",207.1,1.1639,"West South Central",2.8,270,ok,2020,2026-08
+TX,"Houses by size","2,500 to 2,999 sq ft",220.69,1.2403,"West South Central",2.8,143,ok,2020,2026-08
+TX,"Houses by size","3,000 sq ft or more",286.95,1.6127,"West South Central",3.3,189,ok,2020,2026-08
+TX,"People in the home","1 person",125.23,0.7038,"West South Central",2.5,426,ok,2020,2026-08
+TX,"People in the home","2 people",177.4,0.997,"West South Central",1.4,679,ok,2020,2026-08
+TX,"People in the home","3 people",192.68,1.0829,"West South Central",3.1,280,ok,2020,2026-08
+TX,"People in the home","4 people",218.15,1.226,"West South Central",3.3,265,ok,2020,2026-08
+TX,"People in the home","5 or more people",229.29,1.2886,"West South Central",4.3,177,ok,2020,2026-08
+TX,"Main heating","Heated by electricity",185.57,1.0429,"West South Central",1.2,877,ok,2020,2026-08
+TX,"Main heating","Heated by natural gas",170.99,0.961,"West South Central",1.5,818,ok,2020,2026-08
+TX,"Main heating","Heated by propane, oil, wood or other",162.69,0.9143,"West South Central",5.4,74,ok,2020,2026-08
+TX,"Main heating","No heating",166.12,0.9336,"West South Central",9.7,58,ok,2020,2026-08
+TX,"Own or rent",Owned,196.42,1.1039,"West South Central",0.8,1322,ok,2020,2026-08
+TX,"Own or rent",Rented,139.62,0.7847,"West South Central",2.1,505,ok,2020,2026-08
+VA,"Type of home","Detached house",203.75,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+VA,"Type of home","Townhouse, duplex or row house",140.38,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+VA,"Type of home","Apartment, building of 2 to 4 units",120.14,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+VA,"Type of home","Apartment, building of 5 or more units",110.13,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+VA,"Type of home","Mobile home",197.19,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+VA,"Apartments by bedrooms",Studio,100.78,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+VA,"Apartments by bedrooms","1 bedroom",93.92,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+VA,"Apartments by bedrooms","2 bedrooms",119.15,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+VA,"Apartments by bedrooms","3 or more bedrooms",152.69,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+VA,"Houses by bedrooms","1 or 2 bedrooms",144.96,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+VA,"Houses by bedrooms","3 bedrooms",187.41,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+VA,"Houses by bedrooms","4 bedrooms",228.61,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+VA,"Houses by bedrooms","5 or more bedrooms",265.29,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+VA,"Houses by size","Under 1,000 sq ft",149.66,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+VA,"Houses by size","1,000 to 1,499 sq ft",159.77,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+VA,"Houses by size","1,500 to 1,999 sq ft",180.72,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+VA,"Houses by size","2,000 to 2,499 sq ft",202.63,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+VA,"Houses by size","2,500 to 2,999 sq ft",232.9,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+VA,"Houses by size","3,000 sq ft or more",279.27,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+VA,"People in the home","1 person",128.64,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+VA,"People in the home","2 people",175.01,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+VA,"People in the home","3 people",208.65,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+VA,"People in the home","4 people",216.9,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+VA,"People in the home","5 or more people",244.31,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+VA,"Main heating","Heated by electricity",191.97,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+VA,"Main heating","Heated by natural gas",156.1,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+VA,"Main heating","Heated by propane, oil, wood or other",169.96,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+VA,"Main heating","No heating",158.09,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+VA,"Own or rent",Owned,194.07,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+VA,"Own or rent",Rented,139.71,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+PA,"Type of home","Detached house",206.68,1.1842,"Middle Atlantic",1.1,1131,ok,2020,2026-08
+PA,"Type of home","Townhouse, duplex or row house",168.63,0.9662,"Middle Atlantic",4,239,ok,2020,2026-08
+PA,"Type of home","Apartment, building of 2 to 4 units",143.67,0.8232,"Middle Atlantic",5.1,179,ok,2020,2026-08
+PA,"Type of home","Apartment, building of 5 or more units",130.9,0.75,"Middle Atlantic",2.7,382,ok,2020,2026-08
+PA,"Type of home","Mobile home",165.82,0.9501,"Middle Atlantic",8.6,46,ok,2020,2026-08
+PA,"Apartments by bedrooms","1 bedroom",107.72,0.6172,"Middle Atlantic",3.5,246,ok,2020,2026-08
+PA,"Apartments by bedrooms","2 bedrooms",143.8,0.8239,"Middle Atlantic",4.5,215,ok,2020,2026-08
+PA,"Apartments by bedrooms","3 or more bedrooms",199.28,1.1418,"Middle Atlantic",5.6,79,ok,2020,2026-08
+PA,"Houses by bedrooms","1 or 2 bedrooms",150.24,0.8608,"Middle Atlantic",3.5,265,ok,2020,2026-08
+PA,"Houses by bedrooms","3 bedrooms",189.82,1.0876,"Middle Atlantic",1.8,619,ok,2020,2026-08
+PA,"Houses by bedrooms","4 bedrooms",225.11,1.2898,"Middle Atlantic",2.4,380,ok,2020,2026-08
+PA,"Houses by bedrooms","5 or more bedrooms",306.95,1.7587,"Middle Atlantic",6.2,106,ok,2020,2026-08
+PA,"Houses by size","Under 1,000 sq ft",153.8,0.8812,"Middle Atlantic",8,92,ok,2020,2026-08
+PA,"Houses by size","1,000 to 1,499 sq ft",163.48,0.9367,"Middle Atlantic",2.6,372,ok,2020,2026-08
+PA,"Houses by size","1,500 to 1,999 sq ft",191.51,1.0973,"Middle Atlantic",2.8,387,ok,2020,2026-08
+PA,"Houses by size","2,000 to 2,499 sq ft",220.13,1.2613,"Middle Atlantic",4.4,233,ok,2020,2026-08
+PA,"Houses by size","2,500 to 2,999 sq ft",235.46,1.3491,"Middle Atlantic",4.2,149,ok,2020,2026-08
+PA,"Houses by size","3,000 sq ft or more",306.4,1.7556,"Middle Atlantic",4.5,137,ok,2020,2026-08
+PA,"People in the home","1 person",114.95,0.6586,"Middle Atlantic",2.1,503,ok,2020,2026-08
+PA,"People in the home","2 people",170.48,0.9768,"Middle Atlantic",1.9,736,ok,2020,2026-08
+PA,"People in the home","3 people",197.79,1.1333,"Middle Atlantic",2.2,322,ok,2020,2026-08
+PA,"People in the home","4 people",238.91,1.3689,"Middle Atlantic",3.6,265,ok,2020,2026-08
+PA,"People in the home","5 or more people",261.04,1.4957,"Middle Atlantic",5.2,151,ok,2020,2026-08
+PA,"Main heating","Heated by electricity",210.64,1.2069,"Middle Atlantic",3,343,ok,2020,2026-08
+PA,"Main heating","Heated by natural gas",159.85,0.9159,"Middle Atlantic",1.2,1223,ok,2020,2026-08
+PA,"Main heating","Heated by propane, oil, wood or other",187.01,1.0715,"Middle Atlantic",2.8,400,ok,2020,2026-08
+PA,"Own or rent",Owned,196.22,1.1243,"Middle Atlantic",0.9,1378,ok,2020,2026-08
+PA,"Own or rent",Rented,139.48,0.7992,"Middle Atlantic",2.3,599,ok,2020,2026-08
+MS,"Type of home","Detached house",187.68,1.0799,"East South Central",0.7,953,ok,2020,2026-08
+MS,"Type of home","Townhouse, duplex or row house",137.42,0.7907,"East South Central",4.4,88,ok,2020,2026-08
+MS,"Type of home","Apartment, building of 2 to 4 units",112.53,0.6475,"East South Central",5.9,62,ok,2020,2026-08
+MS,"Type of home","Apartment, building of 5 or more units",101.46,0.5838,"East South Central",4.1,105,ok,2020,2026-08
+MS,"Type of home","Mobile home",200.87,1.1558,"East South Central",3.7,135,ok,2020,2026-08
+MS,"Apartments by bedrooms","1 bedroom",85.72,0.4932,"East South Central",5.5,56,ok,2020,2026-08
+MS,"Apartments by bedrooms","2 bedrooms",112.48,0.6472,"East South Central",4.3,91,ok,2020,2026-08
+MS,"Houses by bedrooms","1 or 2 bedrooms",147.83,0.8506,"East South Central",3.1,200,ok,2020,2026-08
+MS,"Houses by bedrooms","3 bedrooms",179.56,1.0332,"East South Central",1.7,593,ok,2020,2026-08
+MS,"Houses by bedrooms","4 bedrooms",214.78,1.2358,"East South Central",2.5,202,ok,2020,2026-08
+MS,"Houses by bedrooms","5 or more bedrooms",289.82,1.6676,"East South Central",11.5,46,ok,2020,2026-08
+MS,"Houses by size","Under 1,000 sq ft",148.7,0.8556,"East South Central",4.9,85,ok,2020,2026-08
+MS,"Houses by size","1,000 to 1,499 sq ft",155.96,0.8974,"East South Central",2.9,289,ok,2020,2026-08
+MS,"Houses by size","1,500 to 1,999 sq ft",175.38,1.0091,"East South Central",2.2,275,ok,2020,2026-08
+MS,"Houses by size","2,000 to 2,499 sq ft",193.99,1.1162,"East South Central",3.2,179,ok,2020,2026-08
+MS,"Houses by size","2,500 to 2,999 sq ft",234.47,1.3491,"East South Central",4.2,88,ok,2020,2026-08
+MS,"Houses by size","3,000 sq ft or more",266.5,1.5334,"East South Central",5.2,125,ok,2020,2026-08
+MS,"People in the home","1 person",135.33,0.7787,"East South Central",2.5,370,ok,2020,2026-08
+MS,"People in the home","2 people",170.56,0.9814,"East South Central",1.9,529,ok,2020,2026-08
+MS,"People in the home","3 people",200.54,1.1539,"East South Central",3.9,201,ok,2020,2026-08
+MS,"People in the home","4 people",209.2,1.2037,"East South Central",5.1,130,ok,2020,2026-08
+MS,"People in the home","5 or more people",240.29,1.3826,"East South Central",2.9,113,ok,2020,2026-08
+MS,"Main heating","Heated by electricity",187.32,1.0778,"East South Central",1,743,ok,2020,2026-08
+MS,"Main heating","Heated by natural gas",153.81,0.885,"East South Central",2.1,502,ok,2020,2026-08
+MS,"Main heating","Heated by propane, oil, wood or other",165.24,0.9508,"East South Central",4.4,90,ok,2020,2026-08
+MS,"Own or rent",Owned,190.1,1.0938,"East South Central",0.7,980,ok,2020,2026-08
+MS,"Own or rent",Rented,135.32,0.7786,"East South Central",2.5,363,ok,2020,2026-08
+NH,"Type of home","Detached house",205.67,1.1869,"New England",1,1096,ok,2020,2026-08
+NH,"Type of home","Townhouse, duplex or row house",180.16,1.0397,"New England",5.4,148,ok,2020,2026-08
+NH,"Type of home","Apartment, building of 2 to 4 units",129.67,0.7483,"New England",3.6,164,ok,2020,2026-08
+NH,"Type of home","Apartment, building of 5 or more units",114.76,0.6623,"New England",4.4,217,ok,2020,2026-08
+NH,"Type of home","Mobile home",157.98,0.9117,"New England",8.3,55,ok,2020,2026-08
+NH,"Apartments by bedrooms","1 bedroom",99.97,0.5769,"New England",5,138,ok,2020,2026-08
+NH,"Apartments by bedrooms","2 bedrooms",126.62,0.7307,"New England",4.6,154,ok,2020,2026-08
+NH,"Apartments by bedrooms","3 or more bedrooms",151.14,0.8722,"New England",5.7,76,ok,2020,2026-08
+NH,"Houses by bedrooms","1 or 2 bedrooms",154.5,0.8916,"New England",4.4,281,ok,2020,2026-08
+NH,"Houses by bedrooms","3 bedrooms",194.96,1.1251,"New England",2.3,572,ok,2020,2026-08
+NH,"Houses by bedrooms","4 bedrooms",240.76,1.3894,"New England",3.4,317,ok,2020,2026-08
+NH,"Houses by bedrooms","5 or more bedrooms",275.48,1.5898,"New England",7.5,74,ok,2020,2026-08
+NH,"Houses by size","Under 1,000 sq ft",164.17,0.9474,"New England",7.3,87,ok,2020,2026-08
+NH,"Houses by size","1,000 to 1,499 sq ft",171.58,0.9902,"New England",3.4,345,ok,2020,2026-08
+NH,"Houses by size","1,500 to 1,999 sq ft",189.05,1.091,"New England",2.9,334,ok,2020,2026-08
+NH,"Houses by size","2,000 to 2,499 sq ft",204.32,1.1791,"New England",4.1,217,ok,2020,2026-08
+NH,"Houses by size","2,500 to 2,999 sq ft",231.9,1.3383,"New England",4.8,119,ok,2020,2026-08
+NH,"Houses by size","3,000 sq ft or more",318.75,1.8395,"New England",4.1,142,ok,2020,2026-08
+NH,"People in the home","1 person",114.9,0.6631,"New England",3.2,416,ok,2020,2026-08
+NH,"People in the home","2 people",170.39,0.9833,"New England",2.4,662,ok,2020,2026-08
+NH,"People in the home","3 people",199.98,1.1541,"New England",4.1,270,ok,2020,2026-08
+NH,"People in the home","4 people",223.36,1.289,"New England",4.5,204,ok,2020,2026-08
+NH,"People in the home","5 or more people",241.42,1.3932,"New England",6.1,128,ok,2020,2026-08
+NH,"Main heating","Heated by electricity",179.75,1.0373,"New England",4.2,200,ok,2020,2026-08
+NH,"Main heating","Heated by natural gas",154,0.8887,"New England",2.2,619,ok,2020,2026-08
+NH,"Main heating","Heated by propane, oil, wood or other",190.51,1.0994,"New England",1.9,857,ok,2020,2026-08
+NH,"Own or rent",Owned,197.28,1.1385,"New England",1.1,1264,ok,2020,2026-08
+NH,"Own or rent",Rented,127.33,0.7348,"New England",3.3,416,ok,2020,2026-08
+FL,"Type of home","Detached house",194.06,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+FL,"Type of home","Townhouse, duplex or row house",133.71,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+FL,"Type of home","Apartment, building of 2 to 4 units",114.43,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+FL,"Type of home","Apartment, building of 5 or more units",104.9,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+FL,"Type of home","Mobile home",187.81,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+FL,"Apartments by bedrooms",Studio,95.99,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+FL,"Apartments by bedrooms","1 bedroom",89.45,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+FL,"Apartments by bedrooms","2 bedrooms",113.48,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+FL,"Apartments by bedrooms","3 or more bedrooms",145.43,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+FL,"Houses by bedrooms","1 or 2 bedrooms",138.07,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+FL,"Houses by bedrooms","3 bedrooms",178.5,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+FL,"Houses by bedrooms","4 bedrooms",217.73,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+FL,"Houses by bedrooms","5 or more bedrooms",252.68,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+FL,"Houses by size","Under 1,000 sq ft",142.54,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+FL,"Houses by size","1,000 to 1,499 sq ft",152.17,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+FL,"Houses by size","1,500 to 1,999 sq ft",172.13,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+FL,"Houses by size","2,000 to 2,499 sq ft",193,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+FL,"Houses by size","2,500 to 2,999 sq ft",221.82,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+FL,"Houses by size","3,000 sq ft or more",265.99,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+FL,"People in the home","1 person",122.52,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+FL,"People in the home","2 people",166.69,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+FL,"People in the home","3 people",198.73,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+FL,"People in the home","4 people",206.58,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+FL,"People in the home","5 or more people",232.69,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+FL,"Main heating","Heated by electricity",182.84,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+FL,"Main heating","Heated by natural gas",148.68,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+FL,"Main heating","Heated by propane, oil, wood or other",161.87,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+FL,"Main heating","No heating",150.57,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+FL,"Own or rent",Owned,184.84,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+FL,"Own or rent",Rented,133.06,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+SC,"Type of home","Detached house",193.65,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+SC,"Type of home","Townhouse, duplex or row house",133.42,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+SC,"Type of home","Apartment, building of 2 to 4 units",114.18,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+SC,"Type of home","Apartment, building of 5 or more units",104.67,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+SC,"Type of home","Mobile home",187.41,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+SC,"Apartments by bedrooms",Studio,95.79,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+SC,"Apartments by bedrooms","1 bedroom",89.26,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+SC,"Apartments by bedrooms","2 bedrooms",113.24,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+SC,"Apartments by bedrooms","3 or more bedrooms",145.12,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+SC,"Houses by bedrooms","1 or 2 bedrooms",137.77,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+SC,"Houses by bedrooms","3 bedrooms",178.12,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+SC,"Houses by bedrooms","4 bedrooms",217.27,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+SC,"Houses by bedrooms","5 or more bedrooms",252.14,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+SC,"Houses by size","Under 1,000 sq ft",142.24,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+SC,"Houses by size","1,000 to 1,499 sq ft",151.85,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+SC,"Houses by size","1,500 to 1,999 sq ft",171.76,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+SC,"Houses by size","2,000 to 2,499 sq ft",192.59,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+SC,"Houses by size","2,500 to 2,999 sq ft",221.35,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+SC,"Houses by size","3,000 sq ft or more",265.42,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+SC,"People in the home","1 person",122.26,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+SC,"People in the home","2 people",166.33,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+SC,"People in the home","3 people",198.3,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+SC,"People in the home","4 people",206.14,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+SC,"People in the home","5 or more people",232.19,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+SC,"Main heating","Heated by electricity",182.45,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+SC,"Main heating","Heated by natural gas",148.36,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+SC,"Main heating","Heated by propane, oil, wood or other",161.53,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+SC,"Main heating","No heating",150.25,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+SC,"Own or rent",Owned,184.44,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+SC,"Own or rent",Rented,132.78,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+NY,"Type of home","Detached house",198.5,1.1842,"Middle Atlantic",1.1,1131,ok,2020,2026-08
+NY,"Type of home","Townhouse, duplex or row house",161.95,0.9662,"Middle Atlantic",4,239,ok,2020,2026-08
+NY,"Type of home","Apartment, building of 2 to 4 units",137.98,0.8232,"Middle Atlantic",5.1,179,ok,2020,2026-08
+NY,"Type of home","Apartment, building of 5 or more units",125.72,0.75,"Middle Atlantic",2.7,382,ok,2020,2026-08
+NY,"Type of home","Mobile home",159.26,0.9501,"Middle Atlantic",8.6,46,ok,2020,2026-08
+NY,"Apartments by bedrooms","1 bedroom",103.46,0.6172,"Middle Atlantic",3.5,246,ok,2020,2026-08
+NY,"Apartments by bedrooms","2 bedrooms",138.1,0.8239,"Middle Atlantic",4.5,215,ok,2020,2026-08
+NY,"Apartments by bedrooms","3 or more bedrooms",191.39,1.1418,"Middle Atlantic",5.6,79,ok,2020,2026-08
+NY,"Houses by bedrooms","1 or 2 bedrooms",144.29,0.8608,"Middle Atlantic",3.5,265,ok,2020,2026-08
+NY,"Houses by bedrooms","3 bedrooms",182.3,1.0876,"Middle Atlantic",1.8,619,ok,2020,2026-08
+NY,"Houses by bedrooms","4 bedrooms",216.2,1.2898,"Middle Atlantic",2.4,380,ok,2020,2026-08
+NY,"Houses by bedrooms","5 or more bedrooms",294.79,1.7587,"Middle Atlantic",6.2,106,ok,2020,2026-08
+NY,"Houses by size","Under 1,000 sq ft",147.71,0.8812,"Middle Atlantic",8,92,ok,2020,2026-08
+NY,"Houses by size","1,000 to 1,499 sq ft",157.01,0.9367,"Middle Atlantic",2.6,372,ok,2020,2026-08
+NY,"Houses by size","1,500 to 1,999 sq ft",183.93,1.0973,"Middle Atlantic",2.8,387,ok,2020,2026-08
+NY,"Houses by size","2,000 to 2,499 sq ft",211.42,1.2613,"Middle Atlantic",4.4,233,ok,2020,2026-08
+NY,"Houses by size","2,500 to 2,999 sq ft",226.14,1.3491,"Middle Atlantic",4.2,149,ok,2020,2026-08
+NY,"Houses by size","3,000 sq ft or more",294.27,1.7556,"Middle Atlantic",4.5,137,ok,2020,2026-08
+NY,"People in the home","1 person",110.39,0.6586,"Middle Atlantic",2.1,503,ok,2020,2026-08
+NY,"People in the home","2 people",163.73,0.9768,"Middle Atlantic",1.9,736,ok,2020,2026-08
+NY,"People in the home","3 people",189.96,1.1333,"Middle Atlantic",2.2,322,ok,2020,2026-08
+NY,"People in the home","4 people",229.46,1.3689,"Middle Atlantic",3.6,265,ok,2020,2026-08
+NY,"People in the home","5 or more people",250.71,1.4957,"Middle Atlantic",5.2,151,ok,2020,2026-08
+NY,"Main heating","Heated by electricity",202.3,1.2069,"Middle Atlantic",3,343,ok,2020,2026-08
+NY,"Main heating","Heated by natural gas",153.52,0.9159,"Middle Atlantic",1.2,1223,ok,2020,2026-08
+NY,"Main heating","Heated by propane, oil, wood or other",179.6,1.0715,"Middle Atlantic",2.8,400,ok,2020,2026-08
+NY,"Own or rent",Owned,188.46,1.1243,"Middle Atlantic",0.9,1378,ok,2020,2026-08
+NY,"Own or rent",Rented,133.96,0.7992,"Middle Atlantic",2.3,599,ok,2020,2026-08
+DE,"Type of home","Detached house",191.51,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+DE,"Type of home","Townhouse, duplex or row house",131.95,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+DE,"Type of home","Apartment, building of 2 to 4 units",112.92,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+DE,"Type of home","Apartment, building of 5 or more units",103.52,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+DE,"Type of home","Mobile home",185.34,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+DE,"Apartments by bedrooms",Studio,94.73,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+DE,"Apartments by bedrooms","1 bedroom",88.28,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+DE,"Apartments by bedrooms","2 bedrooms",111.99,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+DE,"Apartments by bedrooms","3 or more bedrooms",143.52,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+DE,"Houses by bedrooms","1 or 2 bedrooms",136.25,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+DE,"Houses by bedrooms","3 bedrooms",176.15,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+DE,"Houses by bedrooms","4 bedrooms",214.87,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+DE,"Houses by bedrooms","5 or more bedrooms",249.35,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+DE,"Houses by size","Under 1,000 sq ft",140.67,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+DE,"Houses by size","1,000 to 1,499 sq ft",150.17,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+DE,"Houses by size","1,500 to 1,999 sq ft",169.86,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+DE,"Houses by size","2,000 to 2,499 sq ft",190.46,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+DE,"Houses by size","2,500 to 2,999 sq ft",218.91,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+DE,"Houses by size","3,000 sq ft or more",262.49,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+DE,"People in the home","1 person",120.91,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+DE,"People in the home","2 people",164.5,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+DE,"People in the home","3 people",196.11,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+DE,"People in the home","4 people",203.86,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+DE,"People in the home","5 or more people",229.63,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+DE,"Main heating","Heated by electricity",180.44,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+DE,"Main heating","Heated by natural gas",146.72,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+DE,"Main heating","Heated by propane, oil, wood or other",159.74,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+DE,"Main heating","No heating",148.59,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+DE,"Own or rent",Owned,182.4,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+DE,"Own or rent",Rented,131.31,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+WV,"Type of home","Detached house",188.26,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+WV,"Type of home","Townhouse, duplex or row house",129.71,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+WV,"Type of home","Apartment, building of 2 to 4 units",111.01,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+WV,"Type of home","Apartment, building of 5 or more units",101.76,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+WV,"Type of home","Mobile home",182.2,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+WV,"Apartments by bedrooms",Studio,93.12,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+WV,"Apartments by bedrooms","1 bedroom",86.78,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+WV,"Apartments by bedrooms","2 bedrooms",110.09,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+WV,"Apartments by bedrooms","3 or more bedrooms",141.09,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+WV,"Houses by bedrooms","1 or 2 bedrooms",133.94,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+WV,"Houses by bedrooms","3 bedrooms",173.16,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+WV,"Houses by bedrooms","4 bedrooms",211.23,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+WV,"Houses by bedrooms","5 or more bedrooms",245.12,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+WV,"Houses by size","Under 1,000 sq ft",138.28,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+WV,"Houses by size","1,000 to 1,499 sq ft",147.63,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+WV,"Houses by size","1,500 to 1,999 sq ft",166.98,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+WV,"Houses by size","2,000 to 2,499 sq ft",187.23,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+WV,"Houses by size","2,500 to 2,999 sq ft",215.19,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+WV,"Houses by size","3,000 sq ft or more",258.04,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+WV,"People in the home","1 person",118.86,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+WV,"People in the home","2 people",161.71,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+WV,"People in the home","3 people",192.79,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+WV,"People in the home","4 people",200.41,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+WV,"People in the home","5 or more people",225.73,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+WV,"Main heating","Heated by electricity",177.38,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+WV,"Main heating","Heated by natural gas",144.23,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+WV,"Main heating","Heated by propane, oil, wood or other",157.03,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+WV,"Main heating","No heating",146.07,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+WV,"Own or rent",Owned,179.31,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+WV,"Own or rent",Rented,129.09,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+GA,"Type of home","Detached house",188.18,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+GA,"Type of home","Townhouse, duplex or row house",129.66,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+GA,"Type of home","Apartment, building of 2 to 4 units",110.96,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+GA,"Type of home","Apartment, building of 5 or more units",101.72,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+GA,"Type of home","Mobile home",182.12,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+GA,"Apartments by bedrooms",Studio,93.08,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+GA,"Apartments by bedrooms","1 bedroom",86.74,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+GA,"Apartments by bedrooms","2 bedrooms",110.04,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+GA,"Apartments by bedrooms","3 or more bedrooms",141.03,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+GA,"Houses by bedrooms","1 or 2 bedrooms",133.88,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+GA,"Houses by bedrooms","3 bedrooms",173.09,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+GA,"Houses by bedrooms","4 bedrooms",211.14,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+GA,"Houses by bedrooms","5 or more bedrooms",245.02,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+GA,"Houses by size","Under 1,000 sq ft",138.22,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+GA,"Houses by size","1,000 to 1,499 sq ft",147.56,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+GA,"Houses by size","1,500 to 1,999 sq ft",166.91,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+GA,"Houses by size","2,000 to 2,499 sq ft",187.15,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+GA,"Houses by size","2,500 to 2,999 sq ft",215.1,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+GA,"Houses by size","3,000 sq ft or more",257.93,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+GA,"People in the home","1 person",118.81,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+GA,"People in the home","2 people",161.64,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+GA,"People in the home","3 people",192.7,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+GA,"People in the home","4 people",200.32,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+GA,"People in the home","5 or more people",225.64,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+GA,"Main heating","Heated by electricity",177.3,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+GA,"Main heating","Heated by natural gas",144.17,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+GA,"Main heating","Heated by propane, oil, wood or other",156.97,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+GA,"Main heating","No heating",146.01,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+GA,"Own or rent",Owned,179.24,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+GA,"Own or rent",Rented,129.03,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+CA,"Type of home","Detached house",194.37,1.1865,Pacific,0.8,1585,ok,2020,2026-08
+CA,"Type of home","Townhouse, duplex or row house",150.55,0.919,Pacific,5.1,257,ok,2020,2026-08
+CA,"Type of home","Apartment, building of 2 to 4 units",115.42,0.7046,Pacific,4.8,132,ok,2020,2026-08
+CA,"Type of home","Apartment, building of 5 or more units",105.23,0.6424,Pacific,3,420,ok,2020,2026-08
+CA,"Type of home","Mobile home",159.44,0.9733,Pacific,4.2,103,ok,2020,2026-08
+CA,"Apartments by bedrooms",Studio,73.42,0.4482,Pacific,9.2,39,ok,2020,2026-08
+CA,"Apartments by bedrooms","1 bedroom",89.02,0.5434,Pacific,3.8,212,ok,2020,2026-08
+CA,"Apartments by bedrooms","2 bedrooms",119.94,0.7322,Pacific,4.2,262,ok,2020,2026-08
+CA,"Apartments by bedrooms","3 or more bedrooms",190.73,1.1643,Pacific,9.4,39,ok,2020,2026-08
+CA,"Houses by bedrooms","1 or 2 bedrooms",148.92,0.9091,Pacific,3.9,365,ok,2020,2026-08
+CA,"Houses by bedrooms","3 bedrooms",187.91,1.1471,Pacific,1.7,882,ok,2020,2026-08
+CA,"Houses by bedrooms","4 bedrooms",213.7,1.3045,Pacific,3.2,458,ok,2020,2026-08
+CA,"Houses by bedrooms","5 or more bedrooms",245.15,1.4965,Pacific,6.4,137,ok,2020,2026-08
+CA,"Houses by size","Under 1,000 sq ft",131.05,0.8,Pacific,6.1,178,ok,2020,2026-08
+CA,"Houses by size","1,000 to 1,499 sq ft",162.45,0.9917,Pacific,2.6,468,ok,2020,2026-08
+CA,"Houses by size","1,500 to 1,999 sq ft",181.6,1.1086,Pacific,2.5,517,ok,2020,2026-08
+CA,"Houses by size","2,000 to 2,499 sq ft",223.18,1.3624,Pacific,3.3,330,ok,2020,2026-08
+CA,"Houses by size","2,500 to 2,999 sq ft",229.67,1.402,Pacific,5.1,170,ok,2020,2026-08
+CA,"Houses by size","3,000 sq ft or more",265.22,1.619,Pacific,4.5,179,ok,2020,2026-08
+CA,"People in the home","1 person",105.79,0.6458,Pacific,2.9,593,ok,2020,2026-08
+CA,"People in the home","2 people",167.52,1.0226,Pacific,2.6,862,ok,2020,2026-08
+CA,"People in the home","3 people",196.63,1.2003,Pacific,3.1,377,ok,2020,2026-08
+CA,"People in the home","4 people",192.3,1.1739,Pacific,3.4,384,ok,2020,2026-08
+CA,"People in the home","5 or more people",199.39,1.2172,Pacific,3.9,281,ok,2020,2026-08
+CA,"Main heating","Heated by electricity",167.96,1.0253,Pacific,2.2,621,ok,2020,2026-08
+CA,"Main heating","Heated by natural gas",163.32,0.997,Pacific,1.4,1280,ok,2020,2026-08
+CA,"Main heating","Heated by propane, oil, wood or other",201.77,1.2317,Pacific,5.7,193,ok,2020,2026-08
+CA,"Main heating","No heating",140.27,0.8563,Pacific,4.5,403,ok,2020,2026-08
+CA,"Own or rent",Owned,188.08,1.1481,Pacific,1,1668,ok,2020,2026-08
+CA,"Own or rent",Rented,127.73,0.7797,Pacific,2.2,829,ok,2020,2026-08
+RI,"Type of home","Detached house",192.57,1.1869,"New England",1,1096,ok,2020,2026-08
+RI,"Type of home","Townhouse, duplex or row house",168.69,1.0397,"New England",5.4,148,ok,2020,2026-08
+RI,"Type of home","Apartment, building of 2 to 4 units",121.41,0.7483,"New England",3.6,164,ok,2020,2026-08
+RI,"Type of home","Apartment, building of 5 or more units",107.46,0.6623,"New England",4.4,217,ok,2020,2026-08
+RI,"Type of home","Mobile home",147.92,0.9117,"New England",8.3,55,ok,2020,2026-08
+RI,"Apartments by bedrooms","1 bedroom",93.6,0.5769,"New England",5,138,ok,2020,2026-08
+RI,"Apartments by bedrooms","2 bedrooms",118.55,0.7307,"New England",4.6,154,ok,2020,2026-08
+RI,"Apartments by bedrooms","3 or more bedrooms",141.51,0.8722,"New England",5.7,76,ok,2020,2026-08
+RI,"Houses by bedrooms","1 or 2 bedrooms",144.66,0.8916,"New England",4.4,281,ok,2020,2026-08
+RI,"Houses by bedrooms","3 bedrooms",182.54,1.1251,"New England",2.3,572,ok,2020,2026-08
+RI,"Houses by bedrooms","4 bedrooms",225.43,1.3894,"New England",3.4,317,ok,2020,2026-08
+RI,"Houses by bedrooms","5 or more bedrooms",257.94,1.5898,"New England",7.5,74,ok,2020,2026-08
+RI,"Houses by size","Under 1,000 sq ft",153.71,0.9474,"New England",7.3,87,ok,2020,2026-08
+RI,"Houses by size","1,000 to 1,499 sq ft",160.66,0.9902,"New England",3.4,345,ok,2020,2026-08
+RI,"Houses by size","1,500 to 1,999 sq ft",177.01,1.091,"New England",2.9,334,ok,2020,2026-08
+RI,"Houses by size","2,000 to 2,499 sq ft",191.31,1.1791,"New England",4.1,217,ok,2020,2026-08
+RI,"Houses by size","2,500 to 2,999 sq ft",217.13,1.3383,"New England",4.8,119,ok,2020,2026-08
+RI,"Houses by size","3,000 sq ft or more",298.45,1.8395,"New England",4.1,142,ok,2020,2026-08
+RI,"People in the home","1 person",107.59,0.6631,"New England",3.2,416,ok,2020,2026-08
+RI,"People in the home","2 people",159.54,0.9833,"New England",2.4,662,ok,2020,2026-08
+RI,"People in the home","3 people",187.25,1.1541,"New England",4.1,270,ok,2020,2026-08
+RI,"People in the home","4 people",209.14,1.289,"New England",4.5,204,ok,2020,2026-08
+RI,"People in the home","5 or more people",226.04,1.3932,"New England",6.1,128,ok,2020,2026-08
+RI,"Main heating","Heated by electricity",168.3,1.0373,"New England",4.2,200,ok,2020,2026-08
+RI,"Main heating","Heated by natural gas",144.19,0.8887,"New England",2.2,619,ok,2020,2026-08
+RI,"Main heating","Heated by propane, oil, wood or other",178.37,1.0994,"New England",1.9,857,ok,2020,2026-08
+RI,"Own or rent",Owned,184.72,1.1385,"New England",1.1,1264,ok,2020,2026-08
+RI,"Own or rent",Rented,119.22,0.7348,"New England",3.3,416,ok,2020,2026-08
+AZ,"Type of home","Detached house",186.67,1.151,"Mountain South",1.1,621,ok,2020,2026-08
+AZ,"Type of home","Townhouse, duplex or row house",124.75,0.7692,"Mountain South",5.6,81,ok,2020,2026-08
+AZ,"Type of home","Apartment, building of 2 to 4 units",110.8,0.6832,"Mountain South",10.4,33,ok,2020,2026-08
+AZ,"Type of home","Apartment, building of 5 or more units",108.73,0.6704,"Mountain South",5.3,96,ok,2020,2026-08
+AZ,"Type of home","Mobile home",134.6,0.8299,"Mountain South",6.5,73,ok,2020,2026-08
+AZ,"Apartments by bedrooms","1 bedroom",90.25,0.5565,"Mountain South",8.6,48,ok,2020,2026-08
+AZ,"Apartments by bedrooms","2 bedrooms",117.63,0.7253,"Mountain South",6.7,62,ok,2020,2026-08
+AZ,"Houses by bedrooms","1 or 2 bedrooms",127.44,0.7858,"Mountain South",4.2,135,ok,2020,2026-08
+AZ,"Houses by bedrooms","3 bedrooms",171.15,1.0553,"Mountain South",2.5,336,ok,2020,2026-08
+AZ,"Houses by bedrooms","4 bedrooms",200.33,1.2352,"Mountain South",3.1,183,ok,2020,2026-08
+AZ,"Houses by bedrooms","5 or more bedrooms",326.67,2.0142,"Mountain South",8.5,48,ok,2020,2026-08
+AZ,"Houses by size","Under 1,000 sq ft",132.65,0.8179,"Mountain South",9.2,42,ok,2020,2026-08
+AZ,"Houses by size","1,000 to 1,499 sq ft",154.97,0.9555,"Mountain South",4.3,161,ok,2020,2026-08
+AZ,"Houses by size","1,500 to 1,999 sq ft",160.45,0.9893,"Mountain South",3.7,214,ok,2020,2026-08
+AZ,"Houses by size","2,000 to 2,499 sq ft",192.62,1.1877,"Mountain South",4.9,137,ok,2020,2026-08
+AZ,"Houses by size","2,500 to 2,999 sq ft",219.06,1.3507,"Mountain South",5.5,73,ok,2020,2026-08
+AZ,"Houses by size","3,000 sq ft or more",280.35,1.7286,"Mountain South",7.2,75,ok,2020,2026-08
+AZ,"People in the home","1 person",111.79,0.6893,"Mountain South",3.7,240,ok,2020,2026-08
+AZ,"People in the home","2 people",161.01,0.9928,"Mountain South",2.8,363,ok,2020,2026-08
+AZ,"People in the home","3 people",174.93,1.0786,"Mountain South",5.8,100,ok,2020,2026-08
+AZ,"People in the home","4 people",194.28,1.1979,"Mountain South",4.6,124,ok,2020,2026-08
+AZ,"People in the home","5 or more people",249,1.5353,"Mountain South",6.1,77,ok,2020,2026-08
+AZ,"Main heating","Heated by electricity",186.01,1.1469,"Mountain South",2.8,304,ok,2020,2026-08
+AZ,"Main heating","Heated by natural gas",145.93,0.8998,"Mountain South",2.4,503,ok,2020,2026-08
+AZ,"Main heating","Heated by propane, oil, wood or other",135.7,0.8367,"Mountain South",6.9,50,ok,2020,2026-08
+AZ,"Main heating","No heating",173.91,1.0723,"Mountain South",7.7,47,ok,2020,2026-08
+AZ,"Own or rent",Owned,175.5,1.0821,"Mountain South",1.2,659,ok,2020,2026-08
+AZ,"Own or rent",Rented,135.02,0.8325,"Mountain South",3.4,245,ok,2020,2026-08
+TN,"Type of home","Detached house",174.39,1.0799,"East South Central",0.7,953,ok,2020,2026-08
+TN,"Type of home","Townhouse, duplex or row house",127.68,0.7907,"East South Central",4.4,88,ok,2020,2026-08
+TN,"Type of home","Apartment, building of 2 to 4 units",104.56,0.6475,"East South Central",5.9,62,ok,2020,2026-08
+TN,"Type of home","Apartment, building of 5 or more units",94.27,0.5838,"East South Central",4.1,105,ok,2020,2026-08
+TN,"Type of home","Mobile home",186.64,1.1558,"East South Central",3.7,135,ok,2020,2026-08
+TN,"Apartments by bedrooms","1 bedroom",79.64,0.4932,"East South Central",5.5,56,ok,2020,2026-08
+TN,"Apartments by bedrooms","2 bedrooms",104.51,0.6472,"East South Central",4.3,91,ok,2020,2026-08
+TN,"Houses by bedrooms","1 or 2 bedrooms",137.36,0.8506,"East South Central",3.1,200,ok,2020,2026-08
+TN,"Houses by bedrooms","3 bedrooms",166.84,1.0332,"East South Central",1.7,593,ok,2020,2026-08
+TN,"Houses by bedrooms","4 bedrooms",199.56,1.2358,"East South Central",2.5,202,ok,2020,2026-08
+TN,"Houses by bedrooms","5 or more bedrooms",269.29,1.6676,"East South Central",11.5,46,ok,2020,2026-08
+TN,"Houses by size","Under 1,000 sq ft",138.17,0.8556,"East South Central",4.9,85,ok,2020,2026-08
+TN,"Houses by size","1,000 to 1,499 sq ft",144.92,0.8974,"East South Central",2.9,289,ok,2020,2026-08
+TN,"Houses by size","1,500 to 1,999 sq ft",162.95,1.0091,"East South Central",2.2,275,ok,2020,2026-08
+TN,"Houses by size","2,000 to 2,499 sq ft",180.25,1.1162,"East South Central",3.2,179,ok,2020,2026-08
+TN,"Houses by size","2,500 to 2,999 sq ft",217.86,1.3491,"East South Central",4.2,88,ok,2020,2026-08
+TN,"Houses by size","3,000 sq ft or more",247.62,1.5334,"East South Central",5.2,125,ok,2020,2026-08
+TN,"People in the home","1 person",125.75,0.7787,"East South Central",2.5,370,ok,2020,2026-08
+TN,"People in the home","2 people",158.48,0.9814,"East South Central",1.9,529,ok,2020,2026-08
+TN,"People in the home","3 people",186.34,1.1539,"East South Central",3.9,201,ok,2020,2026-08
+TN,"People in the home","4 people",194.38,1.2037,"East South Central",5.1,130,ok,2020,2026-08
+TN,"People in the home","5 or more people",223.27,1.3826,"East South Central",2.9,113,ok,2020,2026-08
+TN,"Main heating","Heated by electricity",174.05,1.0778,"East South Central",1,743,ok,2020,2026-08
+TN,"Main heating","Heated by natural gas",142.91,0.885,"East South Central",2.1,502,ok,2020,2026-08
+TN,"Main heating","Heated by propane, oil, wood or other",153.54,0.9508,"East South Central",4.4,90,ok,2020,2026-08
+TN,"Own or rent",Owned,176.63,1.0938,"East South Central",0.7,980,ok,2020,2026-08
+TN,"Own or rent",Rented,125.73,0.7786,"East South Central",2.5,363,ok,2020,2026-08
+NJ,"Type of home","Detached house",189.64,1.1842,"Middle Atlantic",1.1,1131,ok,2020,2026-08
+NJ,"Type of home","Townhouse, duplex or row house",154.73,0.9662,"Middle Atlantic",4,239,ok,2020,2026-08
+NJ,"Type of home","Apartment, building of 2 to 4 units",131.83,0.8232,"Middle Atlantic",5.1,179,ok,2020,2026-08
+NJ,"Type of home","Apartment, building of 5 or more units",120.11,0.75,"Middle Atlantic",2.7,382,ok,2020,2026-08
+NJ,"Type of home","Mobile home",152.15,0.9501,"Middle Atlantic",8.6,46,ok,2020,2026-08
+NJ,"Apartments by bedrooms","1 bedroom",98.84,0.6172,"Middle Atlantic",3.5,246,ok,2020,2026-08
+NJ,"Apartments by bedrooms","2 bedrooms",131.94,0.8239,"Middle Atlantic",4.5,215,ok,2020,2026-08
+NJ,"Apartments by bedrooms","3 or more bedrooms",182.85,1.1418,"Middle Atlantic",5.6,79,ok,2020,2026-08
+NJ,"Houses by bedrooms","1 or 2 bedrooms",137.85,0.8608,"Middle Atlantic",3.5,265,ok,2020,2026-08
+NJ,"Houses by bedrooms","3 bedrooms",174.17,1.0876,"Middle Atlantic",1.8,619,ok,2020,2026-08
+NJ,"Houses by bedrooms","4 bedrooms",206.55,1.2898,"Middle Atlantic",2.4,380,ok,2020,2026-08
+NJ,"Houses by bedrooms","5 or more bedrooms",281.64,1.7587,"Middle Atlantic",6.2,106,ok,2020,2026-08
+NJ,"Houses by size","Under 1,000 sq ft",141.12,0.8812,"Middle Atlantic",8,92,ok,2020,2026-08
+NJ,"Houses by size","1,000 to 1,499 sq ft",150,0.9367,"Middle Atlantic",2.6,372,ok,2020,2026-08
+NJ,"Houses by size","1,500 to 1,999 sq ft",175.72,1.0973,"Middle Atlantic",2.8,387,ok,2020,2026-08
+NJ,"Houses by size","2,000 to 2,499 sq ft",201.99,1.2613,"Middle Atlantic",4.4,233,ok,2020,2026-08
+NJ,"Houses by size","2,500 to 2,999 sq ft",216.05,1.3491,"Middle Atlantic",4.2,149,ok,2020,2026-08
+NJ,"Houses by size","3,000 sq ft or more",281.14,1.7556,"Middle Atlantic",4.5,137,ok,2020,2026-08
+NJ,"People in the home","1 person",105.47,0.6586,"Middle Atlantic",2.1,503,ok,2020,2026-08
+NJ,"People in the home","2 people",156.43,0.9768,"Middle Atlantic",1.9,736,ok,2020,2026-08
+NJ,"People in the home","3 people",181.49,1.1333,"Middle Atlantic",2.2,322,ok,2020,2026-08
+NJ,"People in the home","4 people",219.22,1.3689,"Middle Atlantic",3.6,265,ok,2020,2026-08
+NJ,"People in the home","5 or more people",239.52,1.4957,"Middle Atlantic",5.2,151,ok,2020,2026-08
+NJ,"Main heating","Heated by electricity",193.27,1.2069,"Middle Atlantic",3,343,ok,2020,2026-08
+NJ,"Main heating","Heated by natural gas",146.67,0.9159,"Middle Atlantic",1.2,1223,ok,2020,2026-08
+NJ,"Main heating","Heated by propane, oil, wood or other",171.59,1.0715,"Middle Atlantic",2.8,400,ok,2020,2026-08
+NJ,"Own or rent",Owned,180.05,1.1243,"Middle Atlantic",0.9,1378,ok,2020,2026-08
+NJ,"Own or rent",Rented,127.98,0.7992,"Middle Atlantic",2.3,599,ok,2020,2026-08
+OH,"Type of home","Detached house",181.61,1.1406,"East North Central",0.6,1418,ok,2020,2026-08
+OH,"Type of home","Townhouse, duplex or row house",136.03,0.8543,"East North Central",4.1,201,ok,2020,2026-08
+OH,"Type of home","Apartment, building of 2 to 4 units",106.81,0.6708,"East North Central",4.9,94,ok,2020,2026-08
+OH,"Type of home","Apartment, building of 5 or more units",97.37,0.6115,"East North Central",4,238,ok,2020,2026-08
+OH,"Type of home","Mobile home",157.17,0.9871,"East North Central",6.3,63,ok,2020,2026-08
+OH,"Apartments by bedrooms","1 bedroom",87.51,0.5496,"East North Central",6.2,126,ok,2020,2026-08
+OH,"Apartments by bedrooms","2 bedrooms",108.85,0.6836,"East North Central",4.7,154,ok,2020,2026-08
+OH,"Apartments by bedrooms","3 or more bedrooms",112.94,0.7093,"East North Central",6.1,37,ok,2020,2026-08
+OH,"Houses by bedrooms","1 or 2 bedrooms",143.67,0.9023,"East North Central",3,340,ok,2020,2026-08
+OH,"Houses by bedrooms","3 bedrooms",173.63,1.0905,"East North Central",1.5,821,ok,2020,2026-08
+OH,"Houses by bedrooms","4 bedrooms",200.73,1.2607,"East North Central",2.4,371,ok,2020,2026-08
+OH,"Houses by bedrooms","5 or more bedrooms",251.81,1.5815,"East North Central",5.4,87,ok,2020,2026-08
+OH,"Houses by size","Under 1,000 sq ft",124.4,0.7813,"East North Central",4.5,142,ok,2020,2026-08
+OH,"Houses by size","1,000 to 1,499 sq ft",154.94,0.9731,"East North Central",2.4,480,ok,2020,2026-08
+OH,"Houses by size","1,500 to 1,999 sq ft",174.64,1.0968,"East North Central",2.1,457,ok,2020,2026-08
+OH,"Houses by size","2,000 to 2,499 sq ft",199.92,1.2556,"East North Central",3.2,247,ok,2020,2026-08
+OH,"Houses by size","2,500 to 2,999 sq ft",207.31,1.302,"East North Central",4.2,133,ok,2020,2026-08
+OH,"Houses by size","3,000 sq ft or more",261.97,1.6453,"East North Central",4.3,160,ok,2020,2026-08
+OH,"People in the home","1 person",111.92,0.7029,"East North Central",2.8,527,ok,2020,2026-08
+OH,"People in the home","2 people",161.47,1.0141,"East North Central",1.6,809,ok,2020,2026-08
+OH,"People in the home","3 people",189.56,1.1905,"East North Central",3.6,268,ok,2020,2026-08
+OH,"People in the home","4 people",194,1.2184,"East North Central",3.2,247,ok,2020,2026-08
+OH,"People in the home","5 or more people",215.62,1.3542,"East North Central",3.7,163,ok,2020,2026-08
+OH,"Main heating","Heated by electricity",188.46,1.1836,"East North Central",3.5,319,ok,2020,2026-08
+OH,"Main heating","Heated by natural gas",148.84,0.9348,"East North Central",1.1,1480,ok,2020,2026-08
+OH,"Main heating","Heated by propane, oil, wood or other",183.83,1.1545,"East North Central",3.6,206,ok,2020,2026-08
+OH,"Own or rent",Owned,175.64,1.1031,"East North Central",0.7,1545,ok,2020,2026-08
+OH,"Own or rent",Rented,116.68,0.7328,"East North Central",2.6,469,ok,2020,2026-08
+AK,"Type of home","Detached house",188.03,1.1865,Pacific,0.8,1585,ok,2020,2026-08
+AK,"Type of home","Townhouse, duplex or row house",145.64,0.919,Pacific,5.1,257,ok,2020,2026-08
+AK,"Type of home","Apartment, building of 2 to 4 units",111.66,0.7046,Pacific,4.8,132,ok,2020,2026-08
+AK,"Type of home","Apartment, building of 5 or more units",101.81,0.6424,Pacific,3,420,ok,2020,2026-08
+AK,"Type of home","Mobile home",154.25,0.9733,Pacific,4.2,103,ok,2020,2026-08
+AK,"Apartments by bedrooms",Studio,71.03,0.4482,Pacific,9.2,39,ok,2020,2026-08
+AK,"Apartments by bedrooms","1 bedroom",86.12,0.5434,Pacific,3.8,212,ok,2020,2026-08
+AK,"Apartments by bedrooms","2 bedrooms",116.04,0.7322,Pacific,4.2,262,ok,2020,2026-08
+AK,"Apartments by bedrooms","3 or more bedrooms",184.52,1.1643,Pacific,9.4,39,ok,2020,2026-08
+AK,"Houses by bedrooms","1 or 2 bedrooms",144.07,0.9091,Pacific,3.9,365,ok,2020,2026-08
+AK,"Houses by bedrooms","3 bedrooms",181.79,1.1471,Pacific,1.7,882,ok,2020,2026-08
+AK,"Houses by bedrooms","4 bedrooms",206.73,1.3045,Pacific,3.2,458,ok,2020,2026-08
+AK,"Houses by bedrooms","5 or more bedrooms",237.16,1.4965,Pacific,6.4,137,ok,2020,2026-08
+AK,"Houses by size","Under 1,000 sq ft",126.78,0.8,Pacific,6.1,178,ok,2020,2026-08
+AK,"Houses by size","1,000 to 1,499 sq ft",157.16,0.9917,Pacific,2.6,468,ok,2020,2026-08
+AK,"Houses by size","1,500 to 1,999 sq ft",175.69,1.1086,Pacific,2.5,517,ok,2020,2026-08
+AK,"Houses by size","2,000 to 2,499 sq ft",215.91,1.3624,Pacific,3.3,330,ok,2020,2026-08
+AK,"Houses by size","2,500 to 2,999 sq ft",222.19,1.402,Pacific,5.1,170,ok,2020,2026-08
+AK,"Houses by size","3,000 sq ft or more",256.58,1.619,Pacific,4.5,179,ok,2020,2026-08
+AK,"People in the home","1 person",102.35,0.6458,Pacific,2.9,593,ok,2020,2026-08
+AK,"People in the home","2 people",162.06,1.0226,Pacific,2.6,862,ok,2020,2026-08
+AK,"People in the home","3 people",190.22,1.2003,Pacific,3.1,377,ok,2020,2026-08
+AK,"People in the home","4 people",186.04,1.1739,Pacific,3.4,384,ok,2020,2026-08
+AK,"People in the home","5 or more people",192.9,1.2172,Pacific,3.9,281,ok,2020,2026-08
+AK,"Main heating","Heated by electricity",162.49,1.0253,Pacific,2.2,621,ok,2020,2026-08
+AK,"Main heating","Heated by natural gas",158,0.997,Pacific,1.4,1280,ok,2020,2026-08
+AK,"Main heating","Heated by propane, oil, wood or other",195.2,1.2317,Pacific,5.7,193,ok,2020,2026-08
+AK,"Main heating","No heating",135.7,0.8563,Pacific,4.5,403,ok,2020,2026-08
+AK,"Own or rent",Owned,181.95,1.1481,Pacific,1,1668,ok,2020,2026-08
+AK,"Own or rent",Rented,123.57,0.7797,Pacific,2.2,829,ok,2020,2026-08
+LA,"Type of home","Detached house",175.36,1.1127,"West South Central",0.6,1320,ok,2020,2026-08
+LA,"Type of home","Townhouse, duplex or row house",129.3,0.8204,"West South Central",5.6,100,ok,2020,2026-08
+LA,"Type of home","Apartment, building of 2 to 4 units",119.59,0.7588,"West South Central",5.2,84,ok,2020,2026-08
+LA,"Type of home","Apartment, building of 5 or more units",101.04,0.6411,"West South Central",3.4,189,ok,2020,2026-08
+LA,"Type of home","Mobile home",162.42,1.0306,"West South Central",3.5,134,ok,2020,2026-08
+LA,"Apartments by bedrooms","1 bedroom",84,0.533,"West South Central",5,109,ok,2020,2026-08
+LA,"Apartments by bedrooms","2 bedrooms",119.19,0.7563,"West South Central",3.2,136,ok,2020,2026-08
+LA,"Houses by bedrooms","1 or 2 bedrooms",135.22,0.858,"West South Central",3.9,242,ok,2020,2026-08
+LA,"Houses by bedrooms","3 bedrooms",161.65,1.0257,"West South Central",1.4,757,ok,2020,2026-08
+LA,"Houses by bedrooms","4 bedrooms",209.44,1.3289,"West South Central",2.3,350,ok,2020,2026-08
+LA,"Houses by bedrooms","5 or more bedrooms",252.89,1.6046,"West South Central",7.6,71,ok,2020,2026-08
+LA,"Houses by size","Under 1,000 sq ft",132.65,0.8417,"West South Central",5.5,133,ok,2020,2026-08
+LA,"Houses by size","1,000 to 1,499 sq ft",140.63,0.8923,"West South Central",2.3,314,ok,2020,2026-08
+LA,"Houses by size","1,500 to 1,999 sq ft",164.31,1.0426,"West South Central",2.2,371,ok,2020,2026-08
+LA,"Houses by size","2,000 to 2,499 sq ft",183.43,1.1639,"West South Central",2.8,270,ok,2020,2026-08
+LA,"Houses by size","2,500 to 2,999 sq ft",195.47,1.2403,"West South Central",2.8,143,ok,2020,2026-08
+LA,"Houses by size","3,000 sq ft or more",254.16,1.6127,"West South Central",3.3,189,ok,2020,2026-08
+LA,"People in the home","1 person",110.92,0.7038,"West South Central",2.5,426,ok,2020,2026-08
+LA,"People in the home","2 people",157.13,0.997,"West South Central",1.4,679,ok,2020,2026-08
+LA,"People in the home","3 people",170.67,1.0829,"West South Central",3.1,280,ok,2020,2026-08
+LA,"People in the home","4 people",193.22,1.226,"West South Central",3.3,265,ok,2020,2026-08
+LA,"People in the home","5 or more people",203.08,1.2886,"West South Central",4.3,177,ok,2020,2026-08
+LA,"Main heating","Heated by electricity",164.36,1.0429,"West South Central",1.2,877,ok,2020,2026-08
+LA,"Main heating","Heated by natural gas",151.45,0.961,"West South Central",1.5,818,ok,2020,2026-08
+LA,"Main heating","Heated by propane, oil, wood or other",144.09,0.9143,"West South Central",5.4,74,ok,2020,2026-08
+LA,"Main heating","No heating",147.14,0.9336,"West South Central",9.7,58,ok,2020,2026-08
+LA,"Own or rent",Owned,173.98,1.1039,"West South Central",0.8,1322,ok,2020,2026-08
+LA,"Own or rent",Rented,123.67,0.7847,"West South Central",2.1,505,ok,2020,2026-08
+IN,"Type of home","Detached house",179.21,1.1406,"East North Central",0.6,1418,ok,2020,2026-08
+IN,"Type of home","Townhouse, duplex or row house",134.23,0.8543,"East North Central",4.1,201,ok,2020,2026-08
+IN,"Type of home","Apartment, building of 2 to 4 units",105.4,0.6708,"East North Central",4.9,94,ok,2020,2026-08
+IN,"Type of home","Apartment, building of 5 or more units",96.08,0.6115,"East North Central",4,238,ok,2020,2026-08
+IN,"Type of home","Mobile home",155.09,0.9871,"East North Central",6.3,63,ok,2020,2026-08
+IN,"Apartments by bedrooms","1 bedroom",86.35,0.5496,"East North Central",6.2,126,ok,2020,2026-08
+IN,"Apartments by bedrooms","2 bedrooms",107.41,0.6836,"East North Central",4.7,154,ok,2020,2026-08
+IN,"Apartments by bedrooms","3 or more bedrooms",111.44,0.7093,"East North Central",6.1,37,ok,2020,2026-08
+IN,"Houses by bedrooms","1 or 2 bedrooms",141.77,0.9023,"East North Central",3,340,ok,2020,2026-08
+IN,"Houses by bedrooms","3 bedrooms",171.34,1.0905,"East North Central",1.5,821,ok,2020,2026-08
+IN,"Houses by bedrooms","4 bedrooms",198.08,1.2607,"East North Central",2.4,371,ok,2020,2026-08
+IN,"Houses by bedrooms","5 or more bedrooms",248.48,1.5815,"East North Central",5.4,87,ok,2020,2026-08
+IN,"Houses by size","Under 1,000 sq ft",122.76,0.7813,"East North Central",4.5,142,ok,2020,2026-08
+IN,"Houses by size","1,000 to 1,499 sq ft",152.89,0.9731,"East North Central",2.4,480,ok,2020,2026-08
+IN,"Houses by size","1,500 to 1,999 sq ft",172.33,1.0968,"East North Central",2.1,457,ok,2020,2026-08
+IN,"Houses by size","2,000 to 2,499 sq ft",197.28,1.2556,"East North Central",3.2,247,ok,2020,2026-08
+IN,"Houses by size","2,500 to 2,999 sq ft",204.57,1.302,"East North Central",4.2,133,ok,2020,2026-08
+IN,"Houses by size","3,000 sq ft or more",258.51,1.6453,"East North Central",4.3,160,ok,2020,2026-08
+IN,"People in the home","1 person",110.44,0.7029,"East North Central",2.8,527,ok,2020,2026-08
+IN,"People in the home","2 people",159.33,1.0141,"East North Central",1.6,809,ok,2020,2026-08
+IN,"People in the home","3 people",187.05,1.1905,"East North Central",3.6,268,ok,2020,2026-08
+IN,"People in the home","4 people",191.43,1.2184,"East North Central",3.2,247,ok,2020,2026-08
+IN,"People in the home","5 or more people",212.77,1.3542,"East North Central",3.7,163,ok,2020,2026-08
+IN,"Main heating","Heated by electricity",185.97,1.1836,"East North Central",3.5,319,ok,2020,2026-08
+IN,"Main heating","Heated by natural gas",146.87,0.9348,"East North Central",1.1,1480,ok,2020,2026-08
+IN,"Main heating","Heated by propane, oil, wood or other",181.39,1.1545,"East North Central",3.6,206,ok,2020,2026-08
+IN,"Own or rent",Owned,173.32,1.1031,"East North Central",0.7,1545,ok,2020,2026-08
+IN,"Own or rent",Rented,115.14,0.7328,"East North Central",2.6,469,ok,2020,2026-08
+ME,"Type of home","Detached house",185.44,1.1869,"New England",1,1096,ok,2020,2026-08
+ME,"Type of home","Townhouse, duplex or row house",162.44,1.0397,"New England",5.4,148,ok,2020,2026-08
+ME,"Type of home","Apartment, building of 2 to 4 units",116.91,0.7483,"New England",3.6,164,ok,2020,2026-08
+ME,"Type of home","Apartment, building of 5 or more units",103.48,0.6623,"New England",4.4,217,ok,2020,2026-08
+ME,"Type of home","Mobile home",142.44,0.9117,"New England",8.3,55,ok,2020,2026-08
+ME,"Apartments by bedrooms","1 bedroom",90.13,0.5769,"New England",5,138,ok,2020,2026-08
+ME,"Apartments by bedrooms","2 bedrooms",114.16,0.7307,"New England",4.6,154,ok,2020,2026-08
+ME,"Apartments by bedrooms","3 or more bedrooms",136.27,0.8722,"New England",5.7,76,ok,2020,2026-08
+ME,"Houses by bedrooms","1 or 2 bedrooms",139.3,0.8916,"New England",4.4,281,ok,2020,2026-08
+ME,"Houses by bedrooms","3 bedrooms",175.78,1.1251,"New England",2.3,572,ok,2020,2026-08
+ME,"Houses by bedrooms","4 bedrooms",217.08,1.3894,"New England",3.4,317,ok,2020,2026-08
+ME,"Houses by bedrooms","5 or more bedrooms",248.39,1.5898,"New England",7.5,74,ok,2020,2026-08
+ME,"Houses by size","Under 1,000 sq ft",148.02,0.9474,"New England",7.3,87,ok,2020,2026-08
+ME,"Houses by size","1,000 to 1,499 sq ft",154.71,0.9902,"New England",3.4,345,ok,2020,2026-08
+ME,"Houses by size","1,500 to 1,999 sq ft",170.46,1.091,"New England",2.9,334,ok,2020,2026-08
+ME,"Houses by size","2,000 to 2,499 sq ft",184.22,1.1791,"New England",4.1,217,ok,2020,2026-08
+ME,"Houses by size","2,500 to 2,999 sq ft",209.09,1.3383,"New England",4.8,119,ok,2020,2026-08
+ME,"Houses by size","3,000 sq ft or more",287.4,1.8395,"New England",4.1,142,ok,2020,2026-08
+ME,"People in the home","1 person",103.6,0.6631,"New England",3.2,416,ok,2020,2026-08
+ME,"People in the home","2 people",153.63,0.9833,"New England",2.4,662,ok,2020,2026-08
+ME,"People in the home","3 people",180.31,1.1541,"New England",4.1,270,ok,2020,2026-08
+ME,"People in the home","4 people",201.39,1.289,"New England",4.5,204,ok,2020,2026-08
+ME,"People in the home","5 or more people",217.67,1.3932,"New England",6.1,128,ok,2020,2026-08
+ME,"Main heating","Heated by electricity",162.07,1.0373,"New England",4.2,200,ok,2020,2026-08
+ME,"Main heating","Heated by natural gas",138.85,0.8887,"New England",2.2,619,ok,2020,2026-08
+ME,"Main heating","Heated by propane, oil, wood or other",171.77,1.0994,"New England",1.9,857,ok,2020,2026-08
+ME,"Own or rent",Owned,177.88,1.1385,"New England",1.1,1264,ok,2020,2026-08
+ME,"Own or rent",Rented,114.8,0.7348,"New England",3.3,416,ok,2020,2026-08
+DC,"Type of home","Detached house",178.48,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+DC,"Type of home","Townhouse, duplex or row house",122.97,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+DC,"Type of home","Apartment, building of 2 to 4 units",105.24,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+DC,"Type of home","Apartment, building of 5 or more units",96.47,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+DC,"Type of home","Mobile home",172.73,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+DC,"Apartments by bedrooms",Studio,88.28,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+DC,"Apartments by bedrooms","1 bedroom",82.27,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+DC,"Apartments by bedrooms","2 bedrooms",104.37,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+DC,"Apartments by bedrooms","3 or more bedrooms",133.75,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+DC,"Houses by bedrooms","1 or 2 bedrooms",126.98,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+DC,"Houses by bedrooms","3 bedrooms",164.16,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+DC,"Houses by bedrooms","4 bedrooms",200.25,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+DC,"Houses by bedrooms","5 or more bedrooms",232.39,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+DC,"Houses by size","Under 1,000 sq ft",131.1,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+DC,"Houses by size","1,000 to 1,499 sq ft",139.95,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+DC,"Houses by size","1,500 to 1,999 sq ft",158.31,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+DC,"Houses by size","2,000 to 2,499 sq ft",177.5,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+DC,"Houses by size","2,500 to 2,999 sq ft",204.01,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+DC,"Houses by size","3,000 sq ft or more",244.63,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+DC,"People in the home","1 person",112.68,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+DC,"People in the home","2 people",153.3,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+DC,"People in the home","3 people",182.77,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+DC,"People in the home","4 people",189.99,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+DC,"People in the home","5 or more people",214,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+DC,"Main heating","Heated by electricity",168.16,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+DC,"Main heating","Heated by natural gas",136.74,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+DC,"Main heating","Heated by propane, oil, wood or other",148.87,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+DC,"Main heating","No heating",138.48,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+DC,"Own or rent",Owned,169.99,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+DC,"Own or rent",Rented,122.38,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+NC,"Type of home","Detached house",177.32,1.1485,"South Atlantic",0.5,2010,ok,2020,2026-08
+NC,"Type of home","Townhouse, duplex or row house",122.17,0.7913,"South Atlantic",2.6,393,ok,2020,2026-08
+NC,"Type of home","Apartment, building of 2 to 4 units",104.56,0.6772,"South Atlantic",4.6,156,ok,2020,2026-08
+NC,"Type of home","Apartment, building of 5 or more units",95.85,0.6208,"South Atlantic",2.4,482,ok,2020,2026-08
+NC,"Type of home","Mobile home",171.61,1.1115,"South Atlantic",2.8,215,ok,2020,2026-08
+NC,"Apartments by bedrooms",Studio,87.71,0.5681,"South Atlantic",12.8,32,ok,2020,2026-08
+NC,"Apartments by bedrooms","1 bedroom",81.74,0.5294,"South Atlantic",2.9,256,ok,2020,2026-08
+NC,"Apartments by bedrooms","2 bedrooms",103.69,0.6716,"South Atlantic",2.8,293,ok,2020,2026-08
+NC,"Apartments by bedrooms","3 or more bedrooms",132.89,0.8607,"South Atlantic",6.6,57,ok,2020,2026-08
+NC,"Houses by bedrooms","1 or 2 bedrooms",126.16,0.8171,"South Atlantic",2.4,383,ok,2020,2026-08
+NC,"Houses by bedrooms","3 bedrooms",163.1,1.0564,"South Atlantic",1.3,1198,ok,2020,2026-08
+NC,"Houses by bedrooms","4 bedrooms",198.95,1.2886,"South Atlantic",1.8,630,ok,2020,2026-08
+NC,"Houses by bedrooms","5 or more bedrooms",230.88,1.4954,"South Atlantic",5.1,192,ok,2020,2026-08
+NC,"Houses by size","Under 1,000 sq ft",130.25,0.8436,"South Atlantic",4.3,123,ok,2020,2026-08
+NC,"Houses by size","1,000 to 1,499 sq ft",139.05,0.9006,"South Atlantic",2.2,588,ok,2020,2026-08
+NC,"Houses by size","1,500 to 1,999 sq ft",157.28,1.0187,"South Atlantic",1.6,609,ok,2020,2026-08
+NC,"Houses by size","2,000 to 2,499 sq ft",176.35,1.1422,"South Atlantic",2,468,ok,2020,2026-08
+NC,"Houses by size","2,500 to 2,999 sq ft",202.69,1.3128,"South Atlantic",2.6,269,ok,2020,2026-08
+NC,"Houses by size","3,000 sq ft or more",243.05,1.5742,"South Atlantic",2.9,346,ok,2020,2026-08
+NC,"People in the home","1 person",111.95,0.7251,"South Atlantic",1.8,874,ok,2020,2026-08
+NC,"People in the home","2 people",152.31,0.9865,"South Atlantic",1.1,1249,ok,2020,2026-08
+NC,"People in the home","3 people",181.58,1.1761,"South Atlantic",2.1,491,ok,2020,2026-08
+NC,"People in the home","4 people",188.76,1.2226,"South Atlantic",1.9,400,ok,2020,2026-08
+NC,"People in the home","5 or more people",212.62,1.3771,"South Atlantic",2.7,242,ok,2020,2026-08
+NC,"Main heating","Heated by electricity",167.07,1.0821,"South Atlantic",0.9,1709,ok,2020,2026-08
+NC,"Main heating","Heated by natural gas",135.85,0.8799,"South Atlantic",1.5,1121,ok,2020,2026-08
+NC,"Main heating","Heated by propane, oil, wood or other",147.91,0.958,"South Atlantic",2.9,223,ok,2020,2026-08
+NC,"Main heating","No heating",137.58,0.8911,"South Atlantic",3.9,203,ok,2020,2026-08
+NC,"Own or rent",Owned,168.89,1.0939,"South Atlantic",0.6,2340,ok,2020,2026-08
+NC,"Own or rent",Rented,121.59,0.7875,"South Atlantic",1.8,916,ok,2020,2026-08
+KY,"Type of home","Detached house",166.07,1.0799,"East South Central",0.7,953,ok,2020,2026-08
+KY,"Type of home","Townhouse, duplex or row house",121.6,0.7907,"East South Central",4.4,88,ok,2020,2026-08
+KY,"Type of home","Apartment, building of 2 to 4 units",99.57,0.6475,"East South Central",5.9,62,ok,2020,2026-08
+KY,"Type of home","Apartment, building of 5 or more units",89.78,0.5838,"East South Central",4.1,105,ok,2020,2026-08
+KY,"Type of home","Mobile home",177.74,1.1558,"East South Central",3.7,135,ok,2020,2026-08
+KY,"Apartments by bedrooms","1 bedroom",75.85,0.4932,"East South Central",5.5,56,ok,2020,2026-08
+KY,"Apartments by bedrooms","2 bedrooms",99.53,0.6472,"East South Central",4.3,91,ok,2020,2026-08
+KY,"Houses by bedrooms","1 or 2 bedrooms",130.81,0.8506,"East South Central",3.1,200,ok,2020,2026-08
+KY,"Houses by bedrooms","3 bedrooms",158.89,1.0332,"East South Central",1.7,593,ok,2020,2026-08
+KY,"Houses by bedrooms","4 bedrooms",190.04,1.2358,"East South Central",2.5,202,ok,2020,2026-08
+KY,"Houses by bedrooms","5 or more bedrooms",256.45,1.6676,"East South Central",11.5,46,ok,2020,2026-08
+KY,"Houses by size","Under 1,000 sq ft",131.58,0.8556,"East South Central",4.9,85,ok,2020,2026-08
+KY,"Houses by size","1,000 to 1,499 sq ft",138,0.8974,"East South Central",2.9,289,ok,2020,2026-08
+KY,"Houses by size","1,500 to 1,999 sq ft",155.18,1.0091,"East South Central",2.2,275,ok,2020,2026-08
+KY,"Houses by size","2,000 to 2,499 sq ft",171.65,1.1162,"East South Central",3.2,179,ok,2020,2026-08
+KY,"Houses by size","2,500 to 2,999 sq ft",207.47,1.3491,"East South Central",4.2,88,ok,2020,2026-08
+KY,"Houses by size","3,000 sq ft or more",235.81,1.5334,"East South Central",5.2,125,ok,2020,2026-08
+KY,"People in the home","1 person",119.75,0.7787,"East South Central",2.5,370,ok,2020,2026-08
+KY,"People in the home","2 people",150.92,0.9814,"East South Central",1.9,529,ok,2020,2026-08
+KY,"People in the home","3 people",177.45,1.1539,"East South Central",3.9,201,ok,2020,2026-08
+KY,"People in the home","4 people",185.11,1.2037,"East South Central",5.1,130,ok,2020,2026-08
+KY,"People in the home","5 or more people",212.62,1.3826,"East South Central",2.9,113,ok,2020,2026-08
+KY,"Main heating","Heated by electricity",165.75,1.0778,"East South Central",1,743,ok,2020,2026-08
+KY,"Main heating","Heated by natural gas",136.1,0.885,"East South Central",2.1,502,ok,2020,2026-08
+KY,"Main heating","Heated by propane, oil, wood or other",146.22,0.9508,"East South Central",4.4,90,ok,2020,2026-08
+KY,"Own or rent",Owned,168.21,1.0938,"East South Central",0.7,980,ok,2020,2026-08
+KY,"Own or rent",Rented,119.74,0.7786,"East South Central",2.5,363,ok,2020,2026-08
+OK,"Type of home","Detached house",165.12,1.1127,"West South Central",0.6,1320,ok,2020,2026-08
+OK,"Type of home","Townhouse, duplex or row house",121.74,0.8204,"West South Central",5.6,100,ok,2020,2026-08
+OK,"Type of home","Apartment, building of 2 to 4 units",112.6,0.7588,"West South Central",5.2,84,ok,2020,2026-08
+OK,"Type of home","Apartment, building of 5 or more units",95.13,0.6411,"West South Central",3.4,189,ok,2020,2026-08
+OK,"Type of home","Mobile home",152.93,1.0306,"West South Central",3.5,134,ok,2020,2026-08
+OK,"Apartments by bedrooms","1 bedroom",79.09,0.533,"West South Central",5,109,ok,2020,2026-08
+OK,"Apartments by bedrooms","2 bedrooms",112.23,0.7563,"West South Central",3.2,136,ok,2020,2026-08
+OK,"Houses by bedrooms","1 or 2 bedrooms",127.32,0.858,"West South Central",3.9,242,ok,2020,2026-08
+OK,"Houses by bedrooms","3 bedrooms",152.21,1.0257,"West South Central",1.4,757,ok,2020,2026-08
+OK,"Houses by bedrooms","4 bedrooms",197.2,1.3289,"West South Central",2.3,350,ok,2020,2026-08
+OK,"Houses by bedrooms","5 or more bedrooms",238.11,1.6046,"West South Central",7.6,71,ok,2020,2026-08
+OK,"Houses by size","Under 1,000 sq ft",124.9,0.8417,"West South Central",5.5,133,ok,2020,2026-08
+OK,"Houses by size","1,000 to 1,499 sq ft",132.41,0.8923,"West South Central",2.3,314,ok,2020,2026-08
+OK,"Houses by size","1,500 to 1,999 sq ft",154.71,1.0426,"West South Central",2.2,371,ok,2020,2026-08
+OK,"Houses by size","2,000 to 2,499 sq ft",172.72,1.1639,"West South Central",2.8,270,ok,2020,2026-08
+OK,"Houses by size","2,500 to 2,999 sq ft",184.05,1.2403,"West South Central",2.8,143,ok,2020,2026-08
+OK,"Houses by size","3,000 sq ft or more",239.31,1.6127,"West South Central",3.3,189,ok,2020,2026-08
+OK,"People in the home","1 person",104.44,0.7038,"West South Central",2.5,426,ok,2020,2026-08
+OK,"People in the home","2 people",147.95,0.997,"West South Central",1.4,679,ok,2020,2026-08
+OK,"People in the home","3 people",160.7,1.0829,"West South Central",3.1,280,ok,2020,2026-08
+OK,"People in the home","4 people",181.93,1.226,"West South Central",3.3,265,ok,2020,2026-08
+OK,"People in the home","5 or more people",191.22,1.2886,"West South Central",4.3,177,ok,2020,2026-08
+OK,"Main heating","Heated by electricity",154.76,1.0429,"West South Central",1.2,877,ok,2020,2026-08
+OK,"Main heating","Heated by natural gas",142.61,0.961,"West South Central",1.5,818,ok,2020,2026-08
+OK,"Main heating","Heated by propane, oil, wood or other",135.68,0.9143,"West South Central",5.4,74,ok,2020,2026-08
+OK,"Main heating","No heating",138.54,0.9336,"West South Central",9.7,58,ok,2020,2026-08
+OK,"Own or rent",Owned,163.81,1.1039,"West South Central",0.8,1322,ok,2020,2026-08
+OK,"Own or rent",Rented,116.44,0.7847,"West South Central",2.1,505,ok,2020,2026-08
+MO,"Type of home","Detached house",162.83,1.1215,"West North Central",0.6,1325,ok,2020,2026-08
+MO,"Type of home","Townhouse, duplex or row house",122.16,0.8414,"West North Central",4.1,151,ok,2020,2026-08
+MO,"Type of home","Apartment, building of 2 to 4 units",102.07,0.703,"West North Central",7.2,71,ok,2020,2026-08
+MO,"Type of home","Apartment, building of 5 or more units",80.67,0.5556,"West North Central",4.7,203,ok,2020,2026-08
+MO,"Type of home","Mobile home",162.1,1.1165,"West North Central",7.2,68,ok,2020,2026-08
+MO,"Apartments by bedrooms","1 bedroom",74.51,0.5132,"West North Central",8.1,97,ok,2020,2026-08
+MO,"Apartments by bedrooms","2 bedrooms",92.75,0.6388,"West North Central",4.5,139,ok,2020,2026-08
+MO,"Houses by bedrooms","1 or 2 bedrooms",132.99,0.916,"West North Central",3.3,309,ok,2020,2026-08
+MO,"Houses by bedrooms","3 bedrooms",154.61,1.0649,"West North Central",1.8,613,ok,2020,2026-08
+MO,"Houses by bedrooms","4 bedrooms",177.59,1.2232,"West North Central",2.5,398,ok,2020,2026-08
+MO,"Houses by bedrooms","5 or more bedrooms",202.39,1.394,"West North Central",4.6,156,ok,2020,2026-08
+MO,"Houses by size","Under 1,000 sq ft",126.46,0.871,"West North Central",5.2,136,ok,2020,2026-08
+MO,"Houses by size","1,000 to 1,499 sq ft",137.77,0.9489,"West North Central",2.3,396,ok,2020,2026-08
+MO,"Houses by size","1,500 to 1,999 sq ft",152.52,1.0505,"West North Central",2,358,ok,2020,2026-08
+MO,"Houses by size","2,000 to 2,499 sq ft",186.83,1.2868,"West North Central",3,257,ok,2020,2026-08
+MO,"Houses by size","2,500 to 2,999 sq ft",174.94,1.2049,"West North Central",3.8,147,ok,2020,2026-08
+MO,"Houses by size","3,000 sq ft or more",212.02,1.4603,"West North Central",3.6,182,ok,2020,2026-08
+MO,"People in the home","1 person",99.66,0.6864,"West North Central",3.1,497,ok,2020,2026-08
+MO,"People in the home","2 people",150.81,1.0387,"West North Central",1.6,707,ok,2020,2026-08
+MO,"People in the home","3 people",168.92,1.1635,"West North Central",3.3,251,ok,2020,2026-08
+MO,"People in the home","4 people",176.84,1.218,"West North Central",3.3,204,ok,2020,2026-08
+MO,"People in the home","5 or more people",198.18,1.365,"West North Central",3.2,159,ok,2020,2026-08
+MO,"Main heating","Heated by electricity",172.48,1.188,"West North Central",3,391,ok,2020,2026-08
+MO,"Main heating","Heated by natural gas",131.92,0.9086,"West North Central",1.4,1175,ok,2020,2026-08
+MO,"Main heating","Heated by propane, oil, wood or other",164.57,1.1335,"West North Central",3.1,246,ok,2020,2026-08
+MO,"Own or rent",Owned,159.6,1.0993,"West North Central",0.7,1389,ok,2020,2026-08
+MO,"Own or rent",Rented,108.56,0.7477,"West North Central",2.9,429,ok,2020,2026-08
+AR,"Type of home","Detached house",159.3,1.1127,"West South Central",0.6,1320,ok,2020,2026-08
+AR,"Type of home","Townhouse, duplex or row house",117.45,0.8204,"West South Central",5.6,100,ok,2020,2026-08
+AR,"Type of home","Apartment, building of 2 to 4 units",108.64,0.7588,"West South Central",5.2,84,ok,2020,2026-08
+AR,"Type of home","Apartment, building of 5 or more units",91.78,0.6411,"West South Central",3.4,189,ok,2020,2026-08
+AR,"Type of home","Mobile home",147.55,1.0306,"West South Central",3.5,134,ok,2020,2026-08
+AR,"Apartments by bedrooms","1 bedroom",76.31,0.533,"West South Central",5,109,ok,2020,2026-08
+AR,"Apartments by bedrooms","2 bedrooms",108.28,0.7563,"West South Central",3.2,136,ok,2020,2026-08
+AR,"Houses by bedrooms","1 or 2 bedrooms",122.84,0.858,"West South Central",3.9,242,ok,2020,2026-08
+AR,"Houses by bedrooms","3 bedrooms",146.85,1.0257,"West South Central",1.4,757,ok,2020,2026-08
+AR,"Houses by bedrooms","4 bedrooms",190.26,1.3289,"West South Central",2.3,350,ok,2020,2026-08
+AR,"Houses by bedrooms","5 or more bedrooms",229.73,1.6046,"West South Central",7.6,71,ok,2020,2026-08
+AR,"Houses by size","Under 1,000 sq ft",120.5,0.8417,"West South Central",5.5,133,ok,2020,2026-08
+AR,"Houses by size","1,000 to 1,499 sq ft",127.75,0.8923,"West South Central",2.3,314,ok,2020,2026-08
+AR,"Houses by size","1,500 to 1,999 sq ft",149.27,1.0426,"West South Central",2.2,371,ok,2020,2026-08
+AR,"Houses by size","2,000 to 2,499 sq ft",166.63,1.1639,"West South Central",2.8,270,ok,2020,2026-08
+AR,"Houses by size","2,500 to 2,999 sq ft",177.57,1.2403,"West South Central",2.8,143,ok,2020,2026-08
+AR,"Houses by size","3,000 sq ft or more",230.89,1.6127,"West South Central",3.3,189,ok,2020,2026-08
+AR,"People in the home","1 person",100.76,0.7038,"West South Central",2.5,426,ok,2020,2026-08
+AR,"People in the home","2 people",142.74,0.997,"West South Central",1.4,679,ok,2020,2026-08
+AR,"People in the home","3 people",155.04,1.0829,"West South Central",3.1,280,ok,2020,2026-08
+AR,"People in the home","4 people",175.52,1.226,"West South Central",3.3,265,ok,2020,2026-08
+AR,"People in the home","5 or more people",184.49,1.2886,"West South Central",4.3,177,ok,2020,2026-08
+AR,"Main heating","Heated by electricity",149.31,1.0429,"West South Central",1.2,877,ok,2020,2026-08
+AR,"Main heating","Heated by natural gas",137.58,0.961,"West South Central",1.5,818,ok,2020,2026-08
+AR,"Main heating","Heated by propane, oil, wood or other",130.9,0.9143,"West South Central",5.4,74,ok,2020,2026-08
+AR,"Main heating","No heating",133.66,0.9336,"West South Central",9.7,58,ok,2020,2026-08
+AR,"Own or rent",Owned,158.04,1.1039,"West South Central",0.8,1322,ok,2020,2026-08
+AR,"Own or rent",Rented,112.34,0.7847,"West South Central",2.1,505,ok,2020,2026-08
+VT,"Type of home","Detached house",167.45,1.1869,"New England",1,1096,ok,2020,2026-08
+VT,"Type of home","Townhouse, duplex or row house",146.69,1.0397,"New England",5.4,148,ok,2020,2026-08
+VT,"Type of home","Apartment, building of 2 to 4 units",105.57,0.7483,"New England",3.6,164,ok,2020,2026-08
+VT,"Type of home","Apartment, building of 5 or more units",93.44,0.6623,"New England",4.4,217,ok,2020,2026-08
+VT,"Type of home","Mobile home",128.63,0.9117,"New England",8.3,55,ok,2020,2026-08
+VT,"Apartments by bedrooms","1 bedroom",81.39,0.5769,"New England",5,138,ok,2020,2026-08
+VT,"Apartments by bedrooms","2 bedrooms",103.09,0.7307,"New England",4.6,154,ok,2020,2026-08
+VT,"Apartments by bedrooms","3 or more bedrooms",123.05,0.8722,"New England",5.7,76,ok,2020,2026-08
+VT,"Houses by bedrooms","1 or 2 bedrooms",125.79,0.8916,"New England",4.4,281,ok,2020,2026-08
+VT,"Houses by bedrooms","3 bedrooms",158.73,1.1251,"New England",2.3,572,ok,2020,2026-08
+VT,"Houses by bedrooms","4 bedrooms",196.02,1.3894,"New England",3.4,317,ok,2020,2026-08
+VT,"Houses by bedrooms","5 or more bedrooms",224.3,1.5898,"New England",7.5,74,ok,2020,2026-08
+VT,"Houses by size","Under 1,000 sq ft",133.66,0.9474,"New England",7.3,87,ok,2020,2026-08
+VT,"Houses by size","1,000 to 1,499 sq ft",139.7,0.9902,"New England",3.4,345,ok,2020,2026-08
+VT,"Houses by size","1,500 to 1,999 sq ft",153.92,1.091,"New England",2.9,334,ok,2020,2026-08
+VT,"Houses by size","2,000 to 2,499 sq ft",166.35,1.1791,"New England",4.1,217,ok,2020,2026-08
+VT,"Houses by size","2,500 to 2,999 sq ft",188.81,1.3383,"New England",4.8,119,ok,2020,2026-08
+VT,"Houses by size","3,000 sq ft or more",259.52,1.8395,"New England",4.1,142,ok,2020,2026-08
+VT,"People in the home","1 person",93.55,0.6631,"New England",3.2,416,ok,2020,2026-08
+VT,"People in the home","2 people",138.73,0.9833,"New England",2.4,662,ok,2020,2026-08
+VT,"People in the home","3 people",162.83,1.1541,"New England",4.1,270,ok,2020,2026-08
+VT,"People in the home","4 people",181.86,1.289,"New England",4.5,204,ok,2020,2026-08
+VT,"People in the home","5 or more people",196.56,1.3932,"New England",6.1,128,ok,2020,2026-08
+VT,"Main heating","Heated by electricity",146.35,1.0373,"New England",4.2,200,ok,2020,2026-08
+VT,"Main heating","Heated by natural gas",125.38,0.8887,"New England",2.2,619,ok,2020,2026-08
+VT,"Main heating","Heated by propane, oil, wood or other",155.11,1.0994,"New England",1.9,857,ok,2020,2026-08
+VT,"Own or rent",Owned,160.62,1.1385,"New England",1.1,1264,ok,2020,2026-08
+VT,"Own or rent",Rented,103.67,0.7348,"New England",3.3,416,ok,2020,2026-08
+SD,"Type of home","Detached house",157.31,1.1215,"West North Central",0.6,1325,ok,2020,2026-08
+SD,"Type of home","Townhouse, duplex or row house",118.02,0.8414,"West North Central",4.1,151,ok,2020,2026-08
+SD,"Type of home","Apartment, building of 2 to 4 units",98.61,0.703,"West North Central",7.2,71,ok,2020,2026-08
+SD,"Type of home","Apartment, building of 5 or more units",77.93,0.5556,"West North Central",4.7,203,ok,2020,2026-08
+SD,"Type of home","Mobile home",156.61,1.1165,"West North Central",7.2,68,ok,2020,2026-08
+SD,"Apartments by bedrooms","1 bedroom",71.99,0.5132,"West North Central",8.1,97,ok,2020,2026-08
+SD,"Apartments by bedrooms","2 bedrooms",89.6,0.6388,"West North Central",4.5,139,ok,2020,2026-08
+SD,"Houses by bedrooms","1 or 2 bedrooms",128.49,0.916,"West North Central",3.3,309,ok,2020,2026-08
+SD,"Houses by bedrooms","3 bedrooms",149.37,1.0649,"West North Central",1.8,613,ok,2020,2026-08
+SD,"Houses by bedrooms","4 bedrooms",171.58,1.2232,"West North Central",2.5,398,ok,2020,2026-08
+SD,"Houses by bedrooms","5 or more bedrooms",195.54,1.394,"West North Central",4.6,156,ok,2020,2026-08
+SD,"Houses by size","Under 1,000 sq ft",122.17,0.871,"West North Central",5.2,136,ok,2020,2026-08
+SD,"Houses by size","1,000 to 1,499 sq ft",133.1,0.9489,"West North Central",2.3,396,ok,2020,2026-08
+SD,"Houses by size","1,500 to 1,999 sq ft",147.35,1.0505,"West North Central",2,358,ok,2020,2026-08
+SD,"Houses by size","2,000 to 2,499 sq ft",180.5,1.2868,"West North Central",3,257,ok,2020,2026-08
+SD,"Houses by size","2,500 to 2,999 sq ft",169.01,1.2049,"West North Central",3.8,147,ok,2020,2026-08
+SD,"Houses by size","3,000 sq ft or more",204.84,1.4603,"West North Central",3.6,182,ok,2020,2026-08
+SD,"People in the home","1 person",96.28,0.6864,"West North Central",3.1,497,ok,2020,2026-08
+SD,"People in the home","2 people",145.7,1.0387,"West North Central",1.6,707,ok,2020,2026-08
+SD,"People in the home","3 people",163.2,1.1635,"West North Central",3.3,251,ok,2020,2026-08
+SD,"People in the home","4 people",170.85,1.218,"West North Central",3.3,204,ok,2020,2026-08
+SD,"People in the home","5 or more people",191.47,1.365,"West North Central",3.2,159,ok,2020,2026-08
+SD,"Main heating","Heated by electricity",166.64,1.188,"West North Central",3,391,ok,2020,2026-08
+SD,"Main heating","Heated by natural gas",127.45,0.9086,"West North Central",1.4,1175,ok,2020,2026-08
+SD,"Main heating","Heated by propane, oil, wood or other",159,1.1335,"West North Central",3.1,246,ok,2020,2026-08
+SD,"Own or rent",Owned,154.2,1.0993,"West North Central",0.7,1389,ok,2020,2026-08
+SD,"Own or rent",Rented,104.88,0.7477,"West North Central",2.9,429,ok,2020,2026-08
+MI,"Type of home","Detached house",153,1.1406,"East North Central",0.6,1418,ok,2020,2026-08
+MI,"Type of home","Townhouse, duplex or row house",114.6,0.8543,"East North Central",4.1,201,ok,2020,2026-08
+MI,"Type of home","Apartment, building of 2 to 4 units",89.98,0.6708,"East North Central",4.9,94,ok,2020,2026-08
+MI,"Type of home","Apartment, building of 5 or more units",82.03,0.6115,"East North Central",4,238,ok,2020,2026-08
+MI,"Type of home","Mobile home",132.41,0.9871,"East North Central",6.3,63,ok,2020,2026-08
+MI,"Apartments by bedrooms","1 bedroom",73.72,0.5496,"East North Central",6.2,126,ok,2020,2026-08
+MI,"Apartments by bedrooms","2 bedrooms",91.7,0.6836,"East North Central",4.7,154,ok,2020,2026-08
+MI,"Apartments by bedrooms","3 or more bedrooms",95.14,0.7093,"East North Central",6.1,37,ok,2020,2026-08
+MI,"Houses by bedrooms","1 or 2 bedrooms",121.03,0.9023,"East North Central",3,340,ok,2020,2026-08
+MI,"Houses by bedrooms","3 bedrooms",146.28,1.0905,"East North Central",1.5,821,ok,2020,2026-08
+MI,"Houses by bedrooms","4 bedrooms",169.11,1.2607,"East North Central",2.4,371,ok,2020,2026-08
+MI,"Houses by bedrooms","5 or more bedrooms",212.14,1.5815,"East North Central",5.4,87,ok,2020,2026-08
+MI,"Houses by size","Under 1,000 sq ft",104.8,0.7813,"East North Central",4.5,142,ok,2020,2026-08
+MI,"Houses by size","1,000 to 1,499 sq ft",130.53,0.9731,"East North Central",2.4,480,ok,2020,2026-08
+MI,"Houses by size","1,500 to 1,999 sq ft",147.12,1.0968,"East North Central",2.1,457,ok,2020,2026-08
+MI,"Houses by size","2,000 to 2,499 sq ft",168.43,1.2556,"East North Central",3.2,247,ok,2020,2026-08
+MI,"Houses by size","2,500 to 2,999 sq ft",174.65,1.302,"East North Central",4.2,133,ok,2020,2026-08
+MI,"Houses by size","3,000 sq ft or more",220.7,1.6453,"East North Central",4.3,160,ok,2020,2026-08
+MI,"People in the home","1 person",94.29,0.7029,"East North Central",2.8,527,ok,2020,2026-08
+MI,"People in the home","2 people",136.03,1.0141,"East North Central",1.6,809,ok,2020,2026-08
+MI,"People in the home","3 people",159.69,1.1905,"East North Central",3.6,268,ok,2020,2026-08
+MI,"People in the home","4 people",163.44,1.2184,"East North Central",3.2,247,ok,2020,2026-08
+MI,"People in the home","5 or more people",181.65,1.3542,"East North Central",3.7,163,ok,2020,2026-08
+MI,"Main heating","Heated by electricity",158.77,1.1836,"East North Central",3.5,319,ok,2020,2026-08
+MI,"Main heating","Heated by natural gas",125.39,0.9348,"East North Central",1.1,1480,ok,2020,2026-08
+MI,"Main heating","Heated by propane, oil, wood or other",154.86,1.1545,"East North Central",3.6,206,ok,2020,2026-08
+MI,"Own or rent",Owned,147.97,1.1031,"East North Central",0.7,1545,ok,2020,2026-08
+MI,"Own or rent",Rented,98.3,0.7328,"East North Central",2.6,469,ok,2020,2026-08
+KS,"Type of home","Detached house",150.38,1.1215,"West North Central",0.6,1325,ok,2020,2026-08
+KS,"Type of home","Townhouse, duplex or row house",112.82,0.8414,"West North Central",4.1,151,ok,2020,2026-08
+KS,"Type of home","Apartment, building of 2 to 4 units",94.26,0.703,"West North Central",7.2,71,ok,2020,2026-08
+KS,"Type of home","Apartment, building of 5 or more units",74.5,0.5556,"West North Central",4.7,203,ok,2020,2026-08
+KS,"Type of home","Mobile home",149.71,1.1165,"West North Central",7.2,68,ok,2020,2026-08
+KS,"Apartments by bedrooms","1 bedroom",68.81,0.5132,"West North Central",8.1,97,ok,2020,2026-08
+KS,"Apartments by bedrooms","2 bedrooms",85.66,0.6388,"West North Central",4.5,139,ok,2020,2026-08
+KS,"Houses by bedrooms","1 or 2 bedrooms",122.83,0.916,"West North Central",3.3,309,ok,2020,2026-08
+KS,"Houses by bedrooms","3 bedrooms",142.79,1.0649,"West North Central",1.8,613,ok,2020,2026-08
+KS,"Houses by bedrooms","4 bedrooms",164.02,1.2232,"West North Central",2.5,398,ok,2020,2026-08
+KS,"Houses by bedrooms","5 or more bedrooms",186.92,1.394,"West North Central",4.6,156,ok,2020,2026-08
+KS,"Houses by size","Under 1,000 sq ft",116.79,0.871,"West North Central",5.2,136,ok,2020,2026-08
+KS,"Houses by size","1,000 to 1,499 sq ft",127.24,0.9489,"West North Central",2.3,396,ok,2020,2026-08
+KS,"Houses by size","1,500 to 1,999 sq ft",140.86,1.0505,"West North Central",2,358,ok,2020,2026-08
+KS,"Houses by size","2,000 to 2,499 sq ft",172.55,1.2868,"West North Central",3,257,ok,2020,2026-08
+KS,"Houses by size","2,500 to 2,999 sq ft",161.56,1.2049,"West North Central",3.8,147,ok,2020,2026-08
+KS,"Houses by size","3,000 sq ft or more",195.81,1.4603,"West North Central",3.6,182,ok,2020,2026-08
+KS,"People in the home","1 person",92.04,0.6864,"West North Central",3.1,497,ok,2020,2026-08
+KS,"People in the home","2 people",139.28,1.0387,"West North Central",1.6,707,ok,2020,2026-08
+KS,"People in the home","3 people",156.01,1.1635,"West North Central",3.3,251,ok,2020,2026-08
+KS,"People in the home","4 people",163.32,1.218,"West North Central",3.3,204,ok,2020,2026-08
+KS,"People in the home","5 or more people",183.03,1.365,"West North Central",3.2,159,ok,2020,2026-08
+KS,"Main heating","Heated by electricity",159.3,1.188,"West North Central",3,391,ok,2020,2026-08
+KS,"Main heating","Heated by natural gas",121.83,0.9086,"West North Central",1.4,1175,ok,2020,2026-08
+KS,"Main heating","Heated by propane, oil, wood or other",151.99,1.1335,"West North Central",3.1,246,ok,2020,2026-08
+KS,"Own or rent",Owned,147.4,1.0993,"West North Central",0.7,1389,ok,2020,2026-08
+KS,"Own or rent",Rented,100.26,0.7477,"West North Central",2.9,429,ok,2020,2026-08
+ND,"Type of home","Detached house",148.97,1.1215,"West North Central",0.6,1325,ok,2020,2026-08
+ND,"Type of home","Townhouse, duplex or row house",111.76,0.8414,"West North Central",4.1,151,ok,2020,2026-08
+ND,"Type of home","Apartment, building of 2 to 4 units",93.38,0.703,"West North Central",7.2,71,ok,2020,2026-08
+ND,"Type of home","Apartment, building of 5 or more units",73.8,0.5556,"West North Central",4.7,203,ok,2020,2026-08
+ND,"Type of home","Mobile home",148.31,1.1165,"West North Central",7.2,68,ok,2020,2026-08
+ND,"Apartments by bedrooms","1 bedroom",68.17,0.5132,"West North Central",8.1,97,ok,2020,2026-08
+ND,"Apartments by bedrooms","2 bedrooms",84.85,0.6388,"West North Central",4.5,139,ok,2020,2026-08
+ND,"Houses by bedrooms","1 or 2 bedrooms",121.67,0.916,"West North Central",3.3,309,ok,2020,2026-08
+ND,"Houses by bedrooms","3 bedrooms",141.45,1.0649,"West North Central",1.8,613,ok,2020,2026-08
+ND,"Houses by bedrooms","4 bedrooms",162.48,1.2232,"West North Central",2.5,398,ok,2020,2026-08
+ND,"Houses by bedrooms","5 or more bedrooms",185.17,1.394,"West North Central",4.6,156,ok,2020,2026-08
+ND,"Houses by size","Under 1,000 sq ft",115.7,0.871,"West North Central",5.2,136,ok,2020,2026-08
+ND,"Houses by size","1,000 to 1,499 sq ft",126.04,0.9489,"West North Central",2.3,396,ok,2020,2026-08
+ND,"Houses by size","1,500 to 1,999 sq ft",139.54,1.0505,"West North Central",2,358,ok,2020,2026-08
+ND,"Houses by size","2,000 to 2,499 sq ft",170.93,1.2868,"West North Central",3,257,ok,2020,2026-08
+ND,"Houses by size","2,500 to 2,999 sq ft",160.05,1.2049,"West North Central",3.8,147,ok,2020,2026-08
+ND,"Houses by size","3,000 sq ft or more",193.97,1.4603,"West North Central",3.6,182,ok,2020,2026-08
+ND,"People in the home","1 person",91.18,0.6864,"West North Central",3.1,497,ok,2020,2026-08
+ND,"People in the home","2 people",137.97,1.0387,"West North Central",1.6,707,ok,2020,2026-08
+ND,"People in the home","3 people",154.55,1.1635,"West North Central",3.3,251,ok,2020,2026-08
+ND,"People in the home","4 people",161.79,1.218,"West North Central",3.3,204,ok,2020,2026-08
+ND,"People in the home","5 or more people",181.32,1.365,"West North Central",3.2,159,ok,2020,2026-08
+ND,"Main heating","Heated by electricity",157.8,1.188,"West North Central",3,391,ok,2020,2026-08
+ND,"Main heating","Heated by natural gas",120.69,0.9086,"West North Central",1.4,1175,ok,2020,2026-08
+ND,"Main heating","Heated by propane, oil, wood or other",150.56,1.1335,"West North Central",3.1,246,ok,2020,2026-08
+ND,"Own or rent",Owned,146.02,1.0993,"West North Central",0.7,1389,ok,2020,2026-08
+ND,"Own or rent",Rented,99.32,0.7477,"West North Central",2.9,429,ok,2020,2026-08
+IL,"Type of home","Detached house",150.4,1.1406,"East North Central",0.6,1418,ok,2020,2026-08
+IL,"Type of home","Townhouse, duplex or row house",112.65,0.8543,"East North Central",4.1,201,ok,2020,2026-08
+IL,"Type of home","Apartment, building of 2 to 4 units",88.45,0.6708,"East North Central",4.9,94,ok,2020,2026-08
+IL,"Type of home","Apartment, building of 5 or more units",80.63,0.6115,"East North Central",4,238,ok,2020,2026-08
+IL,"Type of home","Mobile home",130.16,0.9871,"East North Central",6.3,63,ok,2020,2026-08
+IL,"Apartments by bedrooms","1 bedroom",72.47,0.5496,"East North Central",6.2,126,ok,2020,2026-08
+IL,"Apartments by bedrooms","2 bedrooms",90.14,0.6836,"East North Central",4.7,154,ok,2020,2026-08
+IL,"Apartments by bedrooms","3 or more bedrooms",93.53,0.7093,"East North Central",6.1,37,ok,2020,2026-08
+IL,"Houses by bedrooms","1 or 2 bedrooms",118.98,0.9023,"East North Central",3,340,ok,2020,2026-08
+IL,"Houses by bedrooms","3 bedrooms",143.79,1.0905,"East North Central",1.5,821,ok,2020,2026-08
+IL,"Houses by bedrooms","4 bedrooms",166.23,1.2607,"East North Central",2.4,371,ok,2020,2026-08
+IL,"Houses by bedrooms","5 or more bedrooms",208.53,1.5815,"East North Central",5.4,87,ok,2020,2026-08
+IL,"Houses by size","Under 1,000 sq ft",103.02,0.7813,"East North Central",4.5,142,ok,2020,2026-08
+IL,"Houses by size","1,000 to 1,499 sq ft",128.31,0.9731,"East North Central",2.4,480,ok,2020,2026-08
+IL,"Houses by size","1,500 to 1,999 sq ft",144.62,1.0968,"East North Central",2.1,457,ok,2020,2026-08
+IL,"Houses by size","2,000 to 2,499 sq ft",165.56,1.2556,"East North Central",3.2,247,ok,2020,2026-08
+IL,"Houses by size","2,500 to 2,999 sq ft",171.68,1.302,"East North Central",4.2,133,ok,2020,2026-08
+IL,"Houses by size","3,000 sq ft or more",216.95,1.6453,"East North Central",4.3,160,ok,2020,2026-08
+IL,"People in the home","1 person",92.68,0.7029,"East North Central",2.8,527,ok,2020,2026-08
+IL,"People in the home","2 people",133.72,1.0141,"East North Central",1.6,809,ok,2020,2026-08
+IL,"People in the home","3 people",156.98,1.1905,"East North Central",3.6,268,ok,2020,2026-08
+IL,"People in the home","4 people",160.66,1.2184,"East North Central",3.2,247,ok,2020,2026-08
+IL,"People in the home","5 or more people",178.56,1.3542,"East North Central",3.7,163,ok,2020,2026-08
+IL,"Main heating","Heated by electricity",156.07,1.1836,"East North Central",3.5,319,ok,2020,2026-08
+IL,"Main heating","Heated by natural gas",123.26,0.9348,"East North Central",1.1,1480,ok,2020,2026-08
+IL,"Main heating","Heated by propane, oil, wood or other",152.23,1.1545,"East North Central",3.6,206,ok,2020,2026-08
+IL,"Own or rent",Owned,145.45,1.1031,"East North Central",0.7,1545,ok,2020,2026-08
+IL,"Own or rent",Rented,96.63,0.7328,"East North Central",2.6,469,ok,2020,2026-08
+WA,"Type of home","Detached house",156.22,1.1865,Pacific,0.8,1585,ok,2020,2026-08
+WA,"Type of home","Townhouse, duplex or row house",121,0.919,Pacific,5.1,257,ok,2020,2026-08
+WA,"Type of home","Apartment, building of 2 to 4 units",92.77,0.7046,Pacific,4.8,132,ok,2020,2026-08
+WA,"Type of home","Apartment, building of 5 or more units",84.58,0.6424,Pacific,3,420,ok,2020,2026-08
+WA,"Type of home","Mobile home",128.15,0.9733,Pacific,4.2,103,ok,2020,2026-08
+WA,"Apartments by bedrooms",Studio,59.01,0.4482,Pacific,9.2,39,ok,2020,2026-08
+WA,"Apartments by bedrooms","1 bedroom",71.55,0.5434,Pacific,3.8,212,ok,2020,2026-08
+WA,"Apartments by bedrooms","2 bedrooms",96.41,0.7322,Pacific,4.2,262,ok,2020,2026-08
+WA,"Apartments by bedrooms","3 or more bedrooms",153.3,1.1643,Pacific,9.4,39,ok,2020,2026-08
+WA,"Houses by bedrooms","1 or 2 bedrooms",119.7,0.9091,Pacific,3.9,365,ok,2020,2026-08
+WA,"Houses by bedrooms","3 bedrooms",151.03,1.1471,Pacific,1.7,882,ok,2020,2026-08
+WA,"Houses by bedrooms","4 bedrooms",171.76,1.3045,Pacific,3.2,458,ok,2020,2026-08
+WA,"Houses by bedrooms","5 or more bedrooms",197.04,1.4965,Pacific,6.4,137,ok,2020,2026-08
+WA,"Houses by size","Under 1,000 sq ft",105.33,0.8,Pacific,6.1,178,ok,2020,2026-08
+WA,"Houses by size","1,000 to 1,499 sq ft",130.57,0.9917,Pacific,2.6,468,ok,2020,2026-08
+WA,"Houses by size","1,500 to 1,999 sq ft",145.96,1.1086,Pacific,2.5,517,ok,2020,2026-08
+WA,"Houses by size","2,000 to 2,499 sq ft",179.38,1.3624,Pacific,3.3,330,ok,2020,2026-08
+WA,"Houses by size","2,500 to 2,999 sq ft",184.59,1.402,Pacific,5.1,170,ok,2020,2026-08
+WA,"Houses by size","3,000 sq ft or more",213.17,1.619,Pacific,4.5,179,ok,2020,2026-08
+WA,"People in the home","1 person",85.03,0.6458,Pacific,2.9,593,ok,2020,2026-08
+WA,"People in the home","2 people",134.64,1.0226,Pacific,2.6,862,ok,2020,2026-08
+WA,"People in the home","3 people",158.04,1.2003,Pacific,3.1,377,ok,2020,2026-08
+WA,"People in the home","4 people",154.56,1.1739,Pacific,3.4,384,ok,2020,2026-08
+WA,"People in the home","5 or more people",160.26,1.2172,Pacific,3.9,281,ok,2020,2026-08
+WA,"Main heating","Heated by electricity",135,1.0253,Pacific,2.2,621,ok,2020,2026-08
+WA,"Main heating","Heated by natural gas",131.27,0.997,Pacific,1.4,1280,ok,2020,2026-08
+WA,"Main heating","Heated by propane, oil, wood or other",162.17,1.2317,Pacific,5.7,193,ok,2020,2026-08
+WA,"Main heating","No heating",112.74,0.8563,Pacific,4.5,403,ok,2020,2026-08
+WA,"Own or rent",Owned,151.16,1.1481,Pacific,1,1668,ok,2020,2026-08
+WA,"Own or rent",Rented,102.66,0.7797,Pacific,2.2,829,ok,2020,2026-08
+OR,"Type of home","Detached house",155.4,1.1865,Pacific,0.8,1585,ok,2020,2026-08
+OR,"Type of home","Townhouse, duplex or row house",120.36,0.919,Pacific,5.1,257,ok,2020,2026-08
+OR,"Type of home","Apartment, building of 2 to 4 units",92.28,0.7046,Pacific,4.8,132,ok,2020,2026-08
+OR,"Type of home","Apartment, building of 5 or more units",84.14,0.6424,Pacific,3,420,ok,2020,2026-08
+OR,"Type of home","Mobile home",127.47,0.9733,Pacific,4.2,103,ok,2020,2026-08
+OR,"Apartments by bedrooms",Studio,58.7,0.4482,Pacific,9.2,39,ok,2020,2026-08
+OR,"Apartments by bedrooms","1 bedroom",71.17,0.5434,Pacific,3.8,212,ok,2020,2026-08
+OR,"Apartments by bedrooms","2 bedrooms",95.9,0.7322,Pacific,4.2,262,ok,2020,2026-08
+OR,"Apartments by bedrooms","3 or more bedrooms",152.49,1.1643,Pacific,9.4,39,ok,2020,2026-08
+OR,"Houses by bedrooms","1 or 2 bedrooms",119.07,0.9091,Pacific,3.9,365,ok,2020,2026-08
+OR,"Houses by bedrooms","3 bedrooms",150.24,1.1471,Pacific,1.7,882,ok,2020,2026-08
+OR,"Houses by bedrooms","4 bedrooms",170.85,1.3045,Pacific,3.2,458,ok,2020,2026-08
+OR,"Houses by bedrooms","5 or more bedrooms",196,1.4965,Pacific,6.4,137,ok,2020,2026-08
+OR,"Houses by size","Under 1,000 sq ft",104.78,0.8,Pacific,6.1,178,ok,2020,2026-08
+OR,"Houses by size","1,000 to 1,499 sq ft",129.88,0.9917,Pacific,2.6,468,ok,2020,2026-08
+OR,"Houses by size","1,500 to 1,999 sq ft",145.19,1.1086,Pacific,2.5,517,ok,2020,2026-08
+OR,"Houses by size","2,000 to 2,499 sq ft",178.43,1.3624,Pacific,3.3,330,ok,2020,2026-08
+OR,"Houses by size","2,500 to 2,999 sq ft",183.62,1.402,Pacific,5.1,170,ok,2020,2026-08
+OR,"Houses by size","3,000 sq ft or more",212.04,1.619,Pacific,4.5,179,ok,2020,2026-08
+OR,"People in the home","1 person",84.58,0.6458,Pacific,2.9,593,ok,2020,2026-08
+OR,"People in the home","2 people",133.93,1.0226,Pacific,2.6,862,ok,2020,2026-08
+OR,"People in the home","3 people",157.2,1.2003,Pacific,3.1,377,ok,2020,2026-08
+OR,"People in the home","4 people",153.75,1.1739,Pacific,3.4,384,ok,2020,2026-08
+OR,"People in the home","5 or more people",159.42,1.2172,Pacific,3.9,281,ok,2020,2026-08
+OR,"Main heating","Heated by electricity",134.28,1.0253,Pacific,2.2,621,ok,2020,2026-08
+OR,"Main heating","Heated by natural gas",130.58,0.997,Pacific,1.4,1280,ok,2020,2026-08
+OR,"Main heating","Heated by propane, oil, wood or other",161.32,1.2317,Pacific,5.7,193,ok,2020,2026-08
+OR,"Main heating","No heating",112.15,0.8563,Pacific,4.5,403,ok,2020,2026-08
+OR,"Own or rent",Owned,150.37,1.1481,Pacific,1,1668,ok,2020,2026-08
+OR,"Own or rent",Rented,102.12,0.7797,Pacific,2.2,829,ok,2020,2026-08
+WI,"Type of home","Detached house",142.44,1.1406,"East North Central",0.6,1418,ok,2020,2026-08
+WI,"Type of home","Townhouse, duplex or row house",106.69,0.8543,"East North Central",4.1,201,ok,2020,2026-08
+WI,"Type of home","Apartment, building of 2 to 4 units",83.77,0.6708,"East North Central",4.9,94,ok,2020,2026-08
+WI,"Type of home","Apartment, building of 5 or more units",76.37,0.6115,"East North Central",4,238,ok,2020,2026-08
+WI,"Type of home","Mobile home",123.27,0.9871,"East North Central",6.3,63,ok,2020,2026-08
+WI,"Apartments by bedrooms","1 bedroom",68.64,0.5496,"East North Central",6.2,126,ok,2020,2026-08
+WI,"Apartments by bedrooms","2 bedrooms",85.37,0.6836,"East North Central",4.7,154,ok,2020,2026-08
+WI,"Apartments by bedrooms","3 or more bedrooms",88.58,0.7093,"East North Central",6.1,37,ok,2020,2026-08
+WI,"Houses by bedrooms","1 or 2 bedrooms",112.68,0.9023,"East North Central",3,340,ok,2020,2026-08
+WI,"Houses by bedrooms","3 bedrooms",136.19,1.0905,"East North Central",1.5,821,ok,2020,2026-08
+WI,"Houses by bedrooms","4 bedrooms",157.44,1.2607,"East North Central",2.4,371,ok,2020,2026-08
+WI,"Houses by bedrooms","5 or more bedrooms",197.51,1.5815,"East North Central",5.4,87,ok,2020,2026-08
+WI,"Houses by size","Under 1,000 sq ft",97.57,0.7813,"East North Central",4.5,142,ok,2020,2026-08
+WI,"Houses by size","1,000 to 1,499 sq ft",121.53,0.9731,"East North Central",2.4,480,ok,2020,2026-08
+WI,"Houses by size","1,500 to 1,999 sq ft",136.97,1.0968,"East North Central",2.1,457,ok,2020,2026-08
+WI,"Houses by size","2,000 to 2,499 sq ft",156.81,1.2556,"East North Central",3.2,247,ok,2020,2026-08
+WI,"Houses by size","2,500 to 2,999 sq ft",162.6,1.302,"East North Central",4.2,133,ok,2020,2026-08
+WI,"Houses by size","3,000 sq ft or more",205.47,1.6453,"East North Central",4.3,160,ok,2020,2026-08
+WI,"People in the home","1 person",87.78,0.7029,"East North Central",2.8,527,ok,2020,2026-08
+WI,"People in the home","2 people",126.65,1.0141,"East North Central",1.6,809,ok,2020,2026-08
+WI,"People in the home","3 people",148.68,1.1905,"East North Central",3.6,268,ok,2020,2026-08
+WI,"People in the home","4 people",152.16,1.2184,"East North Central",3.2,247,ok,2020,2026-08
+WI,"People in the home","5 or more people",169.12,1.3542,"East North Central",3.7,163,ok,2020,2026-08
+WI,"Main heating","Heated by electricity",147.81,1.1836,"East North Central",3.5,319,ok,2020,2026-08
+WI,"Main heating","Heated by natural gas",116.74,0.9348,"East North Central",1.1,1480,ok,2020,2026-08
+WI,"Main heating","Heated by propane, oil, wood or other",144.18,1.1545,"East North Central",3.6,206,ok,2020,2026-08
+WI,"Own or rent",Owned,137.76,1.1031,"East North Central",0.7,1545,ok,2020,2026-08
+WI,"Own or rent",Rented,91.52,0.7328,"East North Central",2.6,469,ok,2020,2026-08
+NV,"Type of home","Detached house",140.5,1.151,"Mountain South",1.1,621,ok,2020,2026-08
+NV,"Type of home","Townhouse, duplex or row house",93.89,0.7692,"Mountain South",5.6,81,ok,2020,2026-08
+NV,"Type of home","Apartment, building of 2 to 4 units",83.4,0.6832,"Mountain South",10.4,33,ok,2020,2026-08
+NV,"Type of home","Apartment, building of 5 or more units",81.83,0.6704,"Mountain South",5.3,96,ok,2020,2026-08
+NV,"Type of home","Mobile home",101.3,0.8299,"Mountain South",6.5,73,ok,2020,2026-08
+NV,"Apartments by bedrooms","1 bedroom",67.93,0.5565,"Mountain South",8.6,48,ok,2020,2026-08
+NV,"Apartments by bedrooms","2 bedrooms",88.53,0.7253,"Mountain South",6.7,62,ok,2020,2026-08
+NV,"Houses by bedrooms","1 or 2 bedrooms",95.92,0.7858,"Mountain South",4.2,135,ok,2020,2026-08
+NV,"Houses by bedrooms","3 bedrooms",128.82,1.0553,"Mountain South",2.5,336,ok,2020,2026-08
+NV,"Houses by bedrooms","4 bedrooms",150.78,1.2352,"Mountain South",3.1,183,ok,2020,2026-08
+NV,"Houses by bedrooms","5 or more bedrooms",245.87,2.0142,"Mountain South",8.5,48,ok,2020,2026-08
+NV,"Houses by size","Under 1,000 sq ft",99.84,0.8179,"Mountain South",9.2,42,ok,2020,2026-08
+NV,"Houses by size","1,000 to 1,499 sq ft",116.63,0.9555,"Mountain South",4.3,161,ok,2020,2026-08
+NV,"Houses by size","1,500 to 1,999 sq ft",120.76,0.9893,"Mountain South",3.7,214,ok,2020,2026-08
+NV,"Houses by size","2,000 to 2,499 sq ft",144.98,1.1877,"Mountain South",4.9,137,ok,2020,2026-08
+NV,"Houses by size","2,500 to 2,999 sq ft",164.88,1.3507,"Mountain South",5.5,73,ok,2020,2026-08
+NV,"Houses by size","3,000 sq ft or more",211,1.7286,"Mountain South",7.2,75,ok,2020,2026-08
+NV,"People in the home","1 person",84.14,0.6893,"Mountain South",3.7,240,ok,2020,2026-08
+NV,"People in the home","2 people",121.19,0.9928,"Mountain South",2.8,363,ok,2020,2026-08
+NV,"People in the home","3 people",131.66,1.0786,"Mountain South",5.8,100,ok,2020,2026-08
+NV,"People in the home","4 people",146.22,1.1979,"Mountain South",4.6,124,ok,2020,2026-08
+NV,"People in the home","5 or more people",187.41,1.5353,"Mountain South",6.1,77,ok,2020,2026-08
+NV,"Main heating","Heated by electricity",140,1.1469,"Mountain South",2.8,304,ok,2020,2026-08
+NV,"Main heating","Heated by natural gas",109.84,0.8998,"Mountain South",2.4,503,ok,2020,2026-08
+NV,"Main heating","Heated by propane, oil, wood or other",102.13,0.8367,"Mountain South",6.9,50,ok,2020,2026-08
+NV,"Main heating","No heating",130.89,1.0723,"Mountain South",7.7,47,ok,2020,2026-08
+NV,"Own or rent",Owned,132.09,1.0821,"Mountain South",1.2,659,ok,2020,2026-08
+NV,"Own or rent",Rented,101.62,0.8325,"Mountain South",3.4,245,ok,2020,2026-08
+NE,"Type of home","Detached house",136.67,1.1215,"West North Central",0.6,1325,ok,2020,2026-08
+NE,"Type of home","Townhouse, duplex or row house",102.54,0.8414,"West North Central",4.1,151,ok,2020,2026-08
+NE,"Type of home","Apartment, building of 2 to 4 units",85.67,0.703,"West North Central",7.2,71,ok,2020,2026-08
+NE,"Type of home","Apartment, building of 5 or more units",67.71,0.5556,"West North Central",4.7,203,ok,2020,2026-08
+NE,"Type of home","Mobile home",136.07,1.1165,"West North Central",7.2,68,ok,2020,2026-08
+NE,"Apartments by bedrooms","1 bedroom",62.54,0.5132,"West North Central",8.1,97,ok,2020,2026-08
+NE,"Apartments by bedrooms","2 bedrooms",77.85,0.6388,"West North Central",4.5,139,ok,2020,2026-08
+NE,"Houses by bedrooms","1 or 2 bedrooms",111.63,0.916,"West North Central",3.3,309,ok,2020,2026-08
+NE,"Houses by bedrooms","3 bedrooms",129.78,1.0649,"West North Central",1.8,613,ok,2020,2026-08
+NE,"Houses by bedrooms","4 bedrooms",149.07,1.2232,"West North Central",2.5,398,ok,2020,2026-08
+NE,"Houses by bedrooms","5 or more bedrooms",169.88,1.394,"West North Central",4.6,156,ok,2020,2026-08
+NE,"Houses by size","Under 1,000 sq ft",106.15,0.871,"West North Central",5.2,136,ok,2020,2026-08
+NE,"Houses by size","1,000 to 1,499 sq ft",115.64,0.9489,"West North Central",2.3,396,ok,2020,2026-08
+NE,"Houses by size","1,500 to 1,999 sq ft",128.02,1.0505,"West North Central",2,358,ok,2020,2026-08
+NE,"Houses by size","2,000 to 2,499 sq ft",156.82,1.2868,"West North Central",3,257,ok,2020,2026-08
+NE,"Houses by size","2,500 to 2,999 sq ft",146.84,1.2049,"West North Central",3.8,147,ok,2020,2026-08
+NE,"Houses by size","3,000 sq ft or more",177.96,1.4603,"West North Central",3.6,182,ok,2020,2026-08
+NE,"People in the home","1 person",83.65,0.6864,"West North Central",3.1,497,ok,2020,2026-08
+NE,"People in the home","2 people",126.58,1.0387,"West North Central",1.6,707,ok,2020,2026-08
+NE,"People in the home","3 people",141.79,1.1635,"West North Central",3.3,251,ok,2020,2026-08
+NE,"People in the home","4 people",148.43,1.218,"West North Central",3.3,204,ok,2020,2026-08
+NE,"People in the home","5 or more people",166.35,1.365,"West North Central",3.2,159,ok,2020,2026-08
+NE,"Main heating","Heated by electricity",144.78,1.188,"West North Central",3,391,ok,2020,2026-08
+NE,"Main heating","Heated by natural gas",110.73,0.9086,"West North Central",1.4,1175,ok,2020,2026-08
+NE,"Main heating","Heated by propane, oil, wood or other",138.14,1.1335,"West North Central",3.1,246,ok,2020,2026-08
+NE,"Own or rent",Owned,133.97,1.0993,"West North Central",0.7,1389,ok,2020,2026-08
+NE,"Own or rent",Rented,91.12,0.7477,"West North Central",2.9,429,ok,2020,2026-08
+MN,"Type of home","Detached house",136,1.1215,"West North Central",0.6,1325,ok,2020,2026-08
+MN,"Type of home","Townhouse, duplex or row house",102.04,0.8414,"West North Central",4.1,151,ok,2020,2026-08
+MN,"Type of home","Apartment, building of 2 to 4 units",85.25,0.703,"West North Central",7.2,71,ok,2020,2026-08
+MN,"Type of home","Apartment, building of 5 or more units",67.38,0.5556,"West North Central",4.7,203,ok,2020,2026-08
+MN,"Type of home","Mobile home",135.4,1.1165,"West North Central",7.2,68,ok,2020,2026-08
+MN,"Apartments by bedrooms","1 bedroom",62.23,0.5132,"West North Central",8.1,97,ok,2020,2026-08
+MN,"Apartments by bedrooms","2 bedrooms",77.47,0.6388,"West North Central",4.5,139,ok,2020,2026-08
+MN,"Houses by bedrooms","1 or 2 bedrooms",111.08,0.916,"West North Central",3.3,309,ok,2020,2026-08
+MN,"Houses by bedrooms","3 bedrooms",129.14,1.0649,"West North Central",1.8,613,ok,2020,2026-08
+MN,"Houses by bedrooms","4 bedrooms",148.34,1.2232,"West North Central",2.5,398,ok,2020,2026-08
+MN,"Houses by bedrooms","5 or more bedrooms",169.05,1.394,"West North Central",4.6,156,ok,2020,2026-08
+MN,"Houses by size","Under 1,000 sq ft",105.62,0.871,"West North Central",5.2,136,ok,2020,2026-08
+MN,"Houses by size","1,000 to 1,499 sq ft",115.07,0.9489,"West North Central",2.3,396,ok,2020,2026-08
+MN,"Houses by size","1,500 to 1,999 sq ft",127.39,1.0505,"West North Central",2,358,ok,2020,2026-08
+MN,"Houses by size","2,000 to 2,499 sq ft",156.05,1.2868,"West North Central",3,257,ok,2020,2026-08
+MN,"Houses by size","2,500 to 2,999 sq ft",146.12,1.2049,"West North Central",3.8,147,ok,2020,2026-08
+MN,"Houses by size","3,000 sq ft or more",177.09,1.4603,"West North Central",3.6,182,ok,2020,2026-08
+MN,"People in the home","1 person",83.24,0.6864,"West North Central",3.1,497,ok,2020,2026-08
+MN,"People in the home","2 people",125.96,1.0387,"West North Central",1.6,707,ok,2020,2026-08
+MN,"People in the home","3 people",141.1,1.1635,"West North Central",3.3,251,ok,2020,2026-08
+MN,"People in the home","4 people",147.7,1.218,"West North Central",3.3,204,ok,2020,2026-08
+MN,"People in the home","5 or more people",165.53,1.365,"West North Central",3.2,159,ok,2020,2026-08
+MN,"Main heating","Heated by electricity",144.07,1.188,"West North Central",3,391,ok,2020,2026-08
+MN,"Main heating","Heated by natural gas",110.18,0.9086,"West North Central",1.4,1175,ok,2020,2026-08
+MN,"Main heating","Heated by propane, oil, wood or other",137.46,1.1335,"West North Central",3.1,246,ok,2020,2026-08
+MN,"Own or rent",Owned,133.31,1.0993,"West North Central",0.7,1389,ok,2020,2026-08
+MN,"Own or rent",Rented,90.67,0.7477,"West North Central",2.9,429,ok,2020,2026-08
+IA,"Type of home","Detached house",135.03,1.1215,"West North Central",0.6,1325,ok,2020,2026-08
+IA,"Type of home","Townhouse, duplex or row house",101.3,0.8414,"West North Central",4.1,151,ok,2020,2026-08
+IA,"Type of home","Apartment, building of 2 to 4 units",84.64,0.703,"West North Central",7.2,71,ok,2020,2026-08
+IA,"Type of home","Apartment, building of 5 or more units",66.89,0.5556,"West North Central",4.7,203,ok,2020,2026-08
+IA,"Type of home","Mobile home",134.42,1.1165,"West North Central",7.2,68,ok,2020,2026-08
+IA,"Apartments by bedrooms","1 bedroom",61.79,0.5132,"West North Central",8.1,97,ok,2020,2026-08
+IA,"Apartments by bedrooms","2 bedrooms",76.91,0.6388,"West North Central",4.5,139,ok,2020,2026-08
+IA,"Houses by bedrooms","1 or 2 bedrooms",110.28,0.916,"West North Central",3.3,309,ok,2020,2026-08
+IA,"Houses by bedrooms","3 bedrooms",128.21,1.0649,"West North Central",1.8,613,ok,2020,2026-08
+IA,"Houses by bedrooms","4 bedrooms",147.27,1.2232,"West North Central",2.5,398,ok,2020,2026-08
+IA,"Houses by bedrooms","5 or more bedrooms",167.84,1.394,"West North Central",4.6,156,ok,2020,2026-08
+IA,"Houses by size","Under 1,000 sq ft",104.87,0.871,"West North Central",5.2,136,ok,2020,2026-08
+IA,"Houses by size","1,000 to 1,499 sq ft",114.25,0.9489,"West North Central",2.3,396,ok,2020,2026-08
+IA,"Houses by size","1,500 to 1,999 sq ft",126.48,1.0505,"West North Central",2,358,ok,2020,2026-08
+IA,"Houses by size","2,000 to 2,499 sq ft",154.93,1.2868,"West North Central",3,257,ok,2020,2026-08
+IA,"Houses by size","2,500 to 2,999 sq ft",145.07,1.2049,"West North Central",3.8,147,ok,2020,2026-08
+IA,"Houses by size","3,000 sq ft or more",175.82,1.4603,"West North Central",3.6,182,ok,2020,2026-08
+IA,"People in the home","1 person",82.64,0.6864,"West North Central",3.1,497,ok,2020,2026-08
+IA,"People in the home","2 people",125.06,1.0387,"West North Central",1.6,707,ok,2020,2026-08
+IA,"People in the home","3 people",140.08,1.1635,"West North Central",3.3,251,ok,2020,2026-08
+IA,"People in the home","4 people",146.65,1.218,"West North Central",3.3,204,ok,2020,2026-08
+IA,"People in the home","5 or more people",164.34,1.365,"West North Central",3.2,159,ok,2020,2026-08
+IA,"Main heating","Heated by electricity",143.03,1.188,"West North Central",3,391,ok,2020,2026-08
+IA,"Main heating","Heated by natural gas",109.39,0.9086,"West North Central",1.4,1175,ok,2020,2026-08
+IA,"Main heating","Heated by propane, oil, wood or other",136.47,1.1335,"West North Central",3.1,246,ok,2020,2026-08
+IA,"Own or rent",Owned,132.35,1.0993,"West North Central",0.7,1389,ok,2020,2026-08
+IA,"Own or rent",Rented,90.02,0.7477,"West North Central",2.9,429,ok,2020,2026-08
+ID,"Type of home","Detached house",131,1.132,"Mountain North",1.1,860,ok,2020,2026-08
+ID,"Type of home","Townhouse, duplex or row house",89.94,0.7772,"Mountain North",7.1,93,ok,2020,2026-08
+ID,"Type of home","Apartment, building of 2 to 4 units",81.57,0.7048,"Mountain North",10.9,38,ok,2020,2026-08
+ID,"Type of home","Apartment, building of 5 or more units",70.68,0.6107,"Mountain North",5.4,107,ok,2020,2026-08
+ID,"Type of home","Mobile home",123.51,1.0672,"Mountain North",6.6,82,ok,2020,2026-08
+ID,"Apartments by bedrooms","1 bedroom",55.98,0.4837,"Mountain North",8.5,59,ok,2020,2026-08
+ID,"Apartments by bedrooms","2 bedrooms",80.86,0.6987,"Mountain North",7.4,67,ok,2020,2026-08
+ID,"Houses by bedrooms","1 or 2 bedrooms",94.56,0.8171,"Mountain North",4.9,148,ok,2020,2026-08
+ID,"Houses by bedrooms","3 bedrooms",121.85,1.0529,"Mountain North",2.8,376,ok,2020,2026-08
+ID,"Houses by bedrooms","4 bedrooms",127.44,1.1012,"Mountain North",3.6,256,ok,2020,2026-08
+ID,"Houses by bedrooms","5 or more bedrooms",163.73,1.4148,"Mountain North",3.9,173,ok,2020,2026-08
+ID,"Houses by size","Under 1,000 sq ft",95.97,0.8293,"Mountain North",9.1,62,ok,2020,2026-08
+ID,"Houses by size","1,000 to 1,499 sq ft",108.85,0.9406,"Mountain North",4.1,189,ok,2020,2026-08
+ID,"Houses by size","1,500 to 1,999 sq ft",118.58,1.0246,"Mountain North",3.4,231,ok,2020,2026-08
+ID,"Houses by size","2,000 to 2,499 sq ft",126.65,1.0944,"Mountain North",4.8,169,ok,2020,2026-08
+ID,"Houses by size","2,500 to 2,999 sq ft",137.49,1.188,"Mountain North",5.8,114,ok,2020,2026-08
+ID,"Houses by size","3,000 sq ft or more",160.54,1.3872,"Mountain North",4.3,188,ok,2020,2026-08
+ID,"People in the home","1 person",75.66,0.6538,"Mountain North",3.6,306,ok,2020,2026-08
+ID,"People in the home","2 people",115.93,1.0017,"Mountain North",2.4,430,ok,2020,2026-08
+ID,"People in the home","3 people",130.07,1.1239,"Mountain North",5,158,ok,2020,2026-08
+ID,"People in the home","4 people",140.27,1.2121,"Mountain North",3,153,ok,2020,2026-08
+ID,"People in the home","5 or more people",168.38,1.455,"Mountain North",4.4,133,ok,2020,2026-08
+ID,"Main heating","Heated by electricity",132.22,1.1425,"Mountain North",3.6,192,ok,2020,2026-08
+ID,"Main heating","Heated by natural gas",109.31,0.9445,"Mountain North",1.1,874,ok,2020,2026-08
+ID,"Main heating","Heated by propane, oil, wood or other",146.92,1.2695,"Mountain North",5.9,112,ok,2020,2026-08
+ID,"Own or rent",Owned,126.2,1.0905,"Mountain North",1.1,905,ok,2020,2026-08
+ID,"Own or rent",Rented,91.03,0.7866,"Mountain North",3.4,275,ok,2020,2026-08
+MT,"Type of home","Detached house",130.32,1.132,"Mountain North",1.1,860,ok,2020,2026-08
+MT,"Type of home","Townhouse, duplex or row house",89.47,0.7772,"Mountain North",7.1,93,ok,2020,2026-08
+MT,"Type of home","Apartment, building of 2 to 4 units",81.14,0.7048,"Mountain North",10.9,38,ok,2020,2026-08
+MT,"Type of home","Apartment, building of 5 or more units",70.31,0.6107,"Mountain North",5.4,107,ok,2020,2026-08
+MT,"Type of home","Mobile home",122.86,1.0672,"Mountain North",6.6,82,ok,2020,2026-08
+MT,"Apartments by bedrooms","1 bedroom",55.69,0.4837,"Mountain North",8.5,59,ok,2020,2026-08
+MT,"Apartments by bedrooms","2 bedrooms",80.44,0.6987,"Mountain North",7.4,67,ok,2020,2026-08
+MT,"Houses by bedrooms","1 or 2 bedrooms",94.07,0.8171,"Mountain North",4.9,148,ok,2020,2026-08
+MT,"Houses by bedrooms","3 bedrooms",121.21,1.0529,"Mountain North",2.8,376,ok,2020,2026-08
+MT,"Houses by bedrooms","4 bedrooms",126.77,1.1012,"Mountain North",3.6,256,ok,2020,2026-08
+MT,"Houses by bedrooms","5 or more bedrooms",162.88,1.4148,"Mountain North",3.9,173,ok,2020,2026-08
+MT,"Houses by size","Under 1,000 sq ft",95.47,0.8293,"Mountain North",9.1,62,ok,2020,2026-08
+MT,"Houses by size","1,000 to 1,499 sq ft",108.29,0.9406,"Mountain North",4.1,189,ok,2020,2026-08
+MT,"Houses by size","1,500 to 1,999 sq ft",117.96,1.0246,"Mountain North",3.4,231,ok,2020,2026-08
+MT,"Houses by size","2,000 to 2,499 sq ft",125.99,1.0944,"Mountain North",4.8,169,ok,2020,2026-08
+MT,"Houses by size","2,500 to 2,999 sq ft",136.77,1.188,"Mountain North",5.8,114,ok,2020,2026-08
+MT,"Houses by size","3,000 sq ft or more",159.7,1.3872,"Mountain North",4.3,188,ok,2020,2026-08
+MT,"People in the home","1 person",75.27,0.6538,"Mountain North",3.6,306,ok,2020,2026-08
+MT,"People in the home","2 people",115.32,1.0017,"Mountain North",2.4,430,ok,2020,2026-08
+MT,"People in the home","3 people",129.39,1.1239,"Mountain North",5,158,ok,2020,2026-08
+MT,"People in the home","4 people",139.54,1.2121,"Mountain North",3,153,ok,2020,2026-08
+MT,"People in the home","5 or more people",167.5,1.455,"Mountain North",4.4,133,ok,2020,2026-08
+MT,"Main heating","Heated by electricity",131.53,1.1425,"Mountain North",3.6,192,ok,2020,2026-08
+MT,"Main heating","Heated by natural gas",108.73,0.9445,"Mountain North",1.1,874,ok,2020,2026-08
+MT,"Main heating","Heated by propane, oil, wood or other",146.15,1.2695,"Mountain North",5.9,112,ok,2020,2026-08
+MT,"Own or rent",Owned,125.54,1.0905,"Mountain North",1.1,905,ok,2020,2026-08
+MT,"Own or rent",Rented,90.56,0.7866,"Mountain North",3.4,275,ok,2020,2026-08
+WY,"Type of home","Detached house",129.62,1.132,"Mountain North",1.1,860,ok,2020,2026-08
+WY,"Type of home","Townhouse, duplex or row house",89,0.7772,"Mountain North",7.1,93,ok,2020,2026-08
+WY,"Type of home","Apartment, building of 2 to 4 units",80.71,0.7048,"Mountain North",10.9,38,ok,2020,2026-08
+WY,"Type of home","Apartment, building of 5 or more units",69.93,0.6107,"Mountain North",5.4,107,ok,2020,2026-08
+WY,"Type of home","Mobile home",122.2,1.0672,"Mountain North",6.6,82,ok,2020,2026-08
+WY,"Apartments by bedrooms","1 bedroom",55.39,0.4837,"Mountain North",8.5,59,ok,2020,2026-08
+WY,"Apartments by bedrooms","2 bedrooms",80.01,0.6987,"Mountain North",7.4,67,ok,2020,2026-08
+WY,"Houses by bedrooms","1 or 2 bedrooms",93.57,0.8171,"Mountain North",4.9,148,ok,2020,2026-08
+WY,"Houses by bedrooms","3 bedrooms",120.57,1.0529,"Mountain North",2.8,376,ok,2020,2026-08
+WY,"Houses by bedrooms","4 bedrooms",126.1,1.1012,"Mountain North",3.6,256,ok,2020,2026-08
+WY,"Houses by bedrooms","5 or more bedrooms",162.01,1.4148,"Mountain North",3.9,173,ok,2020,2026-08
+WY,"Houses by size","Under 1,000 sq ft",94.96,0.8293,"Mountain North",9.1,62,ok,2020,2026-08
+WY,"Houses by size","1,000 to 1,499 sq ft",107.71,0.9406,"Mountain North",4.1,189,ok,2020,2026-08
+WY,"Houses by size","1,500 to 1,999 sq ft",117.33,1.0246,"Mountain North",3.4,231,ok,2020,2026-08
+WY,"Houses by size","2,000 to 2,499 sq ft",125.32,1.0944,"Mountain North",4.8,169,ok,2020,2026-08
+WY,"Houses by size","2,500 to 2,999 sq ft",136.04,1.188,"Mountain North",5.8,114,ok,2020,2026-08
+WY,"Houses by size","3,000 sq ft or more",158.85,1.3872,"Mountain North",4.3,188,ok,2020,2026-08
+WY,"People in the home","1 person",74.87,0.6538,"Mountain North",3.6,306,ok,2020,2026-08
+WY,"People in the home","2 people",114.7,1.0017,"Mountain North",2.4,430,ok,2020,2026-08
+WY,"People in the home","3 people",128.7,1.1239,"Mountain North",5,158,ok,2020,2026-08
+WY,"People in the home","4 people",138.8,1.2121,"Mountain North",3,153,ok,2020,2026-08
+WY,"People in the home","5 or more people",166.61,1.455,"Mountain North",4.4,133,ok,2020,2026-08
+WY,"Main heating","Heated by electricity",130.83,1.1425,"Mountain North",3.6,192,ok,2020,2026-08
+WY,"Main heating","Heated by natural gas",108.15,0.9445,"Mountain North",1.1,874,ok,2020,2026-08
+WY,"Main heating","Heated by propane, oil, wood or other",145.37,1.2695,"Mountain North",5.9,112,ok,2020,2026-08
+WY,"Own or rent",Owned,124.87,1.0905,"Mountain North",1.1,905,ok,2020,2026-08
+WY,"Own or rent",Rented,90.07,0.7866,"Mountain North",3.4,275,ok,2020,2026-08
+CO,"Type of home","Detached house",127.81,1.132,"Mountain North",1.1,860,ok,2020,2026-08
+CO,"Type of home","Townhouse, duplex or row house",87.75,0.7772,"Mountain North",7.1,93,ok,2020,2026-08
+CO,"Type of home","Apartment, building of 2 to 4 units",79.58,0.7048,"Mountain North",10.9,38,ok,2020,2026-08
+CO,"Type of home","Apartment, building of 5 or more units",68.95,0.6107,"Mountain North",5.4,107,ok,2020,2026-08
+CO,"Type of home","Mobile home",120.5,1.0672,"Mountain North",6.6,82,ok,2020,2026-08
+CO,"Apartments by bedrooms","1 bedroom",54.61,0.4837,"Mountain North",8.5,59,ok,2020,2026-08
+CO,"Apartments by bedrooms","2 bedrooms",78.89,0.6987,"Mountain North",7.4,67,ok,2020,2026-08
+CO,"Houses by bedrooms","1 or 2 bedrooms",92.26,0.8171,"Mountain North",4.9,148,ok,2020,2026-08
+CO,"Houses by bedrooms","3 bedrooms",118.88,1.0529,"Mountain North",2.8,376,ok,2020,2026-08
+CO,"Houses by bedrooms","4 bedrooms",124.34,1.1012,"Mountain North",3.6,256,ok,2020,2026-08
+CO,"Houses by bedrooms","5 or more bedrooms",159.74,1.4148,"Mountain North",3.9,173,ok,2020,2026-08
+CO,"Houses by size","Under 1,000 sq ft",93.64,0.8293,"Mountain North",9.1,62,ok,2020,2026-08
+CO,"Houses by size","1,000 to 1,499 sq ft",106.2,0.9406,"Mountain North",4.1,189,ok,2020,2026-08
+CO,"Houses by size","1,500 to 1,999 sq ft",115.69,1.0246,"Mountain North",3.4,231,ok,2020,2026-08
+CO,"Houses by size","2,000 to 2,499 sq ft",123.57,1.0944,"Mountain North",4.8,169,ok,2020,2026-08
+CO,"Houses by size","2,500 to 2,999 sq ft",134.14,1.188,"Mountain North",5.8,114,ok,2020,2026-08
+CO,"Houses by size","3,000 sq ft or more",156.63,1.3872,"Mountain North",4.3,188,ok,2020,2026-08
+CO,"People in the home","1 person",73.82,0.6538,"Mountain North",3.6,306,ok,2020,2026-08
+CO,"People in the home","2 people",113.1,1.0017,"Mountain North",2.4,430,ok,2020,2026-08
+CO,"People in the home","3 people",126.9,1.1239,"Mountain North",5,158,ok,2020,2026-08
+CO,"People in the home","4 people",136.86,1.2121,"Mountain North",3,153,ok,2020,2026-08
+CO,"People in the home","5 or more people",164.28,1.455,"Mountain North",4.4,133,ok,2020,2026-08
+CO,"Main heating","Heated by electricity",129,1.1425,"Mountain North",3.6,192,ok,2020,2026-08
+CO,"Main heating","Heated by natural gas",106.64,0.9445,"Mountain North",1.1,874,ok,2020,2026-08
+CO,"Main heating","Heated by propane, oil, wood or other",143.34,1.2695,"Mountain North",5.9,112,ok,2020,2026-08
+CO,"Own or rent",Owned,123.13,1.0905,"Mountain North",1.1,905,ok,2020,2026-08
+CO,"Own or rent",Rented,88.81,0.7866,"Mountain North",3.4,275,ok,2020,2026-08
+UT,"Type of home","Detached house",117.92,1.132,"Mountain North",1.1,860,ok,2020,2026-08
+UT,"Type of home","Townhouse, duplex or row house",80.96,0.7772,"Mountain North",7.1,93,ok,2020,2026-08
+UT,"Type of home","Apartment, building of 2 to 4 units",73.42,0.7048,"Mountain North",10.9,38,ok,2020,2026-08
+UT,"Type of home","Apartment, building of 5 or more units",63.62,0.6107,"Mountain North",5.4,107,ok,2020,2026-08
+UT,"Type of home","Mobile home",111.17,1.0672,"Mountain North",6.6,82,ok,2020,2026-08
+UT,"Apartments by bedrooms","1 bedroom",50.39,0.4837,"Mountain North",8.5,59,ok,2020,2026-08
+UT,"Apartments by bedrooms","2 bedrooms",72.78,0.6987,"Mountain North",7.4,67,ok,2020,2026-08
+UT,"Houses by bedrooms","1 or 2 bedrooms",85.12,0.8171,"Mountain North",4.9,148,ok,2020,2026-08
+UT,"Houses by bedrooms","3 bedrooms",109.68,1.0529,"Mountain North",2.8,376,ok,2020,2026-08
+UT,"Houses by bedrooms","4 bedrooms",114.71,1.1012,"Mountain North",3.6,256,ok,2020,2026-08
+UT,"Houses by bedrooms","5 or more bedrooms",147.38,1.4148,"Mountain North",3.9,173,ok,2020,2026-08
+UT,"Houses by size","Under 1,000 sq ft",86.39,0.8293,"Mountain North",9.1,62,ok,2020,2026-08
+UT,"Houses by size","1,000 to 1,499 sq ft",97.98,0.9406,"Mountain North",4.1,189,ok,2020,2026-08
+UT,"Houses by size","1,500 to 1,999 sq ft",106.73,1.0246,"Mountain North",3.4,231,ok,2020,2026-08
+UT,"Houses by size","2,000 to 2,499 sq ft",114,1.0944,"Mountain North",4.8,169,ok,2020,2026-08
+UT,"Houses by size","2,500 to 2,999 sq ft",123.75,1.188,"Mountain North",5.8,114,ok,2020,2026-08
+UT,"Houses by size","3,000 sq ft or more",144.5,1.3872,"Mountain North",4.3,188,ok,2020,2026-08
+UT,"People in the home","1 person",68.11,0.6538,"Mountain North",3.6,306,ok,2020,2026-08
+UT,"People in the home","2 people",104.35,1.0017,"Mountain North",2.4,430,ok,2020,2026-08
+UT,"People in the home","3 people",117.08,1.1239,"Mountain North",5,158,ok,2020,2026-08
+UT,"People in the home","4 people",126.26,1.2121,"Mountain North",3,153,ok,2020,2026-08
+UT,"People in the home","5 or more people",151.57,1.455,"Mountain North",4.4,133,ok,2020,2026-08
+UT,"Main heating","Heated by electricity",119.01,1.1425,"Mountain North",3.6,192,ok,2020,2026-08
+UT,"Main heating","Heated by natural gas",98.39,0.9445,"Mountain North",1.1,874,ok,2020,2026-08
+UT,"Main heating","Heated by propane, oil, wood or other",132.24,1.2695,"Mountain North",5.9,112,ok,2020,2026-08
+UT,"Own or rent",Owned,113.6,1.0905,"Mountain North",1.1,905,ok,2020,2026-08
+UT,"Own or rent",Rented,81.94,0.7866,"Mountain North",3.4,275,ok,2020,2026-08
+NM,"Type of home","Detached house",115.05,1.151,"Mountain South",1.1,621,ok,2020,2026-08
+NM,"Type of home","Townhouse, duplex or row house",76.89,0.7692,"Mountain South",5.6,81,ok,2020,2026-08
+NM,"Type of home","Apartment, building of 2 to 4 units",68.29,0.6832,"Mountain South",10.4,33,ok,2020,2026-08
+NM,"Type of home","Apartment, building of 5 or more units",67.01,0.6704,"Mountain South",5.3,96,ok,2020,2026-08
+NM,"Type of home","Mobile home",82.96,0.8299,"Mountain South",6.5,73,ok,2020,2026-08
+NM,"Apartments by bedrooms","1 bedroom",55.63,0.5565,"Mountain South",8.6,48,ok,2020,2026-08
+NM,"Apartments by bedrooms","2 bedrooms",72.5,0.7253,"Mountain South",6.7,62,ok,2020,2026-08
+NM,"Houses by bedrooms","1 or 2 bedrooms",78.55,0.7858,"Mountain South",4.2,135,ok,2020,2026-08
+NM,"Houses by bedrooms","3 bedrooms",105.49,1.0553,"Mountain South",2.5,336,ok,2020,2026-08
+NM,"Houses by bedrooms","4 bedrooms",123.47,1.2352,"Mountain South",3.1,183,ok,2020,2026-08
+NM,"Houses by bedrooms","5 or more bedrooms",201.34,2.0142,"Mountain South",8.5,48,ok,2020,2026-08
+NM,"Houses by size","Under 1,000 sq ft",81.76,0.8179,"Mountain South",9.2,42,ok,2020,2026-08
+NM,"Houses by size","1,000 to 1,499 sq ft",95.51,0.9555,"Mountain South",4.3,161,ok,2020,2026-08
+NM,"Houses by size","1,500 to 1,999 sq ft",98.89,0.9893,"Mountain South",3.7,214,ok,2020,2026-08
+NM,"Houses by size","2,000 to 2,499 sq ft",118.72,1.1877,"Mountain South",4.9,137,ok,2020,2026-08
+NM,"Houses by size","2,500 to 2,999 sq ft",135.02,1.3507,"Mountain South",5.5,73,ok,2020,2026-08
+NM,"Houses by size","3,000 sq ft or more",172.79,1.7286,"Mountain South",7.2,75,ok,2020,2026-08
+NM,"People in the home","1 person",68.9,0.6893,"Mountain South",3.7,240,ok,2020,2026-08
+NM,"People in the home","2 people",99.24,0.9928,"Mountain South",2.8,363,ok,2020,2026-08
+NM,"People in the home","3 people",107.82,1.0786,"Mountain South",5.8,100,ok,2020,2026-08
+NM,"People in the home","4 people",119.74,1.1979,"Mountain South",4.6,124,ok,2020,2026-08
+NM,"People in the home","5 or more people",153.47,1.5353,"Mountain South",6.1,77,ok,2020,2026-08
+NM,"Main heating","Heated by electricity",114.64,1.1469,"Mountain South",2.8,304,ok,2020,2026-08
+NM,"Main heating","Heated by natural gas",89.94,0.8998,"Mountain South",2.4,503,ok,2020,2026-08
+NM,"Main heating","Heated by propane, oil, wood or other",83.64,0.8367,"Mountain South",6.9,50,ok,2020,2026-08
+NM,"Main heating","No heating",107.19,1.0723,"Mountain South",7.7,47,ok,2020,2026-08
+NM,"Own or rent",Owned,108.17,1.0821,"Mountain South",1.2,659,ok,2020,2026-08
+NM,"Own or rent",Rented,83.22,0.8325,"Mountain South",3.4,245,ok,2020,2026-08

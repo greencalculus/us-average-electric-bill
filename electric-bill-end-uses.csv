@@ -1,0 +1,737 @@
+area_type,area,end_use,label,share_pct,standard_error_pct
+us,US,cooling,Air conditioning,22.0,0.1
+us,US,heating,Space heating,13.4,0.1
+us,US,water,Water heating,11.5,0.1
+us,US,fridge,Fridges and freezers,10.2,0.0
+us,US,lighting,Lighting,6.4,0.1
+us,US,tv,TVs and devices with them,6.1,0.0
+us,US,laundry,Washer and dryer,4.8,0.0
+us,US,cooking,Cooking and microwave,2.8,0.0
+us,US,dish,Dishwasher,0.8,0.0
+us,US,fans,"Fans, dehumidifiers, humidifiers",3.5,0.1
+us,US,pool,Pool and hot tub,2.2,0.1
+us,US,ev,Electric car charging,0.2,0.0
+us,US,other,Everything else,16.2,0.1
+division,East North Central,cooling,Air conditioning,16.3,0.3
+division,East North Central,heating,Space heating,16.7,0.6
+division,East North Central,water,Water heating,9.4,0.4
+division,East North Central,fridge,Fridges and freezers,11.4,0.2
+division,East North Central,lighting,Lighting,6.7,0.2
+division,East North Central,tv,TVs and devices with them,6.7,0.1
+division,East North Central,laundry,Washer and dryer,4.6,0.1
+division,East North Central,cooking,Cooking and microwave,2.9,0.1
+division,East North Central,dish,Dishwasher,0.8,0.0
+division,East North Central,fans,"Fans, dehumidifiers, humidifiers",5.2,0.2
+division,East North Central,pool,Pool and hot tub,2.0,0.2
+division,East North Central,other,Everything else,17.1,0.4
+division,East South Central,cooling,Air conditioning,22.1,0.4
+division,East South Central,heating,Space heating,18.4,0.5
+division,East South Central,water,Water heating,15.2,0.4
+division,East South Central,fridge,Fridges and freezers,8.3,0.2
+division,East South Central,lighting,Lighting,5.4,0.2
+division,East South Central,tv,TVs and devices with them,4.9,0.1
+division,East South Central,laundry,Washer and dryer,5.2,0.1
+division,East South Central,cooking,Cooking and microwave,2.7,0.1
+division,East South Central,dish,Dishwasher,0.6,0.0
+division,East South Central,fans,"Fans, dehumidifiers, humidifiers",2.8,0.1
+division,East South Central,pool,Pool and hot tub,1.8,0.2
+division,East South Central,other,Everything else,12.5,0.5
+division,Middle Atlantic,cooling,Air conditioning,19.1,0.3
+division,Middle Atlantic,heating,Space heating,12.6,0.6
+division,Middle Atlantic,water,Water heating,9.5,0.4
+division,Middle Atlantic,fridge,Fridges and freezers,11.3,0.2
+division,Middle Atlantic,lighting,Lighting,7.7,0.2
+division,Middle Atlantic,tv,TVs and devices with them,7.3,0.1
+division,Middle Atlantic,laundry,Washer and dryer,3.9,0.1
+division,Middle Atlantic,cooking,Cooking and microwave,2.7,0.1
+division,Middle Atlantic,dish,Dishwasher,0.8,0.0
+division,Middle Atlantic,fans,"Fans, dehumidifiers, humidifiers",4.5,0.2
+division,Middle Atlantic,pool,Pool and hot tub,2.1,0.2
+division,Middle Atlantic,other,Everything else,18.3,0.4
+division,Mountain North,cooling,Air conditioning,14.7,0.4
+division,Mountain North,heating,Space heating,14.2,0.7
+division,Mountain North,water,Water heating,8.7,0.5
+division,Mountain North,fridge,Fridges and freezers,12.3,0.3
+division,Mountain North,lighting,Lighting,7.6,0.3
+division,Mountain North,tv,TVs and devices with them,6.4,0.2
+division,Mountain North,laundry,Washer and dryer,7.1,0.2
+division,Mountain North,cooking,Cooking and microwave,3.7,0.1
+division,Mountain North,dish,Dishwasher,1.2,0.0
+division,Mountain North,fans,"Fans, dehumidifiers, humidifiers",2.1,0.1
+division,Mountain North,pool,Pool and hot tub,1.9,0.3
+division,Mountain North,other,Everything else,19.8,0.6
+division,Mountain South,cooling,Air conditioning,37.5,0.6
+division,Mountain South,heating,Space heating,6.6,0.4
+division,Mountain South,water,Water heating,8.5,0.4
+division,Mountain South,fridge,Fridges and freezers,8.8,0.2
+division,Mountain South,lighting,Lighting,5.2,0.3
+division,Mountain South,tv,TVs and devices with them,5.2,0.1
+division,Mountain South,laundry,Washer and dryer,4.4,0.2
+division,Mountain South,cooking,Cooking and microwave,2.3,0.1
+division,Mountain South,dish,Dishwasher,0.6,0.0
+division,Mountain South,fans,"Fans, dehumidifiers, humidifiers",2.1,0.1
+division,Mountain South,pool,Pool and hot tub,3.3,0.3
+division,Mountain South,other,Everything else,15.0,0.6
+division,New England,cooling,Air conditioning,14.5,0.3
+division,New England,heating,Space heating,12.6,0.5
+division,New England,water,Water heating,9.5,0.4
+division,New England,fridge,Fridges and freezers,11.4,0.2
+division,New England,lighting,Lighting,7.0,0.2
+division,New England,tv,TVs and devices with them,7.4,0.2
+division,New England,laundry,Washer and dryer,6.3,0.1
+division,New England,cooking,Cooking and microwave,4.0,0.1
+division,New England,dish,Dishwasher,1.1,0.0
+division,New England,fans,"Fans, dehumidifiers, humidifiers",4.6,0.2
+division,New England,pool,Pool and hot tub,2.1,0.2
+division,New England,other,Everything else,19.3,0.4
+division,Pacific,cooling,Air conditioning,16.6,0.5
+division,Pacific,heating,Space heating,9.4,0.3
+division,Pacific,water,Water heating,9.6,0.3
+division,Pacific,fridge,Fridges and freezers,13.0,0.2
+division,Pacific,lighting,Lighting,7.8,0.2
+division,Pacific,tv,TVs and devices with them,7.7,0.1
+division,Pacific,laundry,Washer and dryer,4.4,0.1
+division,Pacific,cooking,Cooking and microwave,3.2,0.1
+division,Pacific,dish,Dishwasher,1.0,0.0
+division,Pacific,fans,"Fans, dehumidifiers, humidifiers",1.9,0.1
+division,Pacific,pool,Pool and hot tub,2.9,0.3
+division,Pacific,ev,Electric car charging,0.5,0.1
+division,Pacific,other,Everything else,21.9,0.5
+division,South Atlantic,cooling,Air conditioning,25.7,0.3
+division,South Atlantic,heating,Space heating,13.3,0.3
+division,South Atlantic,water,Water heating,15.5,0.2
+division,South Atlantic,fridge,Fridges and freezers,8.2,0.1
+division,South Atlantic,lighting,Lighting,5.2,0.1
+division,South Atlantic,tv,TVs and devices with them,5.0,0.1
+division,South Atlantic,laundry,Washer and dryer,4.7,0.1
+division,South Atlantic,cooking,Cooking and microwave,2.6,0.0
+division,South Atlantic,dish,Dishwasher,0.6,0.0
+division,South Atlantic,fans,"Fans, dehumidifiers, humidifiers",3.3,0.1
+division,South Atlantic,pool,Pool and hot tub,2.4,0.2
+division,South Atlantic,other,Everything else,13.4,0.3
+division,West North Central,cooling,Air conditioning,18.0,0.4
+division,West North Central,heating,Space heating,17.7,0.6
+division,West North Central,water,Water heating,10.5,0.5
+division,West North Central,fridge,Fridges and freezers,11.2,0.2
+division,West North Central,lighting,Lighting,6.6,0.2
+division,West North Central,tv,TVs and devices with them,5.6,0.1
+division,West North Central,laundry,Washer and dryer,5.7,0.2
+division,West North Central,cooking,Cooking and microwave,3.2,0.1
+division,West North Central,dish,Dishwasher,0.8,0.0
+division,West North Central,fans,"Fans, dehumidifiers, humidifiers",3.9,0.2
+division,West North Central,pool,Pool and hot tub,1.2,0.2
+division,West North Central,other,Everything else,15.4,0.4
+division,West South Central,cooling,Air conditioning,31.4,0.4
+division,West South Central,heating,Space heating,12.0,0.4
+division,West South Central,water,Water heating,11.1,0.3
+division,West South Central,fridge,Fridges and freezers,8.3,0.1
+division,West South Central,lighting,Lighting,6.1,0.2
+division,West South Central,tv,TVs and devices with them,5.2,0.1
+division,West South Central,laundry,Washer and dryer,4.7,0.1
+division,West South Central,cooking,Cooking and microwave,2.4,0.1
+division,West South Central,dish,Dishwasher,0.6,0.0
+division,West South Central,fans,"Fans, dehumidifiers, humidifiers",2.9,0.1
+division,West South Central,pool,Pool and hot tub,1.7,0.2
+division,West South Central,other,Everything else,13.5,0.4
+state,AK,cooling,Air conditioning,0.2,0.1
+state,AK,heating,Space heating,14.0,1.1
+state,AK,water,Water heating,11.5,1.4
+state,AK,fridge,Fridges and freezers,15.4,0.5
+state,AK,lighting,Lighting,9.6,0.6
+state,AK,tv,TVs and devices with them,7.7,0.4
+state,AK,laundry,Washer and dryer,6.3,0.4
+state,AK,cooking,Cooking and microwave,4.6,0.2
+state,AK,dish,Dishwasher,1.3,0.1
+state,AK,fans,"Fans, dehumidifiers, humidifiers",3.3,0.5
+state,AK,other,Everything else,24.5,1.1
+state,AL,cooling,Air conditioning,24.3,0.9
+state,AL,heating,Space heating,16.4,1.0
+state,AL,water,Water heating,14.9,0.8
+state,AL,fridge,Fridges and freezers,8.9,0.3
+state,AL,lighting,Lighting,5.3,0.4
+state,AL,tv,TVs and devices with them,5.3,0.2
+state,AL,laundry,Washer and dryer,5.3,0.3
+state,AL,cooking,Cooking and microwave,2.6,0.1
+state,AL,dish,Dishwasher,0.5,0.0
+state,AL,fans,"Fans, dehumidifiers, humidifiers",2.9,0.2
+state,AL,pool,Pool and hot tub,1.9,0.5
+state,AL,other,Everything else,11.7,0.7
+state,AR,cooling,Air conditioning,23.2,1.0
+state,AR,heating,Space heating,18.0,1.2
+state,AR,water,Water heating,14.1,1.0
+state,AR,fridge,Fridges and freezers,8.2,0.4
+state,AR,lighting,Lighting,5.9,0.4
+state,AR,tv,TVs and devices with them,4.8,0.2
+state,AR,laundry,Washer and dryer,6.0,0.4
+state,AR,cooking,Cooking and microwave,2.9,0.2
+state,AR,dish,Dishwasher,0.6,0.0
+state,AR,fans,"Fans, dehumidifiers, humidifiers",2.4,0.2
+state,AR,pool,Pool and hot tub,0.8,0.2
+state,AR,other,Everything else,13.0,1.3
+state,AZ,cooling,Air conditioning,41.0,0.8
+state,AZ,heating,Space heating,6.2,0.5
+state,AZ,water,Water heating,9.9,0.6
+state,AZ,fridge,Fridges and freezers,8.0,0.2
+state,AZ,lighting,Lighting,4.8,0.4
+state,AZ,tv,TVs and devices with them,4.7,0.2
+state,AZ,laundry,Washer and dryer,4.1,0.2
+state,AZ,cooking,Cooking and microwave,2.1,0.1
+state,AZ,dish,Dishwasher,0.6,0.0
+state,AZ,fans,"Fans, dehumidifiers, humidifiers",2.0,0.1
+state,AZ,pool,Pool and hot tub,3.4,0.4
+state,AZ,other,Everything else,12.7,0.8
+state,CA,cooling,Air conditioning,20.6,0.6
+state,CA,heating,Space heating,4.7,0.3
+state,CA,water,Water heating,5.4,0.5
+state,CA,fridge,Fridges and freezers,14.2,0.3
+state,CA,lighting,Lighting,8.2,0.3
+state,CA,tv,TVs and devices with them,8.8,0.2
+state,CA,laundry,Washer and dryer,3.9,0.2
+state,CA,cooking,Cooking and microwave,3.1,0.1
+state,CA,dish,Dishwasher,1.0,0.0
+state,CA,fans,"Fans, dehumidifiers, humidifiers",2.1,0.2
+state,CA,pool,Pool and hot tub,3.3,0.4
+state,CA,ev,Electric car charging,0.6,0.1
+state,CA,other,Everything else,24.0,0.6
+state,CO,cooling,Air conditioning,14.8,0.7
+state,CO,heating,Space heating,12.5,1.1
+state,CO,water,Water heating,7.0,0.9
+state,CO,fridge,Fridges and freezers,12.6,0.5
+state,CO,lighting,Lighting,8.1,0.4
+state,CO,tv,TVs and devices with them,7.0,0.3
+state,CO,laundry,Washer and dryer,7.2,0.3
+state,CO,cooking,Cooking and microwave,3.9,0.1
+state,CO,dish,Dishwasher,1.2,0.1
+state,CO,fans,"Fans, dehumidifiers, humidifiers",2.5,0.2
+state,CO,pool,Pool and hot tub,1.1,0.3
+state,CO,other,Everything else,21.4,1.0
+state,CT,cooling,Air conditioning,15.2,0.6
+state,CT,heating,Space heating,14.3,1.3
+state,CT,water,Water heating,9.7,1.2
+state,CT,fridge,Fridges and freezers,10.8,0.4
+state,CT,lighting,Lighting,6.4,0.4
+state,CT,tv,TVs and devices with them,7.9,0.5
+state,CT,laundry,Washer and dryer,5.8,0.3
+state,CT,cooking,Cooking and microwave,3.7,0.2
+state,CT,dish,Dishwasher,0.9,0.1
+state,CT,fans,"Fans, dehumidifiers, humidifiers",5.0,0.5
+state,CT,pool,Pool and hot tub,1.6,0.4
+state,CT,other,Everything else,18.6,1.0
+state,DC,cooling,Air conditioning,22.1,1.1
+state,DC,heating,Space heating,12.4,1.1
+state,DC,water,Water heating,14.8,1.2
+state,DC,fridge,Fridges and freezers,9.8,0.4
+state,DC,lighting,Lighting,9.0,0.6
+state,DC,tv,TVs and devices with them,5.6,0.5
+state,DC,laundry,Washer and dryer,4.0,0.3
+state,DC,cooking,Cooking and microwave,2.8,0.2
+state,DC,dish,Dishwasher,1.0,0.1
+state,DC,fans,"Fans, dehumidifiers, humidifiers",2.3,0.3
+state,DC,other,Everything else,15.9,1.0
+state,DE,cooling,Air conditioning,18.4,1.0
+state,DE,heating,Space heating,16.4,1.7
+state,DE,water,Water heating,15.8,1.5
+state,DE,fridge,Fridges and freezers,8.7,0.5
+state,DE,lighting,Lighting,4.9,0.4
+state,DE,tv,TVs and devices with them,6.3,0.4
+state,DE,laundry,Washer and dryer,4.9,0.3
+state,DE,cooking,Cooking and microwave,2.4,0.2
+state,DE,dish,Dishwasher,0.8,0.1
+state,DE,fans,"Fans, dehumidifiers, humidifiers",4.6,0.5
+state,DE,other,Everything else,15.5,1.6
+state,FL,cooling,Air conditioning,34.5,0.7
+state,FL,heating,Space heating,7.8,0.4
+state,FL,water,Water heating,14.8,0.5
+state,FL,fridge,Fridges and freezers,7.6,0.2
+state,FL,lighting,Lighting,4.2,0.2
+state,FL,tv,TVs and devices with them,4.4,0.1
+state,FL,laundry,Washer and dryer,4.2,0.2
+state,FL,cooking,Cooking and microwave,2.5,0.1
+state,FL,dish,Dishwasher,0.5,0.0
+state,FL,fans,"Fans, dehumidifiers, humidifiers",3.1,0.2
+state,FL,pool,Pool and hot tub,4.3,0.5
+state,FL,other,Everything else,12.0,0.6
+state,GA,cooling,Air conditioning,25.2,0.8
+state,GA,heating,Space heating,11.9,0.7
+state,GA,water,Water heating,14.6,0.8
+state,GA,fridge,Fridges and freezers,8.6,0.3
+state,GA,lighting,Lighting,6.4,0.3
+state,GA,tv,TVs and devices with them,5.7,0.2
+state,GA,laundry,Washer and dryer,5.0,0.2
+state,GA,cooking,Cooking and microwave,2.5,0.1
+state,GA,dish,Dishwasher,0.7,0.0
+state,GA,fans,"Fans, dehumidifiers, humidifiers",3.3,0.2
+state,GA,pool,Pool and hot tub,2.0,0.3
+state,GA,other,Everything else,13.9,0.7
+state,HI,cooling,Air conditioning,19.8,1.6
+state,HI,water,Water heating,19.3,1.1
+state,HI,fridge,Fridges and freezers,14.0,0.6
+state,HI,lighting,Lighting,5.5,0.6
+state,HI,tv,TVs and devices with them,6.9,0.3
+state,HI,laundry,Washer and dryer,5.4,0.5
+state,HI,cooking,Cooking and microwave,3.8,0.2
+state,HI,dish,Dishwasher,0.4,0.0
+state,HI,fans,"Fans, dehumidifiers, humidifiers",3.0,0.4
+state,HI,pool,Pool and hot tub,1.7,0.4
+state,HI,other,Everything else,19.6,1.6
+state,IA,cooling,Air conditioning,16.2,0.6
+state,IA,heating,Space heating,17.6,1.5
+state,IA,water,Water heating,8.2,0.9
+state,IA,fridge,Fridges and freezers,12.0,0.5
+state,IA,lighting,Lighting,6.0,0.4
+state,IA,tv,TVs and devices with them,6.6,0.2
+state,IA,laundry,Washer and dryer,5.8,0.4
+state,IA,cooking,Cooking and microwave,3.0,0.2
+state,IA,dish,Dishwasher,0.8,0.0
+state,IA,fans,"Fans, dehumidifiers, humidifiers",5.0,0.4
+state,IA,pool,Pool and hot tub,1.4,0.4
+state,IA,other,Everything else,17.3,1.1
+state,ID,cooling,Air conditioning,11.2,0.6
+state,ID,heating,Space heating,17.2,1.4
+state,ID,water,Water heating,16.0,1.6
+state,ID,fridge,Fridges and freezers,10.8,0.4
+state,ID,lighting,Lighting,6.3,0.5
+state,ID,tv,TVs and devices with them,5.2,0.3
+state,ID,laundry,Washer and dryer,7.2,0.4
+state,ID,cooking,Cooking and microwave,3.3,0.2
+state,ID,dish,Dishwasher,1.0,0.1
+state,ID,fans,"Fans, dehumidifiers, humidifiers",1.2,0.1
+state,ID,pool,Pool and hot tub,2.6,0.6
+state,ID,other,Everything else,17.3,1.2
+state,IL,cooling,Air conditioning,19.8,0.5
+state,IL,heating,Space heating,14.7,1.0
+state,IL,water,Water heating,6.9,0.6
+state,IL,fridge,Fridges and freezers,11.9,0.3
+state,IL,lighting,Lighting,7.6,0.4
+state,IL,tv,TVs and devices with them,7.2,0.3
+state,IL,laundry,Washer and dryer,3.4,0.2
+state,IL,cooking,Cooking and microwave,2.6,0.1
+state,IL,dish,Dishwasher,1.0,0.0
+state,IL,fans,"Fans, dehumidifiers, humidifiers",4.7,0.3
+state,IL,pool,Pool and hot tub,1.5,0.4
+state,IL,other,Everything else,18.5,0.7
+state,IN,cooling,Air conditioning,17.1,0.6
+state,IN,heating,Space heating,20.5,1.1
+state,IN,water,Water heating,12.1,0.9
+state,IN,fridge,Fridges and freezers,10.3,0.3
+state,IN,lighting,Lighting,5.7,0.3
+state,IN,tv,TVs and devices with them,5.8,0.2
+state,IN,laundry,Washer and dryer,5.3,0.3
+state,IN,cooking,Cooking and microwave,2.6,0.1
+state,IN,dish,Dishwasher,0.7,0.0
+state,IN,fans,"Fans, dehumidifiers, humidifiers",3.8,0.3
+state,IN,pool,Pool and hot tub,2.2,0.4
+state,IN,other,Everything else,14.0,0.7
+state,KS,cooling,Air conditioning,25.9,1.1
+state,KS,heating,Space heating,12.2,1.3
+state,KS,water,Water heating,8.3,1.3
+state,KS,fridge,Fridges and freezers,10.7,0.5
+state,KS,lighting,Lighting,7.1,0.6
+state,KS,tv,TVs and devices with them,5.8,0.3
+state,KS,laundry,Washer and dryer,6.1,0.5
+state,KS,cooking,Cooking and microwave,3.2,0.2
+state,KS,dish,Dishwasher,0.8,0.1
+state,KS,fans,"Fans, dehumidifiers, humidifiers",3.3,0.3
+state,KS,other,Everything else,15.5,1.0
+state,KY,cooling,Air conditioning,19.0,0.5
+state,KY,heating,Space heating,21.2,0.9
+state,KY,water,Water heating,14.6,0.7
+state,KY,fridge,Fridges and freezers,8.1,0.3
+state,KY,lighting,Lighting,5.3,0.3
+state,KY,tv,TVs and devices with them,4.8,0.1
+state,KY,laundry,Washer and dryer,5.6,0.2
+state,KY,cooking,Cooking and microwave,2.8,0.1
+state,KY,dish,Dishwasher,0.6,0.0
+state,KY,fans,"Fans, dehumidifiers, humidifiers",2.7,0.2
+state,KY,pool,Pool and hot tub,2.2,0.3
+state,KY,other,Everything else,12.9,0.6
+state,LA,cooling,Air conditioning,32.5,1.3
+state,LA,heating,Space heating,10.1,0.7
+state,LA,water,Water heating,12.5,0.9
+state,LA,fridge,Fridges and freezers,8.4,0.3
+state,LA,lighting,Lighting,6.3,0.4
+state,LA,tv,TVs and devices with them,5.4,0.2
+state,LA,laundry,Washer and dryer,4.9,0.2
+state,LA,cooking,Cooking and microwave,2.2,0.1
+state,LA,dish,Dishwasher,0.5,0.0
+state,LA,fans,"Fans, dehumidifiers, humidifiers",3.2,0.4
+state,LA,pool,Pool and hot tub,1.5,0.3
+state,LA,other,Everything else,12.6,0.8
+state,MA,cooling,Air conditioning,16.1,0.6
+state,MA,heating,Space heating,13.3,1.0
+state,MA,water,Water heating,8.6,0.7
+state,MA,fridge,Fridges and freezers,11.2,0.3
+state,MA,lighting,Lighting,7.3,0.4
+state,MA,tv,TVs and devices with them,7.3,0.2
+state,MA,laundry,Washer and dryer,5.8,0.2
+state,MA,cooking,Cooking and microwave,3.9,0.1
+state,MA,dish,Dishwasher,1.2,0.1
+state,MA,fans,"Fans, dehumidifiers, humidifiers",4.4,0.2
+state,MA,pool,Pool and hot tub,2.0,0.3
+state,MA,other,Everything else,18.8,0.7
+state,MD,cooling,Air conditioning,18.0,0.7
+state,MD,heating,Space heating,19.6,1.2
+state,MD,water,Water heating,13.8,0.7
+state,MD,fridge,Fridges and freezers,9.1,0.3
+state,MD,lighting,Lighting,5.8,0.4
+state,MD,tv,TVs and devices with them,5.9,0.2
+state,MD,laundry,Washer and dryer,4.3,0.2
+state,MD,cooking,Cooking and microwave,2.7,0.1
+state,MD,dish,Dishwasher,0.8,0.0
+state,MD,fans,"Fans, dehumidifiers, humidifiers",4.0,0.3
+state,MD,pool,Pool and hot tub,1.5,0.3
+state,MD,other,Everything else,14.3,0.8
+state,ME,cooling,Air conditioning,7.8,0.7
+state,ME,heating,Space heating,10.6,1.1
+state,ME,water,Water heating,11.1,1.3
+state,ME,fridge,Fridges and freezers,11.9,0.4
+state,ME,lighting,Lighting,7.1,0.5
+state,ME,tv,TVs and devices with them,7.1,0.3
+state,ME,laundry,Washer and dryer,7.8,0.4
+state,ME,cooking,Cooking and microwave,5.0,0.3
+state,ME,dish,Dishwasher,1.0,0.1
+state,ME,fans,"Fans, dehumidifiers, humidifiers",4.6,0.5
+state,ME,pool,Pool and hot tub,3.8,0.7
+state,ME,other,Everything else,21.8,1.6
+state,MI,cooling,Air conditioning,14.9,0.7
+state,MI,heating,Space heating,14.7,1.3
+state,MI,water,Water heating,7.9,1.0
+state,MI,fridge,Fridges and freezers,12.2,0.4
+state,MI,lighting,Lighting,7.1,0.6
+state,MI,tv,TVs and devices with them,7.0,0.3
+state,MI,laundry,Washer and dryer,4.0,0.3
+state,MI,cooking,Cooking and microwave,2.9,0.1
+state,MI,dish,Dishwasher,0.9,0.1
+state,MI,fans,"Fans, dehumidifiers, humidifiers",6.2,0.4
+state,MI,pool,Pool and hot tub,2.4,0.6
+state,MI,other,Everything else,19.6,1.1
+state,MN,cooling,Air conditioning,12.1,0.5
+state,MN,heating,Space heating,17.1,1.6
+state,MN,water,Water heating,12.2,1.1
+state,MN,fridge,Fridges and freezers,12.2,0.5
+state,MN,lighting,Lighting,7.3,0.6
+state,MN,tv,TVs and devices with them,5.8,0.3
+state,MN,laundry,Washer and dryer,5.6,0.4
+state,MN,cooking,Cooking and microwave,3.6,0.1
+state,MN,dish,Dishwasher,1.0,0.1
+state,MN,fans,"Fans, dehumidifiers, humidifiers",4.8,0.4
+state,MN,pool,Pool and hot tub,1.3,0.4
+state,MN,other,Everything else,16.1,1.0
+state,MO,cooling,Air conditioning,21.8,0.8
+state,MO,heating,Space heating,18.6,1.2
+state,MO,water,Water heating,11.1,0.9
+state,MO,fridge,Fridges and freezers,10.0,0.4
+state,MO,lighting,Lighting,6.2,0.5
+state,MO,tv,TVs and devices with them,5.0,0.2
+state,MO,laundry,Washer and dryer,5.3,0.3
+state,MO,cooking,Cooking and microwave,2.9,0.1
+state,MO,dish,Dishwasher,0.6,0.0
+state,MO,fans,"Fans, dehumidifiers, humidifiers",3.0,0.3
+state,MO,pool,Pool and hot tub,1.2,0.3
+state,MO,other,Everything else,14.1,1.0
+state,MS,cooling,Air conditioning,28.3,1.2
+state,MS,heating,Space heating,15.7,1.3
+state,MS,water,Water heating,13.4,1.0
+state,MS,fridge,Fridges and freezers,8.8,0.5
+state,MS,lighting,Lighting,5.3,0.4
+state,MS,tv,TVs and devices with them,5.3,0.3
+state,MS,laundry,Washer and dryer,4.9,0.3
+state,MS,cooking,Cooking and microwave,2.6,0.2
+state,MS,dish,Dishwasher,0.6,0.1
+state,MS,fans,"Fans, dehumidifiers, humidifiers",2.5,0.3
+state,MS,pool,Pool and hot tub,0.9,0.3
+state,MS,other,Everything else,11.8,1.0
+state,MT,cooling,Air conditioning,6.9,0.7
+state,MT,heating,Space heating,22.4,1.9
+state,MT,water,Water heating,13.1,1.7
+state,MT,fridge,Fridges and freezers,11.9,0.6
+state,MT,lighting,Lighting,7.3,0.6
+state,MT,tv,TVs and devices with them,5.3,0.3
+state,MT,laundry,Washer and dryer,7.5,0.5
+state,MT,cooking,Cooking and microwave,3.7,0.3
+state,MT,dish,Dishwasher,1.1,0.1
+state,MT,fans,"Fans, dehumidifiers, humidifiers",1.7,0.3
+state,MT,other,Everything else,16.8,1.4
+state,NC,cooling,Air conditioning,21.0,0.6
+state,NC,heating,Space heating,17.4,0.7
+state,NC,water,Water heating,17.4,0.6
+state,NC,fridge,Fridges and freezers,8.3,0.2
+state,NC,lighting,Lighting,5.4,0.3
+state,NC,tv,TVs and devices with them,4.9,0.2
+state,NC,laundry,Washer and dryer,5.4,0.2
+state,NC,cooking,Cooking and microwave,3.1,0.1
+state,NC,dish,Dishwasher,0.6,0.0
+state,NC,fans,"Fans, dehumidifiers, humidifiers",3.6,0.3
+state,NC,pool,Pool and hot tub,0.9,0.2
+state,NC,other,Everything else,11.9,0.5
+state,ND,cooling,Air conditioning,7.7,0.4
+state,ND,heating,Space heating,27.1,1.7
+state,ND,water,Water heating,15.5,1.0
+state,ND,fridge,Fridges and freezers,10.6,0.3
+state,ND,lighting,Lighting,6.1,0.4
+state,ND,tv,TVs and devices with them,5.3,0.2
+state,ND,laundry,Washer and dryer,5.3,0.3
+state,ND,cooking,Cooking and microwave,3.1,0.1
+state,ND,dish,Dishwasher,0.7,0.1
+state,ND,fans,"Fans, dehumidifiers, humidifiers",3.8,0.3
+state,ND,pool,Pool and hot tub,1.1,0.3
+state,ND,other,Everything else,13.6,1.2
+state,NE,cooling,Air conditioning,17.3,0.8
+state,NE,heating,Space heating,21.0,1.6
+state,NE,water,Water heating,7.8,0.9
+state,NE,fridge,Fridges and freezers,11.8,0.6
+state,NE,lighting,Lighting,6.1,0.4
+state,NE,tv,TVs and devices with them,5.5,0.3
+state,NE,laundry,Washer and dryer,6.6,0.4
+state,NE,cooking,Cooking and microwave,3.2,0.2
+state,NE,dish,Dishwasher,0.8,0.1
+state,NE,fans,"Fans, dehumidifiers, humidifiers",4.0,0.3
+state,NE,other,Everything else,15.0,1.0
+state,NH,cooling,Air conditioning,11.5,0.9
+state,NH,heating,Space heating,7.9,0.9
+state,NH,water,Water heating,12.2,1.3
+state,NH,fridge,Fridges and freezers,12.5,0.6
+state,NH,lighting,Lighting,7.0,0.6
+state,NH,tv,TVs and devices with them,7.5,0.4
+state,NH,laundry,Washer and dryer,7.7,0.6
+state,NH,cooking,Cooking and microwave,4.2,0.3
+state,NH,dish,Dishwasher,1.1,0.1
+state,NH,fans,"Fans, dehumidifiers, humidifiers",4.0,0.5
+state,NH,pool,Pool and hot tub,2.5,0.7
+state,NH,other,Everything else,21.3,2.0
+state,NJ,cooling,Air conditioning,23.4,0.7
+state,NJ,heating,Space heating,9.0,0.8
+state,NJ,water,Water heating,7.0,0.7
+state,NJ,fridge,Fridges and freezers,11.3,0.3
+state,NJ,lighting,Lighting,7.9,0.5
+state,NJ,tv,TVs and devices with them,7.3,0.3
+state,NJ,laundry,Washer and dryer,3.2,0.2
+state,NJ,cooking,Cooking and microwave,2.2,0.1
+state,NJ,dish,Dishwasher,0.9,0.0
+state,NJ,fans,"Fans, dehumidifiers, humidifiers",5.0,0.5
+state,NJ,pool,Pool and hot tub,2.7,0.4
+state,NJ,other,Everything else,19.8,0.8
+state,NM,cooling,Air conditioning,20.6,1.1
+state,NM,heating,Space heating,10.6,1.5
+state,NM,water,Water heating,5.4,1.0
+state,NM,fridge,Fridges and freezers,12.4,0.7
+state,NM,lighting,Lighting,5.8,0.5
+state,NM,tv,TVs and devices with them,6.3,0.4
+state,NM,laundry,Washer and dryer,6.8,0.6
+state,NM,cooking,Cooking and microwave,3.6,0.3
+state,NM,dish,Dishwasher,1.0,0.1
+state,NM,fans,"Fans, dehumidifiers, humidifiers",2.7,0.3
+state,NM,other,Everything else,22.0,2.1
+state,NV,cooling,Air conditioning,35.7,1.5
+state,NV,heating,Space heating,5.6,0.8
+state,NV,water,Water heating,5.6,1.0
+state,NV,fridge,Fridges and freezers,9.4,0.4
+state,NV,lighting,Lighting,6.3,0.4
+state,NV,tv,TVs and devices with them,6.3,0.3
+state,NV,laundry,Washer and dryer,3.9,0.4
+state,NV,cooking,Cooking and microwave,2.1,0.2
+state,NV,dish,Dishwasher,0.7,0.1
+state,NV,fans,"Fans, dehumidifiers, humidifiers",2.1,0.2
+state,NV,pool,Pool and hot tub,3.3,0.6
+state,NV,other,Everything else,18.3,1.2
+state,NY,cooling,Air conditioning,19.6,0.5
+state,NY,heating,Space heating,10.4,0.6
+state,NY,water,Water heating,8.2,0.5
+state,NY,fridge,Fridges and freezers,12.1,0.3
+state,NY,lighting,Lighting,8.6,0.4
+state,NY,tv,TVs and devices with them,7.9,0.2
+state,NY,laundry,Washer and dryer,3.6,0.2
+state,NY,cooking,Cooking and microwave,2.8,0.1
+state,NY,dish,Dishwasher,0.9,0.1
+state,NY,fans,"Fans, dehumidifiers, humidifiers",4.0,0.2
+state,NY,pool,Pool and hot tub,1.8,0.2
+state,NY,other,Everything else,20.2,0.7
+state,OH,cooling,Air conditioning,16.1,0.6
+state,OH,heating,Space heating,18.9,1.4
+state,OH,water,Water heating,10.4,0.9
+state,OH,fridge,Fridges and freezers,10.0,0.4
+state,OH,lighting,Lighting,6.2,0.3
+state,OH,tv,TVs and devices with them,6.4,0.4
+state,OH,laundry,Washer and dryer,5.3,0.3
+state,OH,cooking,Cooking and microwave,2.9,0.1
+state,OH,dish,Dishwasher,0.7,0.0
+state,OH,fans,"Fans, dehumidifiers, humidifiers",5.2,0.4
+state,OH,pool,Pool and hot tub,2.0,0.4
+state,OH,other,Everything else,15.9,0.9
+state,OK,cooling,Air conditioning,26.1,0.9
+state,OK,heating,Space heating,17.5,1.7
+state,OK,water,Water heating,9.4,0.9
+state,OK,fridge,Fridges and freezers,8.6,0.4
+state,OK,lighting,Lighting,6.0,0.5
+state,OK,tv,TVs and devices with them,5.1,0.2
+state,OK,laundry,Washer and dryer,5.5,0.4
+state,OK,cooking,Cooking and microwave,2.5,0.2
+state,OK,dish,Dishwasher,0.7,0.1
+state,OK,fans,"Fans, dehumidifiers, humidifiers",2.9,0.2
+state,OK,pool,Pool and hot tub,2.2,0.6
+state,OK,other,Everything else,12.5,0.9
+state,OR,cooling,Air conditioning,8.0,0.4
+state,OR,heating,Space heating,19.6,1.3
+state,OR,water,Water heating,21.3,1.0
+state,OR,fridge,Fridges and freezers,9.9,0.3
+state,OR,lighting,Lighting,6.9,0.4
+state,OR,tv,TVs and devices with them,4.8,0.3
+state,OR,laundry,Washer and dryer,5.7,0.3
+state,OR,cooking,Cooking and microwave,3.3,0.1
+state,OR,dish,Dishwasher,0.9,0.1
+state,OR,fans,"Fans, dehumidifiers, humidifiers",1.7,0.2
+state,OR,pool,Pool and hot tub,2.2,0.4
+state,OR,other,Everything else,14.9,0.8
+state,PA,cooling,Air conditioning,15.6,0.5
+state,PA,heating,Space heating,18.1,1.3
+state,PA,water,Water heating,13.0,0.7
+state,PA,fridge,Fridges and freezers,10.3,0.3
+state,PA,lighting,Lighting,6.3,0.3
+state,PA,tv,TVs and devices with them,6.6,0.2
+state,PA,laundry,Washer and dryer,4.7,0.2
+state,PA,cooking,Cooking and microwave,3.0,0.1
+state,PA,dish,Dishwasher,0.7,0.0
+state,PA,fans,"Fans, dehumidifiers, humidifiers",4.8,0.3
+state,PA,pool,Pool and hot tub,2.2,0.3
+state,PA,other,Everything else,14.7,0.7
+state,RI,cooling,Air conditioning,16.1,1.0
+state,RI,heating,Space heating,9.5,1.2
+state,RI,water,Water heating,7.6,1.2
+state,RI,fridge,Fridges and freezers,12.4,0.7
+state,RI,lighting,Lighting,7.4,0.6
+state,RI,tv,TVs and devices with them,7.7,0.4
+state,RI,laundry,Washer and dryer,7.0,0.5
+state,RI,cooking,Cooking and microwave,4.3,0.3
+state,RI,dish,Dishwasher,1.2,0.1
+state,RI,fans,"Fans, dehumidifiers, humidifiers",5.5,0.6
+state,RI,pool,Pool and hot tub,2.1,0.5
+state,RI,other,Everything else,19.0,1.4
+state,SC,cooling,Air conditioning,25.0,0.6
+state,SC,heating,Space heating,15.3,0.8
+state,SC,water,Water heating,16.8,0.7
+state,SC,fridge,Fridges and freezers,8.0,0.3
+state,SC,lighting,Lighting,4.9,0.3
+state,SC,tv,TVs and devices with them,4.6,0.2
+state,SC,laundry,Washer and dryer,5.2,0.2
+state,SC,cooking,Cooking and microwave,2.6,0.1
+state,SC,dish,Dishwasher,0.7,0.0
+state,SC,fans,"Fans, dehumidifiers, humidifiers",3.0,0.2
+state,SC,pool,Pool and hot tub,1.4,0.4
+state,SC,other,Everything else,12.6,1.0
+state,SD,cooling,Air conditioning,13.2,0.8
+state,SD,heating,Space heating,19.8,1.8
+state,SD,water,Water heating,13.4,1.3
+state,SD,fridge,Fridges and freezers,11.7,0.5
+state,SD,lighting,Lighting,6.2,0.5
+state,SD,tv,TVs and devices with them,5.5,0.3
+state,SD,laundry,Washer and dryer,5.5,0.3
+state,SD,cooking,Cooking and microwave,3.8,0.2
+state,SD,dish,Dishwasher,0.8,0.1
+state,SD,fans,"Fans, dehumidifiers, humidifiers",3.5,0.4
+state,SD,other,Everything else,15.0,1.1
+state,TN,cooling,Air conditioning,19.8,0.6
+state,TN,heating,Space heating,19.4,0.9
+state,TN,water,Water heating,16.6,0.6
+state,TN,fridge,Fridges and freezers,7.7,0.2
+state,TN,lighting,Lighting,5.7,0.3
+state,TN,tv,TVs and devices with them,4.5,0.2
+state,TN,laundry,Washer and dryer,5.1,0.2
+state,TN,cooking,Cooking and microwave,2.8,0.1
+state,TN,dish,Dishwasher,0.5,0.0
+state,TN,fans,"Fans, dehumidifiers, humidifiers",3.0,0.2
+state,TN,pool,Pool and hot tub,1.7,0.3
+state,TN,other,Everything else,13.2,1.3
+state,TX,cooling,Air conditioning,32.8,0.6
+state,TX,heating,Space heating,11.0,0.5
+state,TX,water,Water heating,10.8,0.4
+state,TX,fridge,Fridges and freezers,8.2,0.2
+state,TX,lighting,Lighting,6.0,0.2
+state,TX,tv,TVs and devices with them,5.2,0.1
+state,TX,laundry,Washer and dryer,4.4,0.1
+state,TX,cooking,Cooking and microwave,2.3,0.1
+state,TX,dish,Dishwasher,0.5,0.0
+state,TX,fans,"Fans, dehumidifiers, humidifiers",2.9,0.1
+state,TX,pool,Pool and hot tub,1.8,0.2
+state,TX,other,Everything else,13.8,0.5
+state,UT,cooling,Air conditioning,21.4,1.1
+state,UT,heating,Space heating,9.6,1.1
+state,UT,water,Water heating,4.7,1.1
+state,UT,fridge,Fridges and freezers,12.7,0.5
+state,UT,lighting,Lighting,8.0,0.7
+state,UT,tv,TVs and devices with them,6.6,0.4
+state,UT,laundry,Washer and dryer,6.6,0.6
+state,UT,cooking,Cooking and microwave,3.7,0.2
+state,UT,dish,Dishwasher,1.3,0.1
+state,UT,fans,"Fans, dehumidifiers, humidifiers",2.1,0.3
+state,UT,other,Everything else,20.4,1.3
+state,VA,cooling,Air conditioning,19.0,0.6
+state,VA,heating,Space heating,15.4,0.8
+state,VA,water,Water heating,15.6,0.9
+state,VA,fridge,Fridges and freezers,8.4,0.3
+state,VA,lighting,Lighting,5.9,0.3
+state,VA,tv,TVs and devices with them,4.8,0.2
+state,VA,laundry,Washer and dryer,4.7,0.2
+state,VA,cooking,Cooking and microwave,2.6,0.1
+state,VA,dish,Dishwasher,0.7,0.0
+state,VA,fans,"Fans, dehumidifiers, humidifiers",3.2,0.2
+state,VA,pool,Pool and hot tub,1.2,0.3
+state,VA,other,Everything else,18.3,1.1
+state,VT,cooling,Air conditioning,7.3,0.5
+state,VT,heating,Space heating,10.5,1.0
+state,VT,water,Water heating,14.0,1.5
+state,VT,fridge,Fridges and freezers,14.2,0.5
+state,VT,lighting,Lighting,6.8,0.5
+state,VT,tv,TVs and devices with them,6.4,0.3
+state,VT,laundry,Washer and dryer,7.8,0.6
+state,VT,cooking,Cooking and microwave,4.4,0.2
+state,VT,dish,Dishwasher,1.1,0.1
+state,VT,fans,"Fans, dehumidifiers, humidifiers",4.4,0.5
+state,VT,pool,Pool and hot tub,2.4,0.5
+state,VT,other,Everything else,20.3,1.4
+state,WA,cooling,Air conditioning,4.6,0.3
+state,WA,heating,Space heating,26.5,1.3
+state,WA,water,Water heating,18.5,0.7
+state,WA,fridge,Fridges and freezers,9.0,0.3
+state,WA,lighting,Lighting,6.8,0.4
+state,WA,tv,TVs and devices with them,4.9,0.2
+state,WA,laundry,Washer and dryer,5.3,0.3
+state,WA,cooking,Cooking and microwave,3.2,0.1
+state,WA,dish,Dishwasher,1.0,0.1
+state,WA,fans,"Fans, dehumidifiers, humidifiers",1.0,0.2
+state,WA,pool,Pool and hot tub,1.8,0.4
+state,WA,other,Everything else,17.0,1.0
+state,WI,cooling,Air conditioning,12.3,0.5
+state,WI,heating,Space heating,14.6,1.4
+state,WI,water,Water heating,11.5,1.0
+state,WI,fridge,Fridges and freezers,13.0,0.4
+state,WI,lighting,Lighting,6.8,0.4
+state,WI,tv,TVs and devices with them,7.1,0.3
+state,WI,laundry,Washer and dryer,5.8,0.4
+state,WI,cooking,Cooking and microwave,3.4,0.1
+state,WI,dish,Dishwasher,0.9,0.1
+state,WI,fans,"Fans, dehumidifiers, humidifiers",6.4,0.4
+state,WI,pool,Pool and hot tub,1.7,0.5
+state,WI,other,Everything else,16.4,0.9
+state,WV,cooling,Air conditioning,13.2,1.0
+state,WV,heating,Space heating,27.5,1.6
+state,WV,water,Water heating,18.0,1.1
+state,WV,fridge,Fridges and freezers,7.7,0.5
+state,WV,lighting,Lighting,4.5,0.4
+state,WV,tv,TVs and devices with them,4.5,0.3
+state,WV,laundry,Washer and dryer,4.9,0.3
+state,WV,cooking,Cooking and microwave,2.7,0.2
+state,WV,dish,Dishwasher,0.5,0.1
+state,WV,fans,"Fans, dehumidifiers, humidifiers",3.7,0.3
+state,WV,pool,Pool and hot tub,1.4,0.3
+state,WV,other,Everything else,11.2,1.1
+state,WY,cooling,Air conditioning,8.8,0.6
+state,WY,heating,Space heating,22.7,2.1
+state,WY,water,Water heating,10.5,1.6
+state,WY,fridge,Fridges and freezers,12.9,0.6
+state,WY,lighting,Lighting,6.1,0.6
+state,WY,tv,TVs and devices with them,5.7,0.4
+state,WY,laundry,Washer and dryer,7.1,0.6
+state,WY,cooking,Cooking and microwave,3.8,0.2
+state,WY,dish,Dishwasher,0.9,0.1
+state,WY,fans,"Fans, dehumidifiers, humidifiers",2.1,0.4
+state,WY,other,Everything else,17.7,1.7

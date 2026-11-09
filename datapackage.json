@@ -1,0 +1,183 @@
+{
+ "name": "us-average-electric-bill",
+ "title": "Average Electric Bill by State, Home Type and End Use (US, monthly since 2010)",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "homepage": "https://greencalculus.com/data/average-electric-bill-by-state/",
+ "version": "2026.11.09",
+ "sources": [
+  {
+   "title": "EIA-861M Sales and revenue (monthly, states)",
+   "path": "https://www.eia.gov/electricity/data/eia861m/"
+  },
+  {
+   "title": "EIA Residential Energy Consumption Survey 2020, public microdata",
+   "path": "https://www.eia.gov/consumption/residential/data/2020/index.php?view=microdata"
+  }
+ ],
+ "resources": [
+  {
+   "path": "average-electric-bill-by-state.csv",
+   "description": "Average monthly electric bill per home by state over the latest 12 months, with kWh, price, highest and lowest month, change on a year and the change since 2010 split into price and use."
+  },
+  {
+   "path": "average-electric-bill-by-home.csv",
+   "description": "Typical monthly bill by type of home, bedrooms, house size, people, main heating fuel and tenure, for the US and every state: the state bill times the RECS 2020 ratio for its census division, with the survey error."
+  },
+  {
+   "path": "monthly-electric-bill-by-state.csv",
+   "description": "Every month since January 2010: average bill per residential customer, kWh and price, US and every state (EIA-861M).",
+   "schema": {
+    "fields": [
+     {
+      "name": "state",
+      "type": "string",
+      "description": "Two-letter code, or US"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "State name"
+     },
+     {
+      "name": "month",
+      "type": "yearmonth",
+      "description": "YYYY-MM"
+     },
+     {
+      "name": "bill_usd_per_customer",
+      "type": "number",
+      "description": "Residential revenue / residential customers, US dollars of that month"
+     },
+     {
+      "name": "kwh_per_customer",
+      "type": "number",
+      "description": "Residential sales / residential customers"
+     },
+     {
+      "name": "price_cents_per_kwh",
+      "type": "number",
+      "description": "Residential revenue / residential sales"
+     },
+     {
+      "name": "status",
+      "type": "string",
+      "description": "preliminary for months of the newest year (EIA revises them and replaces them with the annual EIA-861 figures); final before that"
+     }
+    ]
+   }
+  },
+  {
+   "path": "electric-bill-end-uses.csv",
+   "description": "Share of the electricity bill by end use (RECS 2020), US, census divisions and states where the survey is precise enough.",
+   "schema": {
+    "fields": [
+     {
+      "name": "area_type",
+      "type": "string",
+      "description": "us, division (census division; Mountain split North and South as in RECS), or state"
+     },
+     {
+      "name": "area",
+      "type": "string",
+      "description": "US, division name or state code"
+     },
+     {
+      "name": "end_use",
+      "type": "string",
+      "description": "Key"
+     },
+     {
+      "name": "label",
+      "type": "string",
+      "description": "End use"
+     },
+     {
+      "name": "share_pct",
+      "type": "number",
+      "description": "Share of the electricity bill, %"
+     },
+     {
+      "name": "standard_error_pct",
+      "type": "number",
+      "description": "Jackknife standard error, percentage points"
+     }
+    ]
+   }
+  },
+  {
+   "path": "bill-spread-by-state.csv",
+   "description": "Percentiles of the household bill within each state (RECS 2020) as a ratio to the state mean.",
+   "schema": {
+    "fields": [
+     {
+      "name": "state",
+      "type": "string",
+      "description": "Two-letter code"
+     },
+     {
+      "name": "percentile",
+      "type": "integer",
+      "description": "5 to 95"
+     },
+     {
+      "name": "ratio_to_state_mean_bill",
+      "type": "number",
+      "description": "Bill at that percentile / state mean bill"
+     },
+     {
+      "name": "homes_surveyed",
+      "type": "integer",
+      "description": "RECS 2020 sample size in the state"
+     }
+    ]
+   }
+  },
+  {
+   "path": "survey-vs-utilities-2020.csv",
+   "description": "RECS 2020 average annual bill against the EIA-861M utility returns for 2020, by state.",
+   "schema": {
+    "fields": [
+     {
+      "name": "state",
+      "type": "string",
+      "description": "Two-letter code, or US"
+     },
+     {
+      "name": "recs_2020_annual_bill_usd",
+      "type": "number",
+      "description": "RECS 2020 weighted mean DOLLAREL"
+     },
+     {
+      "name": "eia_861m_2020_annual_bill_usd",
+      "type": "number",
+      "description": "Sum of 2020 monthly bills, EIA-861M"
+     },
+     {
+      "name": "difference_pct",
+      "type": "number",
+      "description": "RECS minus EIA, % of EIA"
+     },
+     {
+      "name": "recs_relative_standard_error_pct",
+      "type": "number",
+      "description": "RSE of the RECS mean"
+     },
+     {
+      "name": "homes_surveyed",
+      "type": "integer",
+      "description": "RECS sample size"
+     }
+    ]
+   }
+  },
+  {
+   "path": "source/recs-bill.json",
+   "description": "Every RECS 2020 ratio, share, spread and check used above, with standard errors and sample sizes."
+  }
+ ]
+}
